@@ -34,7 +34,7 @@ for (i in urls){
   
   print(message)
   
-  Sys.sleep(2)
+  Sys.sleep(1)
 }
 
 write_csv(matchstatstibble, matchstatsfilename)
