@@ -24,7 +24,7 @@ for (i in urls){
   
   teamside <- matches %>% filter(opponent_info != "Defensive Totals") %>% select(-opponent_info)
   
-  opponentside <- matches %>% filter(opponent_info == "Defensive Totals") %>% select(-opponent_info) %>% select(-home_away) %>% rename_with(.cols = 9:21, function(x){paste0("defensive_", x)})
+  opponentside <- matches %>% filter(opponent_info == "Defensive Totals") %>% select(-opponent_info) %>% select(-home_away) %>% rename_with(.cols = 8:21, function(x){paste0("defensive_", x)})
   
   joinedmatches <- inner_join(teamside, opponentside, by = c("date", "team", "opponent", "result", "team_score", "opponent_score", "s"))
   
