@@ -76,9 +76,9 @@ Alabama Crimson Tide,2022,22, Emily Janek,"Janek, Emily",Janek, Emily,Sr,OPP,6,1
 Alabama Crimson Tide,2022,11, Maddy McCormick,"McCormick, Maddy",McCormick, Maddy,So,OH,6,0,6,2,6,14,NA,27,13,70,0.2,0,0,3,2,0,0,1,0,NA,27.5,0,0
 Alabama Crimson Tide,2022,14, Taylor Drapp,"Drapp, Taylor",Drapp, Taylor,Sr,DS,5,9,5,0,5,16,NA,0,0,0,0,0,5,3,2,0,0,0,0,NA,5,0,0
 Alabama Crimson Tide,2022,10, Malia Moore,"Moore, Malia",Moore, Malia,So,S,5,8,1,0,1,1,NA,0,0,0,0,0,0,0,0,0,0,0,0,NA,0,0,0
-Alabama A&M Bulldogs,2022,6, Bailey Duckett,"Duckett, Bailey",Duckett, Bailey,Fr,OH,0,0,22,20,22,72,NA,180,122,638,0.091,15,16,13,125,29,1,22,2,NA,208,0,0
 Alabama A&M Bulldogs,2022,4, Caitlin Shaw,"Shaw, Caitlin",Shaw, Caitlin,Fr,OH,0,0,22,22,22,70,NA,155,103,486,0.107,6,10,11,73,17,5,18,5,NA,179,0,0
 Alabama A&M Bulldogs,2022,16, Kemora Coachman,"Coachman, Kemora",Coachman, Kemora,Fr,MB,0,0,22,21,22,71,NA,96,48,256,0.188,15,11,9,84,17,4,37,9,NA,129.5,0,0
+Alabama A&M Bulldogs,2022,6, Bailey Duckett,"Duckett, Bailey",Duckett, Bailey,Fr,OH,0,0,22,20,22,72,NA,180,122,638,0.091,15,16,13,125,29,1,22,2,NA,208,0,0
 Alabama A&M Bulldogs,2022,1, Tammy Melendez Mondragon,"Melendez Mondragon, Tammy",Melendez Mondragon, Tammy,Fr,L/DS,0,0,20,0,20,63,NA,1,2,13,-0.077,21,11,9,149,24,0,0,0,NA,12,0,0
 Alabama A&M Bulldogs,2022,5, Madison Reagins,"Reagins, Madison",Reagins, Madison,Fr,MB,0,0,19,16,19,58,NA,87,44,295,0.146,18,13,7,89,19,3,30,4,NA,118,5,0
 Alabama A&M Bulldogs,2022,32, Ryann Tolbert,"Tolbert, Ryann",Tolbert, Ryann,So,MH,6,0,18,14,18,47,NA,29,22,96,0.073,3,0,2,7,1,3,23,6,NA,43.5,1,0
@@ -87,15 +87,15 @@ Alabama A&M Bulldogs,2022,3, Miya Benson,"Benson, Miya",Benson, Miya,Fr,L/DS,0,0
 Alabama A&M Bulldogs,2022,2, Ra'Niya Brown,"Brown, Ra'Niya",Brown, Ra'Niya,Fr,MB,0,0,17,10,17,41,NA,27,18,90,0.1,3,2,9,14,1,2,24,2,NA,43,0,0
 Alabama A&M Bulldogs,2022,23, Layla Phillips,"Phillips, Layla",Phillips, Layla,Fr,OH,0,0,14,2,14,23,NA,7,5,28,0.071,2,1,4,15,6,0,1,0,NA,8.5,0,0
 Alabama A&M Bulldogs,2022,24, Ajanae Cressey,"Cressey, Ajanae",Cressey, Ajanae,So,MB,5,11,12,3,12,24,NA,17,18,72,-0.014,3,0,4,6,5,1,2,1,NA,19,1,0
-Alabama A&M Bulldogs,2022,12, Keyara Scott Johnson,"Scott Johnson, Keyara",Scott Johnson, Keyara,Fr,OH,0,0,9,1,9,16,NA,17,12,50,0.1,1,0,0,15,2,0,2,0,NA,18,0,0
-Alabama A&M Bulldogs,2022,19, Valeria Alegrias Cambindo,"Alegrias Cambindo, Valeria",Alegrias Cambindo, Valeria,Sr,OH,6,1,9,1,9,15,NA,7,5,26,0.077,1,2,1,20,2,0,4,1,NA,11,1,0
 Alabama A&M Bulldogs,2022,9, Kennedy Robinson,"Robinson, Kennedy",Robinson, Kennedy,Fr,L/DS,0,0,9,0,9,13,NA,2,0,2,1,1,0,3,8,10,0,0,0,NA,2,0,0
+Alabama A&M Bulldogs,2022,19, Valeria Alegrias Cambindo,"Alegrias Cambindo, Valeria",Alegrias Cambindo, Valeria,Sr,OH,6,1,9,1,9,15,NA,7,5,26,0.077,1,2,1,20,2,0,4,1,NA,11,1,0
+Alabama A&M Bulldogs,2022,12, Keyara Scott Johnson,"Scott Johnson, Keyara",Scott Johnson, Keyara,Fr,OH,0,0,9,1,9,16,NA,17,12,50,0.1,1,0,0,15,2,0,2,0,NA,18,0,0
 Alabama A&M Bulldogs,2022,11, Mackenzie Jarvis,"Jarvis, Mackenzie",Jarvis, Mackenzie,Fr,S,0,0,7,0,7,14,NA,0,2,4,-0.5,41,3,1,13,0,0,0,0,NA,3,2,0
 Alabama A&M Bulldogs,2022,34, Grace Tapscott,"Tapscott, Grace",Tapscott, Grace,Fr,S,0,0,7,6,7,27,NA,10,2,35,0.229,205,6,3,57,0,0,8,6,NA,20,1,0
 Alabama A&M Bulldogs,2022,20, M'Kenna Albert,"Albert, M'Kenna",Albert, M'Kenna,Jr,S,5,7,5,1,5,7,NA,0,0,0,0,7,0,1,3,0,0,0,0,NA,0,0,0
 Alabama A&M Bulldogs,2022,10, Samaurya Mahone,"Mahone, Samaurya",Mahone, Samaurya,So,MH,6,0,3,0,3,4,NA,0,0,1,0,0,0,0,0,0,0,0,0,NA,0,0,0
-Alabama A&M Bulldogs,2022,8, Amayah Jones,"Jones, Amayah",Jones, Amayah,Fr,OH,0,0,2,0,2,2,NA,0,0,0,0,0,0,0,0,0,0,0,0,NA,0,0,0
 Alabama A&M Bulldogs,2022,7, Nilea Richardson,"Richardson, Nilea",Richardson, Nilea,So,MB,0,0,2,0,2,3,NA,0,1,1,-1,0,0,0,0,0,0,0,0,NA,0,0,0
+Alabama A&M Bulldogs,2022,8, Amayah Jones,"Jones, Amayah",Jones, Amayah,Fr,OH,0,0,2,0,2,2,NA,0,0,0,0,0,0,0,0,0,0,0,0,NA,0,0,0
 Alabama St. Lady Hornets,2022,23, Temperance Chatman,"Chatman, Temperance",Chatman, Temperance,Jr,DS,5,1,22,0,22,76,NA,1,1,18,0,46,12,15,259,24,0,0,0,NA,13,4,0
 Alabama St. Lady Hornets,2022,3, Kalysia Bates,"Bates, Kalysia",Bates, Kalysia,Sr,MB,6,1,22,22,22,77,NA,193,76,419,0.279,8,23,30,46,0,20,49,5,NA,260.5,6,0
 Alabama St. Lady Hornets,2022,10, Emily Brooks,"Brooks, Emily",Brooks, Emily,Jr,S,5,9,21,11,21,68,NA,1,3,32,-0.062,287,18,17,94,0,0,1,0,NA,19.5,4,0
@@ -142,18 +142,18 @@ American Eagles,2022,11, Megan Tamisiea,"Tamisiea, Megan",Tamisiea, Megan,So,OH,
 American Eagles,2022,14, Allie Burke,"Burke, Allie",Burke, Allie,Jr,MB,6,2,11,8,11,33,NA,19,12,54,0.13,2,0,1,6,0,3,24,1,NA,34,0,0
 American Eagles,2022,4, Morgan Johnson,"Johnson, Morgan",Johnson, Morgan,Sr,OH,5,11,10,0,10,38,NA,1,1,2,0,1,6,8,19,1,0,0,0,NA,7,0,0
 American Eagles,2022,9, Lilou Stegeman,"Stegeman, Lilou",Stegeman, Lilou,So,MB,6,2,1,0,1,2,NA,0,0,1,0,0,0,0,0,0,0,0,0,NA,0,0,0
-App State Mountaineers,2022,2, Maya Winterhoff,"Winterhoff, Maya",Winterhoff, Maya,Fr,MB,6,2,18,18,18,75,NA,169,35,328,0.409,8,19,18,57,1,13,60,3,NA,231,0,0
 App State Mountaineers,2022,1, Lulu Ambrose,"Ambrose, Lulu",Ambrose, Lulu,So,OH,6,1,18,2,18,75,NA,171,77,515,0.183,2,6,4,49,17,2,18,0,NA,188,1,0
+App State Mountaineers,2022,2, Maya Winterhoff,"Winterhoff, Maya",Winterhoff, Maya,Fr,MB,6,2,18,18,18,75,NA,169,35,328,0.409,8,19,18,57,1,13,60,3,NA,231,0,0
 App State Mountaineers,2022,20, Sophie Cain,"Cain, Sophie",Cain, Sophie,Jr,S,5,10,18,11,18,75,NA,5,0,32,0.156,384,14,14,162,0,0,2,0,NA,20,9,0
-App State Mountaineers,2022,21, Madison Baldridge,"Baldridge, Madison",Baldridge, Madison,Jr,OH,5,10,18,13,18,74,NA,113,56,345,0.165,1,0,0,28,1,3,37,1,NA,134.5,0,0
 App State Mountaineers,2022,5, McCall Denny,"Denny, McCall",Denny, McCall,Sr,OH,5,9,18,18,18,75,NA,208,76,686,0.192,11,20,18,163,16,6,24,1,NA,246,1,0
+App State Mountaineers,2022,21, Madison Baldridge,"Baldridge, Madison",Baldridge, Madison,Jr,OH,5,10,18,13,18,74,NA,113,56,345,0.165,1,0,0,28,1,3,37,1,NA,134.5,0,0
 App State Mountaineers,2022,17, Sam Bickley,"Bickley, Sam",Bickley, Sam,Sr,S,6,0,18,7,18,75,NA,4,0,36,0.111,348,18,22,111,0,0,3,1,NA,23.5,0,0
-App State Mountaineers,2022,8, Cierra Huntley,"Huntley, Cierra",Huntley, Cierra,Jr,OH,5,10,17,14,17,62,NA,30,11,102,0.186,3,13,18,135,9,0,5,0,NA,45.5,0,0
 App State Mountaineers,2022,15, Kenady Roper,"Roper, Kenady",Roper, Kenady,Fr,L/DS,5,8,17,2,17,68,NA,6,3,28,0.107,44,15,12,232,16,0,0,0,NA,21,0,0
+App State Mountaineers,2022,8, Cierra Huntley,"Huntley, Cierra",Huntley, Cierra,Jr,OH,5,10,17,14,17,62,NA,30,11,102,0.186,3,13,18,135,9,0,5,0,NA,45.5,0,0
 App State Mountaineers,2022,3, Meghan Dombrowski,"Dombrowski, Meghan",Dombrowski, Meghan,Jr,RS,6,2,16,5,16,63,NA,61,38,190,0.121,0,0,0,28,0,0,36,2,NA,79,1,0
 App State Mountaineers,2022,7, Sarah Missroon,"Missroon, Sarah",Missroon, Sarah,Sr,MB,6,2,12,12,12,48,NA,60,21,136,0.287,0,0,0,8,0,12,42,1,NA,93,0,0
-App State Mountaineers,2022,6, Lauren Pledger,"Pledger, Lauren",Pledger, Lauren,So,MB,6,1,7,6,7,25,NA,46,10,90,0.4,1,0,0,12,0,0,15,0,NA,53.5,0,0
 App State Mountaineers,2022,10, Alyssa McBean,"McBean, Alyssa",McBean, Alyssa,Fr,L/DS,5,6,7,0,7,23,NA,1,0,7,0.143,18,11,16,74,5,0,0,0,NA,12,0,0
+App State Mountaineers,2022,6, Lauren Pledger,"Pledger, Lauren",Pledger, Lauren,So,MB,6,1,7,6,7,25,NA,46,10,90,0.4,1,0,0,12,0,0,15,0,NA,53.5,0,0
 App State Mountaineers,2022,13, Alexis Hardison,"Hardison, Alexis",Hardison, Alexis,So,L/DS,5,8,6,0,6,7,NA,0,0,0,0,1,0,7,6,1,0,0,0,NA,0,0,0
 App State Mountaineers,2022,16, Lily Harvey,"Harvey, Lily",Harvey, Lily,So,MB,6,5,5,0,5,7,NA,6,6,16,0,0,0,0,0,0,0,4,1,NA,8,0,0
 App State Mountaineers,2022,14, Alec Quinn,"Quinn, Alec",Quinn, Alec,Jr,L/DS,5,2,3,0,3,3,NA,0,0,0,0,0,0,0,0,0,0,0,0,NA,0,0,0
@@ -176,15 +176,15 @@ Arizona Wildcats,2022,22, Nicole Briggs,"Briggs, Nicole",Briggs, Nicole,So,MB,6,
 Arizona Wildcats,2022,17, China Rai Crouch,"Crouch, China Rai",Crouch, China Rai,So,MB,6,6,2,0,2,3,NA,0,0,0,0,0,0,0,0,0,0,0,0,NA,0,0,0
 Arizona Wildcats,2022,12, Joy Galles,"Galles, Joy",Galles, Joy,Jr,L/DS,5,5,1,0,1,2,NA,0,0,0,0,0,0,0,0,0,0,0,0,NA,0,0,0
 Arizona St. Sun Devils,2022,3, Jaden Ravnsborg,"Ravnsborg, Jaden",Ravnsborg, Jaden,So,L,5,7,19,1,19,60,NA,1,0,5,0.2,40,4,6,177,6,0,0,0,NA,5,0,0
-Arizona St. Sun Devils,2022,5, Iman Isanovic,"Isanovic, Iman",Isanovic, Iman,Sr,OH,6,1,19,19,19,72,NA,239,89,699,0.215,16,20,38,142,46,8,25,1,NA,279.5,1,0
 Arizona St. Sun Devils,2022,23, Claire Jeter,"Jeter, Claire",Jeter, Claire,Jr,MB,6,3,19,19,19,69,NA,113,29,245,0.343,8,16,18,46,0,10,57,5,NA,167.5,1,0
-Arizona St. Sun Devils,2022,12, Geli Cyr,"Cyr, Geli",Cyr, Geli,So,OH,5,10,18,18,18,67,NA,149,73,475,0.16,21,10,12,127,10,3,9,3,NA,166.5,0,0
+Arizona St. Sun Devils,2022,5, Iman Isanovic,"Isanovic, Iman",Isanovic, Iman,Sr,OH,6,1,19,19,19,72,NA,239,89,699,0.215,16,20,38,142,46,8,25,1,NA,279.5,1,0
 Arizona St. Sun Devils,2022,4, Marta Levinska,"Levinska, Marta",Levinska, Marta,Jr,OH,6,2,18,18,18,68,NA,213,83,540,0.241,15,7,18,94,1,3,39,1,NA,242.5,3,0
+Arizona St. Sun Devils,2022,12, Geli Cyr,"Cyr, Geli",Cyr, Geli,So,OH,5,10,18,18,18,67,NA,149,73,475,0.16,21,10,12,127,10,3,9,3,NA,166.5,0,0
+Arizona St. Sun Devils,2022,20, Andi Kreiling,"Kreiling, Andi",Kreiling, Andi,So,MB,6,3,17,15,17,62,NA,49,15,122,0.279,2,0,0,9,1,4,30,0,NA,68,0,0
 Arizona St. Sun Devils,2022,9, Shannon Shields,"Shields, Shannon",Shields, Shannon,Sr,S,5,10,17,8,17,47,NA,6,2,23,0.174,258,14,9,71,0,0,4,1,NA,22,3,0
 Arizona St. Sun Devils,2022,18, Roberta Rabelo,"Rabelo, Roberta",Rabelo, Roberta,Jr,OH,6,0,17,0,17,31,NA,38,13,128,0.195,2,1,1,23,4,1,7,0,NA,43.5,0,0
-Arizona St. Sun Devils,2022,20, Andi Kreiling,"Kreiling, Andi",Kreiling, Andi,So,MB,6,3,17,15,17,62,NA,49,15,122,0.279,2,0,0,9,1,4,30,0,NA,68,0,0
-Arizona St. Sun Devils,2022,21, Ella Snyder,"Snyder, Ella",Snyder, Ella,Jr,S,6,0,16,11,16,55,NA,9,4,22,0.227,360,15,8,97,0,1,5,0,NA,27.5,4,0
 Arizona St. Sun Devils,2022,15, Annika Larson-Nummer,"Larson-Nummer, Annika",Larson-Nummer, Annika,Sr,L/DS,5,4,16,0,16,44,NA,0,0,0,0,24,7,11,131,7,0,0,0,NA,7,0,0
+Arizona St. Sun Devils,2022,21, Ella Snyder,"Snyder, Ella",Snyder, Ella,Jr,S,6,0,16,11,16,55,NA,9,4,22,0.227,360,15,8,97,0,1,5,0,NA,27.5,4,0
 Arizona St. Sun Devils,2022,24, Meadow Cooper,"Cooper, Meadow",Cooper, Meadow,So,L/DS,5,7,15,1,15,29,NA,0,0,1,0,0,2,9,11,2,0,0,0,NA,2,0,0
 Arizona St. Sun Devils,2022,14, Claudia Stahlke,"Stahlke, Claudia",Stahlke, Claudia,Jr,MB,6,2,9,4,9,17,NA,6,1,21,0.238,1,0,1,7,0,2,14,3,NA,15,1,0
 Arizona St. Sun Devils,2022,22, Leah Miller,"Miller, Leah",Miller, Leah,Fr,OH,6,0,9,0,9,31,NA,41,24,118,0.144,1,0,0,9,0,0,11,0,NA,46.5,1,0
@@ -277,8 +277,8 @@ Austin Peay Governors,2022,27, Elizabeth Wheat,"Wheat, Elizabeth",Wheat, Elizabe
 Austin Peay Governors,2022,22, Emma Loiars,"Loiars, Emma",Loiars, Emma,Fr,DS,5,7,6,0,6,9,NA,0,0,0,0,0,2,1,9,1,0,0,0,NA,2,0,0
 Austin Peay Governors,2022,33, Morgan Rutledge,"Rutledge, Morgan",Rutledge, Morgan,Jr,L,5,9,5,1,5,11,NA,0,0,1,0,3,5,6,22,5,0,0,0,NA,5,0,0
 Austin Peay Governors,2022,4, Payton Deidesheimer,"Deidesheimer, Payton",Deidesheimer, Payton,Fr,MB,5,11,5,1,5,5,NA,1,2,7,-0.143,0,0,1,0,0,0,0,0,NA,1,0,0
-Austin Peay Governors,2022,8, Jamie Seward,"Seward, Jamie",Seward, Jamie,Fr,RS,6,0,1,0,1,1,NA,0,1,2,-0.5,0,0,0,0,0,0,0,0,NA,0,0,0
 Austin Peay Governors,2022,24, Jenna Salyer,"Salyer, Jenna",Salyer, Jenna,Fr,MB,5,11,1,0,1,1,NA,0,0,0,0,0,0,0,0,0,0,0,0,NA,0,0,0
+Austin Peay Governors,2022,8, Jamie Seward,"Seward, Jamie",Seward, Jamie,Fr,RS,6,0,1,0,1,1,NA,0,1,2,-0.5,0,0,0,0,0,0,0,0,NA,0,0,0
 BYU Cougars,2022,12, Kate Grimmer,"Grimmer, Kate",Grimmer, Kate,Sr,OPP,6,0,17,17,17,57,NA,77,27,200,0.25,21,5,8,137,17,1,34,2,NA,100,0,0
 BYU Cougars,2022,10, Erin Livingston,"Livingston, Erin",Livingston, Erin,Jr,OH,6,2,17,17,17,57,NA,229,66,568,0.287,8,15,24,85,5,3,20,2,NA,257,1,0
 BYU Cougars,2022,7, Whitney Bower,"Bower, Whitney",Bower, Whitney,Sr,S,5,9,17,17,17,57,NA,64,17,141,0.333,596,11,16,151,1,4,23,3,NA,90.5,8,0
@@ -297,20 +297,20 @@ BYU Cougars,2022,6, Abby Taylor,"Taylor, Abby",Taylor, Abby,Sr,S,5,9,3,0,3,3,NA,
 BYU Cougars,2022,4, Hannah Billeter,"Billeter, Hannah",Billeter, Hannah,Fr,OH,5,11,3,0,3,5,NA,0,0,0,0,1,0,0,1,0,0,0,0,NA,0,0,0
 BYU Cougars,2022,5, Bri Albright,"Albright, Bri",Albright, Bri,So,MB,6,3,1,0,1,1,NA,0,0,1,0,0,0,0,0,0,0,0,0,NA,0,0,0
 BYU Cougars,2022,13, Briley Decker,"Decker, Briley",Decker, Briley,Fr,S,6,1,1,0,1,1,NA,0,0,0,0,0,0,1,0,0,0,0,0,NA,0,0,0
+Ball St. Cardinals,2022,15, Megan Wielonski,"Wielonski, Megan",Wielonski, Megan,So,S,5,10,19,19,19,76,NA,53,15,163,0.233,808,32,27,254,0,2,22,3,NA,98,4,0
 Ball St. Cardinals,2022,3, Havyn Gates,"Gates, Havyn",Gates, Havyn,Sr,DS,5,6,19,0,19,73,NA,2,2,16,0,44,18,20,214,17,0,0,0,NA,20,0,0
 Ball St. Cardinals,2022,11, Lauren Gilliland,"Gilliland, Lauren",Gilliland, Lauren,Jr,MB,6,1,19,19,19,72,NA,155,31,394,0.315,6,1,1,21,1,8,41,5,NA,184.5,2,0
 Ball St. Cardinals,2022,2, Kate Vinson,"Vinson, Kate",Vinson, Kate,Jr,DS,5,7,19,1,19,70,NA,0,1,2,-0.5,12,13,10,179,19,0,0,0,NA,13,0,0
 Ball St. Cardinals,2022,5, Marie Plitt,"Plitt, Marie",Plitt, Marie,Sr,MB,6,0,19,19,19,76,NA,191,31,421,0.38,6,7,12,62,0,11,44,5,NA,231,0,0
 Ball St. Cardinals,2022,13, Natalie Mitchem,"Mitchem, Natalie",Mitchem, Natalie,Sr,OH,6,2,19,17,19,68,NA,156,48,442,0.244,2,0,0,27,0,6,29,5,NA,176.5,0,0
 Ball St. Cardinals,2022,7, Natalie Risi,"Risi, Natalie",Risi, Natalie,Sr,OH,6,0,19,19,19,76,NA,181,75,524,0.202,18,15,19,210,22,10,9,3,NA,210.5,0,0
-Ball St. Cardinals,2022,15, Megan Wielonski,"Wielonski, Megan",Wielonski, Megan,So,S,5,10,19,19,19,76,NA,53,15,163,0.233,808,32,27,254,0,2,22,3,NA,98,4,0
 Ball St. Cardinals,2022,6, Maggie Huber,"Huber, Maggie",Huber, Maggie,Sr,DS,5,6,19,0,19,76,NA,1,1,4,0,46,19,13,292,15,0,1,0,NA,20.5,0,0
 Ball St. Cardinals,2022,12, Cait Snyder,"Snyder, Cait",Snyder, Cait,Jr,OH,6,0,16,8,16,42,NA,120,53,344,0.195,1,0,1,16,1,1,14,2,NA,128,0,0
 Ball St. Cardinals,2022,20, Addie Halverson,"Halverson, Addie",Halverson, Addie,Sr,OH,5,10,14,8,14,35,NA,79,35,262,0.168,0,0,0,22,1,1,5,2,NA,82.5,0,0
 Ball St. Cardinals,2022,9, Katie Egenolf,"Egenolf, Katie",Egenolf, Katie,Fr,OH,6,1,11,3,11,25,NA,49,29,148,0.135,0,0,0,8,1,3,3,1,NA,53.5,0,0
 Ball St. Cardinals,2022,17, Julianna Cramer,"Cramer, Julianna",Cramer, Julianna,Sr,S,5,7,10,0,10,15,NA,0,0,0,0,4,1,0,2,0,0,0,0,NA,1,0,0
-Ball St. Cardinals,2022,21, Madison Buckley,"Buckley, Madison",Buckley, Madison,Fr,OPP,6,2,8,1,8,16,NA,24,12,64,0.188,0,0,0,1,0,0,9,1,NA,28.5,0,0
 Ball St. Cardinals,2022,10, Cailyn Bolser,"Bolser, Cailyn",Bolser, Cailyn,Sr,MB,6,1,8,0,8,12,NA,19,3,43,0.372,0,0,0,0,0,1,3,1,NA,21.5,0,0
+Ball St. Cardinals,2022,21, Madison Buckley,"Buckley, Madison",Buckley, Madison,Fr,OPP,6,2,8,1,8,16,NA,24,12,64,0.188,0,0,0,1,0,0,9,1,NA,28.5,0,0
 Ball St. Cardinals,2022,16, Kendall Seimet,"Seimet, Kendall",Seimet, Kendall,So,DS,5,6,6,0,6,11,NA,0,0,0,0,2,1,2,16,2,0,0,0,NA,1,0,0
 Ball St. Cardinals,2022,4, Paige Busick,"Busick, Paige",Busick, Paige,Fr,L/DS,5,3,4,0,4,8,NA,0,0,0,0,0,1,1,13,0,0,0,0,NA,1,0,0
 Ball St. Cardinals,2022,8, Allison Hamaker,"Hamaker, Allison",Hamaker, Allison,Sr,OPP,6,0,2,0,2,2,NA,1,0,2,0.5,0,0,0,0,0,0,0,0,NA,1,0,0
@@ -329,9 +329,9 @@ Baylor Lady Bears,2022,31, Lauren Harrison,"Harrison, Lauren",Harrison, Lauren,S
 Baylor Lady Bears,2022,18, Alicia Andrew,"Andrew, Alicia",Andrew, Alicia,So,MB,6,4,5,1,5,8,NA,7,2,9,0.556,0,0,1,2,0,0,0,1,NA,7,0,0
 Baylor Lady Bears,2022,6, Faith Lynch,"Lynch, Faith",Lynch, Faith,So,DS,5,7,5,0,5,9,NA,0,0,1,0,19,4,2,5,0,0,0,0,NA,4,1,0
 Baylor Lady Bears,2022,9, Ava Grace Haggard,"Haggard, Ava Grace",Haggard, Ava Grace,So,MB,6,1,4,0,4,4,NA,1,1,3,0,0,0,1,0,0,0,0,0,NA,1,0,0
-Bellarmine Knights,2022,12, Kylie VanHoy,"VanHoy, Kylie",VanHoy, Kylie,Fr,OPP,5,10,19,6,19,65,NA,138,64,435,0.17,69,7,12,80,6,2,22,14,NA,158,3,0
-Bellarmine Knights,2022,25, Emily Ernst,"Ernst, Emily",Ernst, Emily,Sr,DS,5,6,19,0,19,62,NA,0,0,0,0,16,15,18,120,10,0,0,0,NA,15,1,0
 Bellarmine Knights,2022,19, Tessa Nauert,"Nauert, Tessa",Nauert, Tessa,Fr,L/DS,5,4,19,0,19,74,NA,0,0,0,0,5,24,27,36,6,0,0,0,NA,24,0,0
+Bellarmine Knights,2022,25, Emily Ernst,"Ernst, Emily",Ernst, Emily,Sr,DS,5,6,19,0,19,62,NA,0,0,0,0,16,15,18,120,10,0,0,0,NA,15,1,0
+Bellarmine Knights,2022,12, Kylie VanHoy,"VanHoy, Kylie",VanHoy, Kylie,Fr,OPP,5,10,19,6,19,65,NA,138,64,435,0.17,69,7,12,80,6,2,22,14,NA,158,3,0
 Bellarmine Knights,2022,7, Carissa Reyes,"Reyes, Carissa",Reyes, Carissa,Jr,L/DS,5,5,19,18,19,71,NA,2,1,5,0.2,11,19,10,120,14,0,0,1,NA,21,0,0
 Bellarmine Knights,2022,5, Anna Lococo,"Lococo, Anna",Lococo, Anna,Jr,DS,5,5,19,0,19,75,NA,0,1,7,-0.143,56,18,9,315,16,0,0,0,NA,18,3,0
 Bellarmine Knights,2022,14, Hannah Brown,"Brown, Hannah",Brown, Hannah,Sr,MH,5,11,18,15,18,56,NA,124,72,308,0.169,4,0,1,23,1,1,21,5,NA,135.5,0,0
@@ -347,10 +347,10 @@ Bellarmine Knights,2022,13, Hallie Westmeyer,"Westmeyer, Hallie",Westmeyer, Hall
 Belmont Bruins,2022,10, Lilly Lutz,"Lutz, Lilly",Lutz, Lilly,Fr,S,5,6,21,10,21,74,NA,4,2,11,0.182,144,18,19,105,7,0,0,2,NA,22,7,0
 Belmont Bruins,2022,12, Brooke Gilleland,"Gilleland, Brooke",Gilleland, Brooke,Fr,OH,5,11,21,10,21,70,NA,154,78,441,0.172,5,4,9,23,15,3,15,7,NA,168.5,0,0
 Belmont Bruins,2022,17, Elizabeth Godfrey,"Godfrey, Elizabeth",Godfrey, Elizabeth,So,L/DS,5,9,21,6,21,80,NA,0,1,7,-0.143,23,17,24,108,23,0,0,0,NA,17,0,0
-Belmont Bruins,2022,20, Laura Shoopman,"Shoopman, Laura",Shoopman, Laura,Sr,OH,6,2,21,21,21,84,NA,300,120,820,0.22,24,20,23,208,20,2,36,3,NA,340,1,0
-Belmont Bruins,2022,2, Rachel McBride,"McBride, Rachel",McBride, Rachel,Jr,L/DS,5,7,21,0,21,84,NA,1,0,4,0.25,76,15,35,315,39,0,0,0,NA,16,1,0
 Belmont Bruins,2022,16, Sydney Willis,"Willis, Sydney",Willis, Sydney,Jr,MB,6,2,21,21,21,84,NA,50,25,152,0.164,1,0,0,18,0,9,67,9,NA,92.5,3,0
 Belmont Bruins,2022,8, Kristen Clemons,"Clemons, Kristen",Clemons, Kristen,Jr,MB,6,1,21,20,21,84,NA,213,65,475,0.312,11,13,9,38,2,10,58,7,NA,265,0,0
+Belmont Bruins,2022,2, Rachel McBride,"McBride, Rachel",McBride, Rachel,Jr,L/DS,5,7,21,0,21,84,NA,1,0,4,0.25,76,15,35,315,39,0,0,0,NA,16,1,0
+Belmont Bruins,2022,20, Laura Shoopman,"Shoopman, Laura",Shoopman, Laura,Sr,OH,6,2,21,21,21,84,NA,300,120,820,0.22,24,20,23,208,20,2,36,3,NA,340,1,0
 Belmont Bruins,2022,4, Peyton O'Brien,"O'Brien, Peyton",O'Brien, Peyton,So,S,6,0,20,16,20,80,NA,67,11,185,0.303,634,9,17,158,1,2,43,5,NA,99.5,11,0
 Belmont Bruins,2022,5, Ally Peterson,"Peterson, Ally",Peterson, Ally,Jr,OH,5,10,19,16,19,66,NA,123,73,387,0.129,10,21,16,103,19,0,14,1,NA,151,0,0
 Belmont Bruins,2022,15, Lauren Walsh,"Walsh, Lauren",Walsh, Lauren,Sr,OH,5,9,16,6,16,46,NA,88,57,297,0.104,2,5,5,46,5,2,19,4,NA,104.5,0,0
@@ -387,10 +387,10 @@ Binghamton Bearcats,2022,9, Victoria Erwat,"Erwat, Victoria",Erwat, Victoria,Sr,
 Binghamton Bearcats,2022,5, Jessie Bilello,"Bilello, Jessie",Bilello, Jessie,Jr,S,6,0,6,2,6,15,NA,0,3,8,-0.375,57,2,4,13,0,0,0,0,NA,2,1,0
 Binghamton Bearcats,2022,10, Larisa Lehtoranta,"Lehtoranta, Larisa",Lehtoranta, Larisa,Fr,MB,6,1,4,3,4,10,NA,6,7,17,-0.059,2,0,0,1,0,1,10,5,NA,12,0,0
 Binghamton Bearcats,2022,16, Kasey Tietjen,"Tietjen, Kasey",Tietjen, Kasey,Fr,OH,5,11,3,0,3,7,NA,13,8,36,0.139,2,0,0,1,0,0,0,0,NA,13,0,0
-Boise St. Broncos,2022,7, Dana Branavets,"Branavets, Dana",Branavets, Dana,Fr,OH,5,11,18,12,18,69,NA,21,13,70,0.114,12,12,21,125,10,1,2,0,NA,35,0,0
+Boise St. Broncos,2022,14, Annie Kaminski,"Kaminski, Annie",Kaminski, Annie,Jr,MB,6,1,18,18,18,70,NA,132,27,263,0.399,3,0,0,4,2,5,60,10,NA,167,0,0
 Boise St. Broncos,2022,8, Chey Day,"Day, Chey",Day, Chey,Jr,OH,6,4,18,18,18,67,NA,45,14,114,0.272,7,7,18,25,2,9,76,6,NA,99,0,0
 Boise St. Broncos,2022,1, Lauren Ohlinger,"Ohlinger, Lauren",Ohlinger, Lauren,Sr,OH,6,3,18,18,18,70,NA,233,94,679,0.205,15,26,20,163,30,7,28,8,NA,280,2,0
-Boise St. Broncos,2022,14, Annie Kaminski,"Kaminski, Annie",Kaminski, Annie,Jr,MB,6,1,18,18,18,70,NA,132,27,263,0.399,3,0,0,4,2,5,60,10,NA,167,0,0
+Boise St. Broncos,2022,7, Dana Branavets,"Branavets, Dana",Branavets, Dana,Fr,OH,5,11,18,12,18,69,NA,21,13,70,0.114,12,12,21,125,10,1,2,0,NA,35,0,0
 Boise St. Broncos,2022,5, Allison Casillas,"Casillas, Allison",Casillas, Allison,Sr,L,5,8,17,0,17,67,NA,0,0,1,0,61,24,10,227,15,0,0,0,NA,24,0,0
 Boise St. Broncos,2022,11, Ashley Hayden,"Hayden, Ashley",Hayden, Ashley,Jr,S,5,10,17,14,17,64,NA,30,13,93,0.183,615,19,13,133,0,2,24,4,NA,63,9,0
 Boise St. Broncos,2022,21, Paige Bartsch,"Bartsch, Paige",Bartsch, Paige,So,OPP,6,3,16,16,16,63,NA,264,111,635,0.241,5,14,12,152,3,6,46,8,NA,307,1,0
@@ -452,11 +452,11 @@ Bradley Braves,2022,20, Raeann Bergman,"Bergman, Raeann",Bergman, Raeann,Sr,MB,6
 Bradley Braves,2022,7, Maddie Peterson,"Peterson, Maddie",Peterson, Maddie,Jr,L/DS,5,3,3,1,3,7,NA,0,0,0,0,0,1,3,8,2,0,0,0,NA,1,0,0
 Bradley Braves,2022,12, McKenna Scheib,"Scheib, McKenna",Scheib, McKenna,So,MB,6,0,1,0,1,1,NA,0,0,1,0,0,0,0,1,0,0,0,0,NA,0,0,0
 Bradley Braves,2022,4, Gianna Ptaszek,"Ptaszek, Gianna",Ptaszek, Gianna,Fr,L/DS,5,5,1,0,1,1,NA,0,0,0,0,0,0,0,0,0,0,0,0,NA,0,0,0
-Brown Bears,2022,2, Victoria Vo,"Vo, Victoria",Vo, Victoria,So,L/DS,5,7,15,0,15,57,NA,2,0,9,0.222,26,13,15,220,11,0,0,0,NA,15,2,0
-Brown Bears,2022,10, Kate Sheire,"Sheire, Kate",Sheire, Kate,Jr,RS,6,0,15,15,15,57,NA,132,37,322,0.295,4,0,0,26,0,3,46,2,NA,158,0,0
-Brown Bears,2022,17, Beau Vanderlaan,"Vanderlaan, Beau",Vanderlaan, Beau,So,MB,6,1,15,15,15,57,NA,145,36,295,0.369,9,14,18,29,0,12,51,3,NA,196.5,2,0
 Brown Bears,2022,1, Jessie Golden,"Golden, Jessie",Golden, Jessie,Fr,L/DS,5,6,15,0,15,57,NA,0,0,3,0,12,17,15,124,9,0,0,0,NA,17,1,0
+Brown Bears,2022,10, Kate Sheire,"Sheire, Kate",Sheire, Kate,Jr,RS,6,0,15,15,15,57,NA,132,37,322,0.295,4,0,0,26,0,3,46,2,NA,158,0,0
 Brown Bears,2022,15, Sophia Miller,"Miller, Sophia",Miller, Sophia,Sr,OH,6,0,15,15,15,55,NA,181,70,483,0.23,19,7,26,142,17,0,19,0,NA,197.5,1,0
+Brown Bears,2022,17, Beau Vanderlaan,"Vanderlaan, Beau",Vanderlaan, Beau,So,MB,6,1,15,15,15,57,NA,145,36,295,0.369,9,14,18,29,0,12,51,3,NA,196.5,2,0
+Brown Bears,2022,2, Victoria Vo,"Vo, Victoria",Vo, Victoria,So,L/DS,5,7,15,0,15,57,NA,2,0,9,0.222,26,13,15,220,11,0,0,0,NA,15,2,0
 Brown Bears,2022,16, Gabby Derrick,"Derrick, Gabby",Derrick, Gabby,So,MB,5,11,13,12,13,49,NA,33,10,88,0.261,1,0,0,1,0,8,43,3,NA,62.5,2,0
 Brown Bears,2022,7, Jilienne Widener,"Widener, Jilienne",Widener, Jilienne,Jr,OH,6,0,10,7,10,30,NA,68,32,199,0.181,5,3,7,27,8,2,11,0,NA,78.5,0,0
 Brown Bears,2022,13, Kayla Griebl,"Griebl, Kayla",Griebl, Kayla,So,OH,6,0,10,6,10,28,NA,70,33,201,0.184,11,7,5,36,3,0,7,0,NA,80.5,0,0
@@ -487,11 +487,11 @@ Bryant Bulldogs,2022,12, Morgan Smith,"Smith, Morgan",Smith, Morgan,So,MB,6,1,4,
 Bryant Bulldogs,2022,10, Ana Fuertes,"Fuertes, Ana",Fuertes, Ana,Fr,RS,5,11,3,0,3,4,NA,4,6,20,-0.1,0,0,0,0,1,0,2,0,NA,5,0,0
 Bryant Bulldogs,2022,16, Melis Isik,"Isik, Melis",Isik, Melis,Fr,S,6,1,3,0,3,7,NA,1,1,4,0,24,0,3,6,0,0,0,0,NA,1,0,0
 Bryant Bulldogs,2022,15, Lea Mackey,"Mackey, Lea",Mackey, Lea,Fr,OH,6,2,1,0,1,1,NA,0,0,0,0,0,0,0,0,0,0,0,0,NA,0,0,0
-Bucknell Bison,2022,7, Bri Frazilus,"Frazilus, Bri",Frazilus, Bri,Fr,OH,5,10,17,16,17,58,NA,198,105,581,0.16,14,9,29,150,19,0,15,2,NA,214.5,0,0
 Bucknell Bison,2022,23, Caleigh O'Connell,"O'Connell, Caleigh",O'Connell, Caleigh,Fr,S,5,11,17,5,17,64,NA,21,8,70,0.186,342,8,3,72,0,2,26,1,NA,44,13,0
 Bucknell Bison,2022,6, Laura Caro,"Caro, Laura",Caro, Laura,Fr,S,5,8,17,12,17,59,NA,22,1,50,0.42,309,5,10,98,0,0,0,0,NA,27,8,0
 Bucknell Bison,2022,4, Jordan Hardy,"Hardy, Jordan",Hardy, Jordan,So,L,5,7,17,0,17,66,NA,3,1,10,0.2,58,21,9,381,9,0,0,0,NA,24,0,0
 Bucknell Bison,2022,10, Catherine Jamison,"Jamison, Catherine",Jamison, Catherine,Jr,OH,6,1,17,13,17,64,NA,219,84,495,0.273,1,0,0,18,0,1,23,6,NA,231.5,0,0
+Bucknell Bison,2022,7, Bri Frazilus,"Frazilus, Bri",Frazilus, Bri,Fr,OH,5,10,17,16,17,58,NA,198,105,581,0.16,14,9,29,150,19,0,15,2,NA,214.5,0,0
 Bucknell Bison,2022,22, Sarina Singer,"Singer, Sarina",Singer, Sarina,Sr,OH,5,9,16,9,16,57,NA,72,31,264,0.155,7,11,15,125,13,0,5,0,NA,85.5,1,0
 Bucknell Bison,2022,8, Charlotte Hobson,"Hobson, Charlotte",Hobson, Charlotte,Fr,L,5,4,15,0,15,34,NA,0,0,0,0,3,14,16,20,0,0,0,0,NA,14,0,0
 Bucknell Bison,2022,16, Allie Lopez,"Lopez, Allie",Lopez, Allie,Jr,MB,6,1,15,13,15,54,NA,69,27,187,0.225,1,0,1,20,0,8,42,7,NA,98,0,0
@@ -577,41 +577,41 @@ Cal Poly Mustangs,2022,8, Avalon DeNecochea,"DeNecochea, Avalon",DeNecochea, Ava
 Cal St. Fullerton Titans,2022,12, Bianca Martinez,"Martinez, Bianca",Martinez, Bianca,Fr,MB,6,1,15,14,15,57,NA,82,31,206,0.248,2,0,0,12,2,16,31,9,NA,113.5,5,0
 Cal St. Fullerton Titans,2022,11, Nadia Koanui,"Koanui, Nadia",Koanui, Nadia,Fr,L/DS,5,7,15,0,15,58,NA,1,0,22,0.045,49,12,23,202,12,0,0,0,NA,13,2,0
 Cal St. Fullerton Titans,2022,20, Danielle Jefferies,"Jefferies, Danielle",Jefferies, Danielle,Sr,OH,5,11,15,13,15,56,NA,144,47,374,0.259,0,0,0,23,0,3,20,7,NA,157,2,0
+Cal St. Fullerton Titans,2022,23, Dominique Velarde,"Velarde, Dominique",Velarde, Dominique,Sr,L,5,1,15,0,15,53,NA,0,0,2,0,3,11,13,28,1,0,0,0,NA,11,1,0
 Cal St. Fullerton Titans,2022,24, Lyla Traylor,"Traylor, Lyla",Traylor, Lyla,So,OH,6,1,15,15,15,58,NA,153,83,487,0.144,4,8,11,169,25,4,9,1,NA,169.5,0,0
 Cal St. Fullerton Titans,2022,5, Julia Crawford,"Crawford, Julia",Crawford, Julia,Sr,OH,5,9,15,15,15,58,NA,165,59,533,0.199,4,9,10,166,7,5,20,2,NA,189,1,0
 Cal St. Fullerton Titans,2022,16, Elizabeth Schuster,"Schuster, Elizabeth",Schuster, Elizabeth,Sr,S,5,7,15,15,15,58,NA,30,9,137,0.153,547,6,14,172,1,1,10,4,NA,42,6,0
-Cal St. Fullerton Titans,2022,23, Dominique Velarde,"Velarde, Dominique",Velarde, Dominique,Sr,L,5,1,15,0,15,53,NA,0,0,2,0,3,11,13,28,1,0,0,0,NA,11,1,0
 Cal St. Fullerton Titans,2022,4, Malie McClure,"McClure, Malie",McClure, Malie,Jr,DS,5,9,14,2,14,50,NA,1,1,9,0,4,12,11,103,8,0,0,0,NA,13,0,0
 Cal St. Fullerton Titans,2022,30, Lolo Fonua,"Fonua, Lolo",Fonua, Lolo,Fr,MH,6,1,10,3,10,24,NA,51,19,120,0.267,1,3,7,17,2,1,2,0,NA,56,0,0
 Cal St. Fullerton Titans,2022,1, Marisse Turner,"Turner, Marisse",Turner, Marisse,So,MB,6,0,9,8,9,33,NA,70,29,176,0.233,0,1,8,13,0,6,15,4,NA,84.5,0,0
 Cal St. Fullerton Titans,2022,3, Naia Stewart,"Stewart, Naia",Stewart, Naia,Fr,OH,6,0,7,2,7,12,NA,8,5,52,0.058,0,0,0,4,1,1,5,1,NA,11.5,0,0
 Cal St. Fullerton Titans,2022,2, Kyahana Robinson,"Robinson, Kyahana",Robinson, Kyahana,Jr,RS,6,0,3,2,3,6,NA,3,2,16,0.062,0,0,0,3,0,3,5,1,NA,8.5,0,0
-Cal St. Fullerton Titans,2022,13, Ketesia Hall,"Hall, Ketesia",Hall, Ketesia,Fr,MB,6,0,1,1,1,2,NA,7,1,16,0.375,0,0,0,1,0,0,1,0,NA,7.5,0,0
 Cal St. Fullerton Titans,2022,6, Hailey Black,"Black, Hailey",Black, Hailey,So,S,5,11,1,0,1,1,NA,0,0,0,0,6,0,0,1,0,0,0,0,NA,0,0,0
+Cal St. Fullerton Titans,2022,13, Ketesia Hall,"Hall, Ketesia",Hall, Ketesia,Fr,MB,6,0,1,1,1,2,NA,7,1,16,0.375,0,0,0,1,0,0,1,0,NA,7.5,0,0
 California Golden Bears,2022,42, Sophie Scott,"Scott, Sophie",Scott, Sophie,Fr,MB,6,3,17,17,17,61,NA,60,18,149,0.282,0,1,3,23,1,5,67,12,NA,99.5,0,0
 California Golden Bears,2022,17, Annalea Maeder,"Maeder, Annalea",Maeder, Annalea,So,S,6,1,17,17,17,58,NA,27,13,86,0.163,496,20,6,163,2,1,17,3,NA,56.5,11,0
-California Golden Bears,2022,5, Leah Schmidt,"Schmidt, Leah",Schmidt, Leah,Jr,OH,6,3,17,17,17,61,NA,164,91,539,0.135,20,16,15,105,29,5,34,2,NA,202,1,0
-California Golden Bears,2022,13, Tara DeSa,"DeSa, Tara",DeSa, Tara,Jr,L,5,5,17,0,17,61,NA,0,1,6,-0.167,69,9,15,255,10,0,0,0,NA,9,4,0
 California Golden Bears,2022,12, Lydia Grote,"Grote, Lydia",Grote, Lydia,Jr,OPP,6,2,17,17,17,61,NA,227,103,636,0.195,10,20,20,119,1,4,46,4,NA,274,0,0
+California Golden Bears,2022,13, Tara DeSa,"DeSa, Tara",DeSa, Tara,Jr,L,5,5,17,0,17,61,NA,0,1,6,-0.167,69,9,15,255,10,0,0,0,NA,9,4,0
+California Golden Bears,2022,5, Leah Schmidt,"Schmidt, Leah",Schmidt, Leah,Jr,OH,6,3,17,17,17,61,NA,164,91,539,0.135,20,16,15,105,29,5,34,2,NA,202,1,0
 California Golden Bears,2022,7, Mikayla Hayden,"Hayden, Mikayla",Hayden, Mikayla,Fr,MB,6,1,16,16,16,58,NA,97,30,209,0.321,0,6,12,24,1,5,58,3,NA,137,0,0
 California Golden Bears,2022,16, Sam Taumoepeau,"Taumoepeau, Sam",Taumoepeau, Sam,Jr,OH,6,0,15,14,15,50,NA,120,62,329,0.176,8,4,12,93,28,1,17,2,NA,133.5,1,0
 California Golden Bears,2022,11, Kendall Jensen,"Jensen, Kendall",Jensen, Kendall,Jr,S,5,8,13,0,13,27,NA,2,0,9,0.222,88,4,4,37,0,0,3,0,NA,7.5,3,0
-California Golden Bears,2022,6, Natalie Lau,"Lau, Natalie",Lau, Natalie,Fr,S,6,0,10,0,10,27,NA,0,0,0,0,6,6,0,10,0,0,0,0,NA,6,0,0
 California Golden Bears,2022,10, Sarah Schrag,"Schrag, Sarah",Schrag, Sarah,So,L,5,9,10,0,10,26,NA,0,0,2,0,2,0,5,34,5,0,0,0,NA,0,0,0
+California Golden Bears,2022,6, Natalie Lau,"Lau, Natalie",Lau, Natalie,Fr,S,6,0,10,0,10,27,NA,0,0,0,0,6,6,0,10,0,0,0,0,NA,6,0,0
 California Golden Bears,2022,55, Peyton DeJardin,"DeJardin, Peyton",DeJardin, Peyton,Fr,OH,6,1,9,3,9,25,NA,21,8,72,0.181,0,4,7,20,8,0,6,1,NA,28,0,0
 California Golden Bears,2022,24, Sydney Lilomaiava,"Lilomaiava, Sydney",Lilomaiava, Sydney,Sr,OH,6,3,6,0,6,11,NA,14,8,37,0.162,0,0,0,6,0,0,7,0,NA,17.5,0,0
-California Golden Bears,2022,22, Ava Mehrten,"Mehrten, Ava",Mehrten, Ava,So,OPP,6,1,1,0,1,1,NA,1,0,2,0.5,0,0,0,0,0,0,0,0,NA,1,0,0
 California Golden Bears,2022,9, Ellie Hamm,"Hamm, Ellie",Hamm, Ellie,So,MB,6,4,1,1,1,3,NA,0,1,2,-0.5,0,0,0,0,0,1,1,0,NA,1.5,1,0
-California Baptist Lancers,2022,1, Paige Johnstone,"Johnstone, Paige",Johnstone, Paige,Sr,L,5,6,17,0,17,63,NA,1,0,7,0.143,81,32,13,240,15,0,0,0,NA,33,0,0
+California Golden Bears,2022,22, Ava Mehrten,"Mehrten, Ava",Mehrten, Ava,So,OPP,6,1,1,0,1,1,NA,1,0,2,0.5,0,0,0,0,0,0,0,0,NA,1,0,0
+California Baptist Lancers,2022,17, Brianna Young,"Young, Brianna",Young, Brianna,Fr,L,5,9,17,0,17,56,NA,0,1,3,-0.333,5,8,5,56,3,0,0,0,NA,8,0,0
+California Baptist Lancers,2022,15, Chandler Gorman,"Gorman, Chandler",Gorman, Chandler,Sr,MB,6,1,17,17,17,63,NA,68,24,184,0.239,1,2,13,12,1,6,61,1,NA,106.5,0,0
 California Baptist Lancers,2022,5, Leah Pease,"Pease, Leah",Pease, Leah,Sr,S,5,7,17,17,17,63,NA,11,4,43,0.163,440,10,11,151,0,1,10,1,NA,27,5,0
 California Baptist Lancers,2022,3, Christine Graf,"Graf, Christine",Graf, Christine,Sr,OH,6,2,17,17,17,63,NA,212,69,486,0.294,4,0,1,32,0,2,49,3,NA,238.5,1,0
-California Baptist Lancers,2022,15, Chandler Gorman,"Gorman, Chandler",Gorman, Chandler,Sr,MB,6,1,17,17,17,63,NA,68,24,184,0.239,1,2,13,12,1,6,61,1,NA,106.5,0,0
-California Baptist Lancers,2022,17, Brianna Young,"Young, Brianna",Young, Brianna,Fr,L,5,9,17,0,17,56,NA,0,1,3,-0.333,5,8,5,56,3,0,0,0,NA,8,0,0
-California Baptist Lancers,2022,20, Cassidy Dennison,"Dennison, Cassidy",Dennison, Cassidy,Sr,OH,5,9,16,15,16,54,NA,134,56,462,0.169,13,3,6,124,13,2,13,3,NA,145.5,0,0
+California Baptist Lancers,2022,1, Paige Johnstone,"Johnstone, Paige",Johnstone, Paige,Sr,L,5,6,17,0,17,63,NA,1,0,7,0.143,81,32,13,240,15,0,0,0,NA,33,0,0
 California Baptist Lancers,2022,18, Michalina Rola,"Rola, Michalina",Rola, Michalina,Jr,OH,5,11,16,7,16,52,NA,100,45,327,0.168,4,3,8,83,8,3,20,3,NA,116,0,0
+California Baptist Lancers,2022,20, Cassidy Dennison,"Dennison, Cassidy",Dennison, Cassidy,Sr,OH,5,9,16,15,16,54,NA,134,56,462,0.169,13,3,6,124,13,2,13,3,NA,145.5,0,0
 California Baptist Lancers,2022,6, Mia Jerue,"Jerue, Mia",Jerue, Mia,So,OH,5,9,14,6,14,34,NA,82,39,230,0.187,5,8,14,50,18,0,4,1,NA,92,0,0
-California Baptist Lancers,2022,12, Laura Walewska,"Walewska, Laura",Walewska, Laura,So,MB,6,2,13,12,13,46,NA,64,33,154,0.201,2,0,0,9,0,3,35,1,NA,84.5,3,0
 California Baptist Lancers,2022,13, Reese Reed,"Reed, Reese",Reed, Reese,Fr,S,5,9,13,0,13,43,NA,1,1,5,0,179,5,15,74,0,0,0,0,NA,6,8,0
+California Baptist Lancers,2022,12, Laura Walewska,"Walewska, Laura",Walewska, Laura,So,MB,6,2,13,12,13,46,NA,64,33,154,0.201,2,0,0,9,0,3,35,1,NA,84.5,3,0
 California Baptist Lancers,2022,2, Scherine Dahoue,"Dahoue, Scherine",Dahoue, Scherine,Sr,OH,6,0,8,6,8,25,NA,76,34,206,0.204,2,3,6,60,11,0,7,1,NA,82.5,0,0
 California Baptist Lancers,2022,10, Jennifer Blessing,"Blessing, Jennifer",Blessing, Jennifer,Jr,L,5,8,7,0,7,20,NA,0,0,0,0,2,0,8,3,0,0,0,0,NA,0,0,0
 California Baptist Lancers,2022,9, Ashlyn Nevrla,"Nevrla, Ashlyn",Nevrla, Ashlyn,Jr,MB,6,0,6,5,6,19,NA,18,14,56,0.071,0,2,2,6,2,1,15,0,NA,28.5,0,0
@@ -634,13 +634,13 @@ Campbell Camels,2022,12, Abbie Tuyo,"Tuyo, Abbie",Tuyo, Abbie,Fr,OH,5,10,10,1,10
 Campbell Camels,2022,8, Elyse Gross,"Gross, Elyse",Gross, Elyse,Sr,DS,5,6,10,0,10,16,NA,0,0,1,0,3,0,3,12,4,0,0,0,NA,0,0,0
 Campbell Camels,2022,7, Maggie Salisbury,"Salisbury, Maggie",Salisbury, Maggie,So,MB,6,3,4,0,4,5,NA,2,0,3,0.667,1,0,0,0,0,0,1,0,NA,2.5,0,0
 Campbell Camels,2022,6, Jaden Tuttle,"Tuttle, Jaden",Tuttle, Jaden,So,S,5,9,1,0,1,1,NA,0,0,0,0,1,0,0,0,0,0,0,0,NA,0,0,0
+Canisius Golden Griffins,2022,6, Ella Bourque,"Bourque, Ella",Bourque, Ella,Fr,S,5,11,17,17,17,64,NA,31,13,129,0.14,618,15,13,140,0,1,19,3,NA,56.5,0,0
 Canisius Golden Griffins,2022,8, Taylor Baldwin,"Baldwin, Taylor",Baldwin, Taylor,So,OH,5,10,17,17,17,64,NA,197,105,545,0.169,11,13,31,142,36,6,17,3,NA,224.5,0,0
 Canisius Golden Griffins,2022,2, Ella Loussia,"Loussia, Ella",Loussia, Ella,Sr,OH,6,1,17,17,17,64,NA,218,78,711,0.197,8,42,22,143,23,3,17,0,NA,271.5,0,0
-Canisius Golden Griffins,2022,6, Ella Bourque,"Bourque, Ella",Bourque, Ella,Fr,S,5,11,17,17,17,64,NA,31,13,129,0.14,618,15,13,140,0,1,19,3,NA,56.5,0,0
 Canisius Golden Griffins,2022,4, Bree Long,"Long, Bree",Long, Bree,Sr,L,5,5,17,0,17,64,NA,4,5,30,-0.033,46,11,5,304,26,0,0,0,NA,15,1,0
 Canisius Golden Griffins,2022,18, Emma Mans,"Mans, Emma",Mans, Emma,So,MB,6,4,14,10,14,47,NA,80,49,216,0.144,4,9,11,35,0,4,28,2,NA,107,1,0
-Canisius Golden Griffins,2022,3, Elle Shult,"Shult, Elle",Shult, Elle,Sr,MH,6,3,13,11,13,45,NA,67,28,198,0.197,4,9,11,35,0,6,29,2,NA,96.5,0,0
 Canisius Golden Griffins,2022,5, Stella Johnson,"Johnson, Stella",Johnson, Stella,Sr,L/DS,5,5,13,3,13,42,NA,1,1,5,0,7,9,6,76,16,0,0,0,NA,10,1,0
+Canisius Golden Griffins,2022,3, Elle Shult,"Shult, Elle",Shult, Elle,Sr,MH,6,3,13,11,13,45,NA,67,28,198,0.197,4,9,11,35,0,6,29,2,NA,96.5,0,0
 Canisius Golden Griffins,2022,13, Alexa Albinson,"Albinson, Alexa",Albinson, Alexa,Jr,RS,6,4,13,13,13,49,NA,83,20,188,0.335,1,0,0,13,0,8,28,1,NA,105,0,0
 Canisius Golden Griffins,2022,11, Kara Zaucha,"Zaucha, Kara",Zaucha, Kara,So,OH,5,10,10,8,10,31,NA,71,27,219,0.201,1,3,7,70,5,2,14,2,NA,83,0,0
 Canisius Golden Griffins,2022,10, Alyssa Rich,"Rich, Alyssa",Rich, Alyssa,Fr,DS,5,5,8,0,8,19,NA,0,0,2,0,4,0,0,36,2,0,0,0,NA,0,0,0
@@ -653,9 +653,9 @@ Central Ark.  Sugar Bears,2022,14, Kendall Haywood,"Haywood, Kendall",Haywood, K
 Central Ark.  Sugar Bears,2022,7, Lexie Gregory,"Gregory, Lexie",Gregory, Lexie,Jr,L/DS,5,4,19,2,19,63,NA,0,2,8,-0.25,12,16,13,115,2,0,0,0,NA,16,0,0
 Central Ark.  Sugar Bears,2022,3, Jamiryana Hall,"Hall, Jamiryana",Hall, Jamiryana,So,OH,5,9,18,7,18,57,NA,171,80,471,0.193,2,0,0,36,8,0,8,0,NA,175,0,0
 Central Ark.  Sugar Bears,2022,1, Alexis Stumbough,"Stumbough, Alexis",Stumbough, Alexis,Sr,OH,5,11,17,13,17,63,NA,130,60,365,0.192,14,15,10,163,14,2,8,0,NA,151,2,0
-Central Ark.  Sugar Bears,2022,15, Mackenzie Vernon,"Vernon, Mackenzie",Vernon, Mackenzie,So,RS,5,11,16,11,16,62,NA,171,73,401,0.244,3,0,0,16,0,5,34,5,NA,193,1,0
-Central Ark.  Sugar Bears,2022,22, Alexis McDaniel,"McDaniel, Alexis",McDaniel, Alexis,Fr,L/DS,5,3,16,4,16,56,NA,1,0,16,0.062,40,18,12,194,3,0,0,0,NA,19,0,0
 Central Ark.  Sugar Bears,2022,6, Caylan Koons,"Koons, Caylan",Koons, Caylan,Fr,S,5,9,16,14,16,63,NA,23,7,66,0.242,556,20,9,154,1,0,7,1,NA,46.5,15,0
+Central Ark.  Sugar Bears,2022,22, Alexis McDaniel,"McDaniel, Alexis",McDaniel, Alexis,Fr,L/DS,5,3,16,4,16,56,NA,1,0,16,0.062,40,18,12,194,3,0,0,0,NA,19,0,0
+Central Ark.  Sugar Bears,2022,15, Mackenzie Vernon,"Vernon, Mackenzie",Vernon, Mackenzie,So,RS,5,11,16,11,16,62,NA,171,73,401,0.244,3,0,0,16,0,5,34,5,NA,193,1,0
 Central Ark.  Sugar Bears,2022,20, Leigh Maher,"Maher, Leigh",Maher, Leigh,Sr,L/DS,5,2,15,1,15,49,NA,0,0,9,0,28,7,11,186,13,0,1,0,NA,7.5,0,0
 Central Ark.  Sugar Bears,2022,13, Lilly Taylor,"Taylor, Lilly",Taylor, Lilly,So,OH,6,1,14,6,14,36,NA,60,46,195,0.072,6,10,10,55,10,3,8,0,NA,77,1,0
 Central Ark.  Sugar Bears,2022,18, Allison Holloway,"Holloway, Allison",Holloway, Allison,So,MB,6,1,14,11,14,47,NA,59,16,139,0.309,5,9,15,32,1,4,26,2,NA,85,0,0
@@ -801,9 +801,9 @@ Cleveland St. Vikings,2022,10, Madison Quirino,"Quirino, Madison",Quirino, Madis
 Cleveland St. Vikings,2022,3, Liberty Torres,"Torres, Liberty",Torres, Liberty,So,OH,6,0,17,0,17,49,NA,89,54,344,0.102,0,0,0,16,2,3,8,4,NA,96,0,0
 Cleveland St. Vikings,2022,2, Lydia Latimer,"Latimer, Lydia",Latimer, Lydia,Sr,OH,5,10,17,17,17,64,NA,120,44,316,0.241,6,13,21,56,2,14,62,4,NA,178,3,0
 Cleveland St. Vikings,2022,12, Karly Klaer,"Klaer, Karly",Klaer, Karly,Fr,S,5,10,16,15,16,64,NA,78,37,272,0.151,495,8,15,161,1,2,37,7,NA,106.5,16,0
+Cleveland St. Vikings,2022,19, Ainslie McLaughlin,"McLaughlin, Ainslie",McLaughlin, Ainslie,Jr,MH,6,2,11,5,11,32,NA,11,12,46,-0.022,3,0,0,2,0,0,22,0,NA,22,0,0
 Cleveland St. Vikings,2022,15, Peyton Bloomer,"Bloomer, Peyton",Bloomer, Peyton,Sr,OH,6,1,11,7,11,30,NA,40,21,125,0.152,3,0,0,11,0,0,14,1,NA,47,0,0
 Cleveland St. Vikings,2022,23, Halayna Kesling,"Kesling, Halayna",Kesling, Halayna,So,DS,5,4,11,1,11,25,NA,0,0,0,0,1,4,3,16,2,0,0,0,NA,4,0,0
-Cleveland St. Vikings,2022,19, Ainslie McLaughlin,"McLaughlin, Ainslie",McLaughlin, Ainslie,Jr,MH,6,2,11,5,11,32,NA,11,12,46,-0.022,3,0,0,2,0,0,22,0,NA,22,0,0
 Cleveland St. Vikings,2022,13, Abby Miller,"Miller, Abby",Miller, Abby,Jr,S,5,7,6,4,6,17,NA,10,2,34,0.235,122,2,3,31,0,0,1,0,NA,12.5,1,0
 Cleveland St. Vikings,2022,20, Sarah Green,"Green, Sarah",Green, Sarah,Sr,OH,5,10,4,0,4,5,NA,0,2,6,-0.333,0,0,0,0,0,0,0,0,NA,0,0,0
 Cleveland St. Vikings,2022,8, Ayva Leon,"Leon, Ayva",Leon, Ayva,Fr,DS,5,8,4,0,4,6,NA,0,0,0,0,0,0,0,4,0,0,0,0,NA,0,0,0
@@ -921,54 +921,54 @@ Coppin St. Eagles,2022,17, Zoe Chin,"Chin, Zoe",Chin, Zoe,Fr,OH,6,0,8,0,8,9,NA,4
 Coppin St. Eagles,2022,19, Laila Ibrahim,"Ibrahim, Laila",Ibrahim, Laila,Fr,OPP,6,1,7,0,7,12,NA,4,4,13,0,0,0,0,2,0,0,5,1,NA,6.5,0,0
 Coppin St. Eagles,2022,13, Paola Caten,"Caten, Paola",Caten, Paola,Sr,OH,5,11,2,1,2,2,NA,0,0,0,0,0,0,0,0,0,0,0,0,NA,0,0,0
 Cornell Big Red,2022,10, Emma Worthington,"Worthington, Emma",Worthington, Emma,Sr,S,5,11,15,15,15,55,NA,45,14,128,0.242,497,12,12,127,0,2,18,7,NA,68,10,0
-Cornell Big Red,2022,2, Joanna Chang,"Chang, Joanna",Chang, Joanna,Sr,OH,5,10,15,13,15,55,NA,115,45,384,0.182,18,7,22,128,16,2,6,1,NA,127,2,0
 Cornell Big Red,2022,14, Eliza Konvicka,"Konvicka, Eliza",Konvicka, Eliza,Fr,RS,6,2,15,15,15,51,NA,151,78,409,0.178,6,19,27,75,1,2,21,1,NA,182.5,1,0
+Cornell Big Red,2022,2, Joanna Chang,"Chang, Joanna",Chang, Joanna,Sr,OH,5,10,15,13,15,55,NA,115,45,384,0.182,18,7,22,128,16,2,6,1,NA,127,2,0
 Cornell Big Red,2022,4, Sammie Engel,"Engel, Sammie",Engel, Sammie,So,MB,6,2,13,11,13,40,NA,60,11,131,0.374,2,22,27,11,0,2,18,2,NA,93,1,0
 Cornell Big Red,2022,12, Jackie Baker,"Baker, Jackie",Baker, Jackie,So,L,5,8,12,0,12,36,NA,0,0,1,0,31,13,16,102,8,0,0,0,NA,13,0,0
-Cornell Big Red,2022,1, Brooke Cooper,"Cooper, Brooke",Cooper, Brooke,So,OH,6,0,11,2,11,25,NA,57,22,159,0.22,3,5,1,24,4,1,4,0,NA,65,1,0
 Cornell Big Red,2022,19, Camryn Carlo,"Carlo, Camryn",Carlo, Camryn,So,MB,6,2,11,10,11,37,NA,66,19,150,0.313,0,0,0,5,0,6,15,1,NA,79.5,0,0
 Cornell Big Red,2022,20, Sydney Moore,"Moore, Sydney",Moore, Sydney,Jr,MB,6,0,11,9,11,37,NA,55,18,131,0.282,3,1,7,7,0,6,27,6,NA,75.5,0,0
-Cornell Big Red,2022,22, Megan Bickel,"Bickel, Megan",Bickel, Megan,So,L/DS,5,7,10,1,10,26,NA,0,0,1,0,15,6,19,77,11,0,0,0,NA,6,0,0
-Cornell Big Red,2022,11, Nicole Mallus,"Mallus, Nicole",Mallus, Nicole,Fr,RS,6,2,10,1,10,28,NA,62,31,178,0.174,0,0,0,19,4,2,7,0,NA,67.5,0,0
+Cornell Big Red,2022,1, Brooke Cooper,"Cooper, Brooke",Cooper, Brooke,So,OH,6,0,11,2,11,25,NA,57,22,159,0.22,3,5,1,24,4,1,4,0,NA,65,1,0
 Cornell Big Red,2022,15, Evan Reich,"Reich, Evan",Reich, Evan,Sr,L/DS,5,9,10,4,10,31,NA,0,1,4,-0.25,10,8,20,45,8,0,0,0,NA,8,0,0
+Cornell Big Red,2022,11, Nicole Mallus,"Mallus, Nicole",Mallus, Nicole,Fr,RS,6,2,10,1,10,28,NA,62,31,178,0.174,0,0,0,19,4,2,7,0,NA,67.5,0,0
+Cornell Big Red,2022,22, Megan Bickel,"Bickel, Megan",Bickel, Megan,So,L/DS,5,7,10,1,10,26,NA,0,0,1,0,15,6,19,77,11,0,0,0,NA,6,0,0
 Cornell Big Red,2022,8, Rylee Baptiste,"Baptiste, Rylee",Baptiste, Rylee,Jr,S,5,5,8,0,8,16,NA,0,0,0,0,1,2,0,15,2,0,0,0,NA,2,0,0
 Cornell Big Red,2022,18, Jordan Walker,"Walker, Jordan",Walker, Jordan,Fr,OH,5,10,7,6,7,22,NA,29,24,100,0.05,4,7,7,35,8,0,0,0,NA,36,0,0
 Cornell Big Red,2022,21, Meghan Gaffigan,"Gaffigan, Meghan",Gaffigan, Meghan,Fr,OH,6,1,5,2,5,10,NA,17,6,49,0.224,1,0,1,6,4,0,1,0,NA,17.5,1,0
 Cornell Big Red,2022,9, Alexa Orent,"Orent, Alexa",Orent, Alexa,Jr,MB,6,0,5,0,5,7,NA,3,1,15,0.133,1,0,0,3,0,0,3,0,NA,4.5,0,0
 Cornell Big Red,2022,6, Kate Stration,"Stration, Kate",Stration, Kate,Jr,L,5,11,3,0,3,7,NA,0,0,0,0,0,3,1,3,0,0,0,0,NA,3,0,0
 Cornell Big Red,2022,7, Doga Ozalp,"Ozalp, Doga",Ozalp, Doga,Fr,S,6,0,1,0,1,1,NA,0,1,1,-1,5,0,1,1,0,0,0,0,NA,0,0,0
-Creighton Bluejays,2022,8, Ava Martin,"Martin, Ava",Martin, Ava,Fr,OH,0,0,18,5,18,61,NA,138,46,345,0.267,1,1,5,47,2,2,14,2,NA,148,0,0
+Creighton Bluejays,2022,5, Kiara Reinhardt,"Reinhardt, Kiara",Reinhardt, Kiara,Jr,MB,6,3,18,18,18,69,NA,112,29,246,0.337,5,4,11,19,0,12,46,7,NA,151,0,0
 Creighton Bluejays,2022,3, Sky McCune,"McCune, Sky",McCune, Sky,Fr,DS,0,0,18,9,18,66,NA,0,0,1,0,19,10,7,136,11,0,0,0,NA,10,0,0
 Creighton Bluejays,2022,2, Norah Sis,"Sis, Norah",Sis, Norah,So,OH,6,2,18,18,18,71,NA,279,104,843,0.208,8,13,6,179,12,4,18,3,NA,305,1,0
-Creighton Bluejays,2022,15, Kendra Wait,"Wait, Kendra",Wait, Kendra,So,S,5,10,18,18,18,71,NA,73,12,174,0.351,776,15,26,238,0,3,34,6,NA,108,8,0
-Creighton Bluejays,2022,1, Ellie Bolton,"Bolton, Ellie",Bolton, Ellie,Jr,DS,5,7,18,3,18,71,NA,0,0,0,0,12,23,14,67,4,0,0,0,NA,23,0,0
-Creighton Bluejays,2022,5, Kiara Reinhardt,"Reinhardt, Kiara",Reinhardt, Kiara,Jr,MB,6,3,18,18,18,69,NA,112,29,246,0.337,5,4,11,19,0,12,46,7,NA,151,0,0
-Creighton Bluejays,2022,9, Kiana Schmitt,"Schmitt, Kiana",Schmitt, Kiana,Sr,MB,6,3,18,18,18,71,NA,148,54,343,0.274,3,0,0,21,0,4,50,0,NA,177,0,0
-Creighton Bluejays,2022,20, Allison Whitten,"Whitten, Allison",Whitten, Allison,Jr,DS,5,8,18,0,18,71,NA,1,1,7,0,71,9,10,282,15,0,0,0,NA,10,0,0
 Creighton Bluejays,2022,6, Keeley Davis,"Davis, Keeley",Davis, Keeley,Sr,OH,6,0,18,18,18,69,NA,186,59,483,0.263,38,30,25,220,14,3,21,1,NA,229.5,0,0
+Creighton Bluejays,2022,1, Ellie Bolton,"Bolton, Ellie",Bolton, Ellie,Jr,DS,5,7,18,3,18,71,NA,0,0,0,0,12,23,14,67,4,0,0,0,NA,23,0,0
+Creighton Bluejays,2022,20, Allison Whitten,"Whitten, Allison",Whitten, Allison,Jr,DS,5,8,18,0,18,71,NA,1,1,7,0,71,9,10,282,15,0,0,0,NA,10,0,0
+Creighton Bluejays,2022,8, Ava Martin,"Martin, Ava",Martin, Ava,Fr,OH,0,0,18,5,18,61,NA,138,46,345,0.267,1,1,5,47,2,2,14,2,NA,148,0,0
+Creighton Bluejays,2022,9, Kiana Schmitt,"Schmitt, Kiana",Schmitt, Kiana,Sr,MB,6,3,18,18,18,71,NA,148,54,343,0.274,3,0,0,21,0,4,50,0,NA,177,0,0
+Creighton Bluejays,2022,15, Kendra Wait,"Wait, Kendra",Wait, Kendra,So,S,5,10,18,18,18,71,NA,73,12,174,0.351,776,15,26,238,0,3,34,6,NA,108,8,0
 Creighton Bluejays,2022,10, Jazz Schmidt,"Schmidt, Jazz",Schmidt, Jazz,Sr,RS,6,2,10,1,10,27,NA,57,20,131,0.282,7,0,1,8,0,0,8,1,NA,61,0,0
-Creighton Bluejays,2022,4, Ann Marie Remmes,"Remmes, Ann Marie",Remmes, Ann Marie,Fr,MB,0,0,6,0,6,6,NA,0,2,5,-0.4,0,0,0,0,0,0,2,1,NA,1,0,0
 Creighton Bluejays,2022,11, Bethany Clapp,"Clapp, Bethany",Clapp, Bethany,Sr,OH,6,0,6,0,6,10,NA,7,3,18,0.222,0,0,0,6,1,0,2,1,NA,8,0,0
+Creighton Bluejays,2022,4, Ann Marie Remmes,"Remmes, Ann Marie",Remmes, Ann Marie,Fr,MB,0,0,6,0,6,6,NA,0,2,5,-0.4,0,0,0,0,0,0,2,1,NA,1,0,0
 Creighton Bluejays,2022,23, Abbey Milner,"Milner, Abbey",Milner, Abbey,So,MB,6,3,6,0,6,8,NA,5,3,18,0.111,0,0,0,1,0,0,1,1,NA,5.5,0,0
 Creighton Bluejays,2022,12, Megan Skovsende,"Skovsende, Megan",Skovsende, Megan,Jr,OH,5,11,4,0,4,5,NA,0,0,2,0,0,0,0,1,1,0,0,1,NA,0,0,0
 Creighton Bluejays,2022,14, Katie Maser,"Maser, Katie",Maser, Katie,Jr,S,5,9,3,0,3,3,NA,0,1,1,-1,1,0,2,1,0,0,0,0,NA,0,0,0
 Creighton Bluejays,2022,7, Jaela Zimmerman,"Zimmerman, Jaela",Zimmerman, Jaela,Sr,OH,6,2,2,0,2,2,NA,0,0,0,0,0,1,0,0,0,0,0,0,NA,1,0,0
-Dartmouth Big Green,2022,18, Ava Roberts,"Roberts, Ava",Roberts, Ava,Fr,MB,6,0,16,14,16,49,NA,99,33,303,0.218,5,18,9,47,0,1,26,3,NA,131,0,0
 Dartmouth Big Green,2022,22, Bomi Ogunlari,"Ogunlari, Bomi",Ogunlari, Bomi,Jr,MB,5,10,16,16,16,54,NA,90,31,202,0.292,3,0,0,18,0,17,53,5,NA,133.5,0,0
-Dartmouth Big Green,2022,16, Amelia Gibbs,"Gibbs, Amelia",Gibbs, Amelia,Jr,MB,6,2,16,1,16,55,NA,117,19,245,0.4,0,0,0,14,1,3,36,1,NA,138,0,0
+Dartmouth Big Green,2022,9, Taite Ryan,"Ryan, Taite",Ryan, Taite,Sr,OH,6,1,16,16,16,52,NA,58,30,243,0.115,21,15,15,150,12,1,10,0,NA,79,0,0
 Dartmouth Big Green,2022,8, Ellie Blain,"Blain, Ellie",Blain, Ellie,Jr,OH,6,2,16,15,16,49,NA,151,65,386,0.223,4,18,12,118,21,2,19,0,NA,180.5,0,0
 Dartmouth Big Green,2022,7, Karen Murphy,"Murphy, Karen",Murphy, Karen,Jr,S,5,9,16,0,16,57,NA,12,1,50,0.22,271,19,9,95,0,0,0,0,NA,31,9,0
 Dartmouth Big Green,2022,14, Emma Engstrom,"Engstrom, Emma",Engstrom, Emma,So,L/DS,5,9,16,0,16,57,NA,6,0,30,0.2,53,21,7,239,5,0,0,0,NA,27,0,0
-Dartmouth Big Green,2022,9, Taite Ryan,"Ryan, Taite",Ryan, Taite,Sr,OH,6,1,16,16,16,52,NA,58,30,243,0.115,21,15,15,150,12,1,10,0,NA,79,0,0
+Dartmouth Big Green,2022,16, Amelia Gibbs,"Gibbs, Amelia",Gibbs, Amelia,Jr,MB,6,2,16,1,16,55,NA,117,19,245,0.4,0,0,0,14,1,3,36,1,NA,138,0,0
+Dartmouth Big Green,2022,18, Ava Roberts,"Roberts, Ava",Roberts, Ava,Fr,MB,6,0,16,14,16,49,NA,99,33,303,0.218,5,18,9,47,0,1,26,3,NA,131,0,0
 Dartmouth Big Green,2022,6, Makenzie Arent,"Arent, Makenzie",Arent, Makenzie,Sr,S,5,7,16,16,16,57,NA,7,2,46,0.109,328,9,9,107,0,0,0,0,NA,16,3,0
-Dartmouth Big Green,2022,23, Ali Silva,"Silva, Ali",Silva, Ali,Sr,L/DS,5,10,15,0,15,39,NA,2,2,7,0,0,7,5,42,4,0,0,0,NA,9,0,0
 Dartmouth Big Green,2022,12, Grace Wiczek,"Wiczek, Grace",Wiczek, Grace,Sr,OH,6,2,15,9,15,36,NA,79,37,204,0.206,4,0,0,12,0,4,14,2,NA,90,0,0
+Dartmouth Big Green,2022,23, Ali Silva,"Silva, Ali",Silva, Ali,Sr,L/DS,5,10,15,0,15,39,NA,2,2,7,0,0,7,5,42,4,0,0,0,NA,9,0,0
 Dartmouth Big Green,2022,10, Kauany Gutz,"Gutz, Kauany",Gutz, Kauany,Fr,OH,6,0,13,2,13,28,NA,52,23,160,0.181,2,1,3,30,7,1,14,1,NA,61,0,0
 Dartmouth Big Green,2022,13, Natalie Grover,"Grover, Natalie",Grover, Natalie,Jr,OH,6,1,11,6,11,21,NA,41,19,112,0.196,0,0,1,11,0,1,6,0,NA,45,0,0
 Dartmouth Big Green,2022,5, Piper Stevens,"Stevens, Piper",Stevens, Piper,So,OH,5,11,11,1,11,18,NA,26,6,57,0.351,1,2,3,7,0,0,6,0,NA,31,0,0
-Dartmouth Big Green,2022,11, Molly Power,"Power, Molly",Power, Molly,Fr,MB,6,1,3,0,3,6,NA,6,2,10,0.4,0,0,0,0,0,1,6,0,NA,10,0,0
 Dartmouth Big Green,2022,3, Jojo Brown,"Brown, Jojo",Brown, Jojo,Sr,OH,5,9,3,0,3,5,NA,5,1,13,0.308,0,2,1,6,1,0,1,0,NA,7.5,0,0
 Dartmouth Big Green,2022,4, Emma Symon,"Symon, Emma",Symon, Emma,Fr,MB,6,2,3,0,3,4,NA,5,2,11,0.273,0,0,0,1,0,0,1,0,NA,5.5,0,0
+Dartmouth Big Green,2022,11, Molly Power,"Power, Molly",Power, Molly,Fr,MB,6,1,3,0,3,6,NA,6,2,10,0.4,0,0,0,0,0,1,6,0,NA,10,0,0
 Dartmouth Big Green,2022,1, Tasman Mullins,"Mullins, Tasman",Mullins, Tasman,So,S,6,1,1,0,1,1,NA,0,0,0,0,1,0,0,0,0,0,0,0,NA,0,0,0
 Davidson Wildcats,2022,16, Kayla Davis,"Davis, Kayla",Davis, Kayla,Fr,MB,6,0,19,19,19,69,NA,84,26,174,0.333,1,1,5,14,0,7,46,15,NA,115,0,0
 Davidson Wildcats,2022,6, Emma Slusser,"Slusser, Emma",Slusser, Emma,Fr,OPP,6,1,19,10,19,65,NA,155,66,340,0.262,3,0,0,40,0,4,43,1,NA,180.5,0,0
@@ -1033,24 +1033,24 @@ Delaware Blue Hens,2022,19, Emily Chrysogelos,"Chrysogelos, Emily",Chrysogelos, 
 Delaware Blue Hens,2022,18, Madelyn Grunza,"Grunza, Madelyn",Grunza, Madelyn,Jr,RS,6,0,2,0,2,3,NA,5,4,12,0.083,0,0,0,0,0,0,0,0,NA,5,0,0
 Delaware Blue Hens,2022,9, Dylan Norris,"Norris, Dylan",Norris, Dylan,Fr,OPP,6,2,2,0,2,3,NA,0,4,5,-0.8,0,0,0,1,0,0,2,0,NA,1,0,0
 Delaware St. Hornets,2022,19, Alondra Maldonado,"Maldonado, Alondra",Maldonado, Alondra,So,MB,6,1,19,19,19,66,NA,172,62,376,0.293,5,0,1,22,1,3,46,2,NA,198,0,0
-Delaware St. Hornets,2022,20, Malgorzata Andersohn,"Andersohn, Malgorzata",Andersohn, Malgorzata,Sr,S,5,8,19,18,19,67,NA,6,5,25,0.04,386,31,29,109,0,0,0,1,NA,37,3,0
 Delaware St. Hornets,2022,6, Kelsie Dawson,"Dawson, Kelsie",Dawson, Kelsie,So,MB,6,1,19,19,19,67,NA,75,25,159,0.314,1,0,0,7,1,11,41,6,NA,106.5,1,0
 Delaware St. Hornets,2022,15, Valeria Otero,"Otero, Valeria",Otero, Valeria,So,OH,5,9,19,19,19,67,NA,144,78,409,0.161,16,15,16,140,19,2,13,2,NA,167.5,0,0
-Delaware St. Hornets,2022,30, Sydney Lewis,"Lewis, Sydney",Lewis, Sydney,Sr,MB,6,1,19,19,19,66,NA,124,28,228,0.421,3,22,43,24,0,18,58,7,NA,193,0,0
 Delaware St. Hornets,2022,2, Jasmal Cruz,"Cruz, Jasmal",Cruz, Jasmal,Jr,L,5,7,19,0,19,63,NA,1,0,12,0.083,60,25,19,244,17,0,0,0,NA,26,0,0
+Delaware St. Hornets,2022,30, Sydney Lewis,"Lewis, Sydney",Lewis, Sydney,Sr,MB,6,1,19,19,19,66,NA,124,28,228,0.421,3,22,43,24,0,18,58,7,NA,193,0,0
+Delaware St. Hornets,2022,20, Malgorzata Andersohn,"Andersohn, Malgorzata",Andersohn, Malgorzata,Sr,S,5,8,19,18,19,67,NA,6,5,25,0.04,386,31,29,109,0,0,0,1,NA,37,3,0
 Delaware St. Hornets,2022,18, Alayna Lacy,"Lacy, Alayna",Lacy, Alayna,Jr,S,5,7,18,1,18,62,NA,11,4,33,0.212,256,18,21,89,0,0,2,0,NA,30,8,0
 Delaware St. Hornets,2022,1, Karen Cordero,"Cordero, Karen",Cordero, Karen,Sr,OH,5,9,18,18,18,64,NA,157,48,407,0.268,4,33,7,114,25,4,7,1,NA,197.5,0,0
 Delaware St. Hornets,2022,11, Danielle Allen,"Allen, Danielle",Allen, Danielle,Sr,OH,5,11,17,0,17,60,NA,92,34,218,0.266,0,0,0,21,0,1,35,2,NA,110.5,1,0
-Delaware St. Hornets,2022,12, Daisey Ramos,"Ramos, Daisey",Ramos, Daisey,Fr,OH,5,10,9,1,9,12,NA,12,6,27,0.222,0,1,1,5,1,0,1,0,NA,13.5,0,0
-Delaware St. Hornets,2022,5, Yomaris Rodriguez,"Rodriguez, Yomaris",Rodriguez, Yomaris,Fr,DS,5,5,9,0,9,18,NA,0,0,0,0,7,2,7,11,6,0,0,0,NA,2,0,0
 Delaware St. Hornets,2022,7, Maria Verrier,"Verrier, Maria",Verrier, Maria,Fr,OH,5,9,9,0,9,19,NA,3,9,25,-0.24,0,6,4,13,3,0,0,0,NA,9,0,0
+Delaware St. Hornets,2022,5, Yomaris Rodriguez,"Rodriguez, Yomaris",Rodriguez, Yomaris,Fr,DS,5,5,9,0,9,18,NA,0,0,0,0,7,2,7,11,6,0,0,0,NA,2,0,0
+Delaware St. Hornets,2022,12, Daisey Ramos,"Ramos, Daisey",Ramos, Daisey,Fr,OH,5,10,9,1,9,12,NA,12,6,27,0.222,0,1,1,5,1,0,1,0,NA,13.5,0,0
 Delaware St. Hornets,2022,17, Naz Tuncay,"Tuncay, Naz",Tuncay, Naz,Fr,S,5,11,5,0,5,9,NA,0,0,1,0,28,3,1,3,0,0,0,0,NA,3,0,0
 Delaware St. Hornets,2022,22, Gabby Polynice,"Polynice, Gabby",Polynice, Gabby,Jr,MB,6,1,4,0,4,4,NA,5,9,15,-0.267,0,0,0,0,0,0,1,0,NA,5.5,0,0
-Delaware St. Hornets,2022,25, Julia Kneba,"Kneba, Julia",Kneba, Julia,Fr,OPP,5,11,3,0,3,5,NA,8,2,19,0.316,0,0,0,0,0,0,0,0,NA,8,0,0
 Delaware St. Hornets,2022,28, Madison Martin,"Martin, Madison",Martin, Madison,Fr,DS,5,9,3,0,3,3,NA,0,0,0,0,1,0,1,1,1,0,0,0,NA,0,0,0
+Delaware St. Hornets,2022,25, Julia Kneba,"Kneba, Julia",Kneba, Julia,Fr,OPP,5,11,3,0,3,5,NA,8,2,19,0.316,0,0,0,0,0,0,0,0,NA,8,0,0
 Delaware St. Hornets,2022,13, Zahra Flowers,"Flowers, Zahra",Flowers, Zahra,So,OH,5,7,3,0,3,3,NA,3,0,3,1,0,0,0,0,0,0,0,0,NA,3,0,0
-Delaware St. Hornets,2022,8, Kim Czepukaitis,"Czepukaitis, Kim",Czepukaitis, Kim,Fr,MB,6,1,3,0,3,4,NA,2,0,2,1,0,0,0,0,0,1,0,0,NA,3,0,0
 Delaware St. Hornets,2022,14, Shalyn Garcia,"Garcia, Shalyn",Garcia, Shalyn,Fr,DS,5,5,3,0,3,4,NA,0,0,0,0,0,0,3,1,0,0,0,0,NA,0,0,0
+Delaware St. Hornets,2022,8, Kim Czepukaitis,"Czepukaitis, Kim",Czepukaitis, Kim,Fr,MB,6,1,3,0,3,4,NA,2,0,2,1,0,0,0,0,0,1,0,0,NA,3,0,0
 Delaware St. Hornets,2022,10, Destiny Stewart,"Stewart, Destiny",Stewart, Destiny,So,OPP,5,7,2,0,2,2,NA,0,0,0,0,0,1,0,0,0,0,0,0,NA,1,0,0
 Denver Pioneers,2022,12, Cadi Boyer,"Boyer, Cadi",Boyer, Cadi,Jr,MB,6,3,19,18,19,63,NA,111,21,210,0.429,5,0,0,16,0,8,68,5,NA,153,1,0
 Denver Pioneers,2022,1, Lorrin Poulter,"Poulter, Lorrin",Poulter, Lorrin,Sr,S,5,11,19,19,19,69,NA,44,17,107,0.252,663,31,19,145,0,3,45,4,NA,100.5,9,0
@@ -1086,15 +1086,15 @@ Drake Bulldogs,2022,11, Thea Rotto,"Rotto, Thea",Rotto, Thea,So,OH,5,11,9,1,9,20
 Drake Bulldogs,2022,7, Madison Geise,"Geise, Madison",Geise, Madison,Fr,S,6,0,6,0,6,10,NA,1,0,2,0.5,25,0,0,6,0,0,0,0,NA,1,0,0
 Drake Bulldogs,2022,17, Haylee Kent,"Kent, Haylee",Kent, Haylee,Sr,OH,6,2,3,0,3,3,NA,0,0,0,0,0,0,1,0,0,0,0,0,NA,0,0,0
 Drake Bulldogs,2022,16, Zeynep Gur,"Gur, Zeynep",Gur, Zeynep,So,OH,5,10,3,0,3,3,NA,2,1,5,0.2,1,0,1,0,1,0,0,0,NA,2,0,0
-Drake Bulldogs,2022,4, Riley Jonker,"Jonker, Riley",Jonker, Riley,Fr,S,6,1,2,0,2,3,NA,0,0,0,0,6,0,0,1,0,0,0,0,NA,0,0,0
 Drake Bulldogs,2022,21, Audrey Dennison,"Dennison, Audrey",Dennison, Audrey,So,MB,6,1,2,0,2,3,NA,1,2,5,-0.2,0,0,0,0,0,0,1,0,NA,1.5,0,0
+Drake Bulldogs,2022,4, Riley Jonker,"Jonker, Riley",Jonker, Riley,Fr,S,6,1,2,0,2,3,NA,0,0,0,0,6,0,0,1,0,0,0,0,NA,0,0,0
 Duke Blue Devils,2022,13, Nikki Underwood,"Underwood, Nikki",Underwood, Nikki,So,OH,5,11,18,0,18,65,NA,5,1,12,0.333,38,18,42,211,12,0,0,0,NA,23,2,0
 Duke Blue Devils,2022,6, Rylie Kadel,"Kadel, Rylie",Kadel, Rylie,So,MB,6,0,18,18,18,66,NA,128,53,266,0.282,1,17,21,37,0,11,61,3,NA,186.5,1,0
 Duke Blue Devils,2022,10, Devon Chang,"Chang, Devon",Chang, Devon,Sr,S,5,11,17,17,17,65,NA,15,6,43,0.209,647,5,8,111,1,0,27,1,NA,33.5,9,0
 Duke Blue Devils,2022,9, Georgia Stavrinides,"Stavrinides, Georgia",Stavrinides, Georgia,Jr,MB,6,2,17,9,17,52,NA,33,18,118,0.127,1,1,1,16,1,3,41,10,NA,57.5,0,0
 Duke Blue Devils,2022,3, Rachel Richardson,"Richardson, Rachel",Richardson, Rachel,So,OH,5,9,17,13,17,62,NA,111,98,412,0.032,10,14,28,110,21,2,11,0,NA,132.5,1,0
-Duke Blue Devils,2022,5, Sydney Yap,"Yap, Sydney",Yap, Sydney,Jr,S,5,9,16,1,16,54,NA,0,0,2,0,9,12,15,121,6,0,0,0,NA,12,0,0
 Duke Blue Devils,2022,7, Gracie Johnson,"Johnson, Gracie",Johnson, Gracie,Sr,OH,6,0,16,16,16,58,NA,244,110,646,0.207,9,37,49,109,19,0,23,1,NA,292.5,0,0
+Duke Blue Devils,2022,5, Sydney Yap,"Yap, Sydney",Yap, Sydney,Jr,S,5,9,16,1,16,54,NA,0,0,2,0,9,12,15,121,6,0,0,0,NA,12,0,0
 Duke Blue Devils,2022,8, Taylor Atkinson,"Atkinson, Taylor",Atkinson, Taylor,Fr,OH,6,4,15,4,15,39,NA,101,41,293,0.205,0,10,11,16,3,0,12,2,NA,117,0,0
 Duke Blue Devils,2022,2, Moorea Wood,"Wood, Moorea",Wood, Moorea,Sr,OH,6,2,14,7,14,30,NA,47,28,138,0.138,2,0,1,7,0,0,11,0,NA,52.5,0,0
 Duke Blue Devils,2022,16, Lizzie Fleming,"Fleming, Lizzie",Fleming, Lizzie,Sr,MB,6,3,13,13,13,50,NA,100,20,229,0.349,3,1,4,17,1,4,48,2,NA,129,0,0
@@ -1108,8 +1108,8 @@ Duquesne Dukes,2022,6, Carsyn Henschen,"Henschen, Carsyn",Henschen, Carsyn,Fr,MB
 Duquesne Dukes,2022,11, Hailey Poling,"Poling, Hailey",Poling, Hailey,Sr,S,5,8,20,20,20,73,NA,15,7,75,0.107,620,21,15,169,1,4,21,6,NA,50.5,3,0
 Duquesne Dukes,2022,10, Madison Grimm,"Grimm, Madison",Grimm, Madison,Fr,DS,5,8,19,0,19,68,NA,1,4,19,-0.158,47,19,13,252,20,0,0,0,NA,20,1,0
 Duquesne Dukes,2022,4, Morgan Kelly,"Kelly, Morgan",Kelly, Morgan,Sr,OH,6,3,17,14,17,65,NA,181,77,558,0.186,6,0,0,39,3,4,31,2,NA,200.5,0,0
-Duquesne Dukes,2022,7, Camille Spencer,"Spencer, Camille",Spencer, Camille,Jr,OH,6,2,16,3,16,58,NA,14,18,67,-0.06,11,9,6,109,14,1,1,2,NA,24.5,0,0
 Duquesne Dukes,2022,5, Ariel Helm,"Helm, Ariel",Helm, Ariel,Fr,MB,6,0,16,15,16,58,NA,80,45,215,0.163,2,0,1,13,3,14,46,6,NA,117,0,0
+Duquesne Dukes,2022,7, Camille Spencer,"Spencer, Camille",Spencer, Camille,Jr,OH,6,2,16,3,16,58,NA,14,18,67,-0.06,11,9,6,109,14,1,1,2,NA,24.5,0,0
 Duquesne Dukes,2022,13, Elizabeth Osborn,"Osborn, Elizabeth",Osborn, Elizabeth,Jr,OH,6,0,15,12,15,49,NA,125,71,363,0.149,9,11,7,77,12,0,7,1,NA,139.5,0,0
 Duquesne Dukes,2022,1, Madison Floyd,"Floyd, Madison",Floyd, Madison,So,MB,6,0,14,14,14,54,NA,67,21,169,0.272,5,8,16,17,1,14,36,9,NA,107,0,0
 Duquesne Dukes,2022,2, Anna Shoemake,"Shoemake, Anna",Shoemake, Anna,So,OH,6,4,13,8,13,36,NA,57,35,200,0.11,1,0,4,25,1,2,22,1,NA,70,0,0
@@ -1178,8 +1178,8 @@ Eastern Ky. Colonels,2022,19, Maddy Campbell,"Campbell, Maddy",Campbell, Maddy,S
 Eastern Ky. Colonels,2022,13, Sarah Mitchell,"Mitchell, Sarah",Mitchell, Sarah,Jr,OH,6,0,21,21,21,79,NA,218,84,699,0.192,20,16,13,256,23,5,17,4,NA,247.5,3,0
 Eastern Ky. Colonels,2022,11, Molly Michalak,"Michalak, Molly",Michalak, Molly,Jr,OH,5,11,21,21,21,78,NA,229,102,724,0.175,11,4,8,258,24,2,21,1,NA,245.5,0,0
 Eastern Ky. Colonels,2022,24, Chloe Mason,"Mason, Chloe",Mason, Chloe,Sr,S,5,7,21,21,21,79,NA,50,8,139,0.302,422,30,24,219,0,0,2,0,NA,81,4,0
-Eastern Ky. Colonels,2022,6, Anna Purichia,"Purichia, Anna",Purichia, Anna,So,OH,5,10,12,0,12,27,NA,25,22,82,0.037,0,0,0,8,0,0,10,3,NA,30,0,0
 Eastern Ky. Colonels,2022,5, Kali Walker,"Walker, Kali",Walker, Kali,So,OH,5,7,12,0,12,25,NA,4,5,25,-0.04,2,6,9,13,1,0,0,0,NA,10,0,0
+Eastern Ky. Colonels,2022,6, Anna Purichia,"Purichia, Anna",Purichia, Anna,So,OH,5,10,12,0,12,27,NA,25,22,82,0.037,0,0,0,8,0,0,10,3,NA,30,0,0
 Eastern Ky. Colonels,2022,22, Madi Tolzman,"Tolzman, Madi",Tolzman, Madi,Fr,OH,5,9,6,0,6,6,NA,4,1,12,0.25,2,1,2,3,1,1,0,0,NA,6,0,0
 Eastern Ky. Colonels,2022,1, Molly Roeder,"Roeder, Molly",Roeder, Molly,Jr,L/DS,5,5,5,0,5,16,NA,0,0,0,0,0,1,3,3,0,0,0,0,NA,1,0,0
 Eastern Ky. Colonels,2022,3, Molly Shomock,"Shomock, Molly",Shomock, Molly,Fr,OH,5,10,3,0,3,5,NA,0,5,14,-0.357,0,0,1,1,1,0,0,0,NA,0,0,0
@@ -1214,15 +1214,15 @@ Eastern Wash. Eagles,2022,14, Adia Messenger,"Messenger, Adia",Messenger, Adia,S
 Eastern Wash. Eagles,2022,22, Ehu Keala,"Keala, Ehu",Keala, Ehu,Sr,RS,6,3,5,1,5,9,NA,9,8,38,0.026,0,2,3,13,0,0,1,0,NA,11.5,0,0
 Eastern Wash. Eagles,2022,15, McKenna Russell,"Russell, McKenna",Russell, McKenna,Sr,MB,6,0,3,0,3,3,NA,1,1,4,0,0,0,0,0,0,0,0,0,NA,1,0,0
 Elon Phoenix,2022,10, Sydney Love,"Love, Sydney",Love, Sydney,So,OH,6,3,16,6,16,60,NA,143,70,417,0.175,2,0,1,20,0,3,56,1,NA,174,1,0
+Elon Phoenix,2022,3, Caroline Doyle,"Doyle, Caroline",Doyle, Caroline,So,L/DS,5,7,16,8,16,60,NA,1,2,12,-0.083,16,9,9,107,26,0,0,0,NA,10,0,0
 Elon Phoenix,2022,1, Leah Daniel,"Daniel, Leah",Daniel, Leah,Sr,OH,6,1,16,16,16,63,NA,212,87,649,0.193,4,21,16,67,7,1,21,5,NA,244.5,0,0
 Elon Phoenix,2022,9, Haylie Clark,"Clark, Haylie",Clark, Haylie,Sr,S,5,11,16,15,16,64,NA,30,14,135,0.119,536,19,15,144,0,4,17,3,NA,61.5,4,0
 Elon Phoenix,2022,6, Alex VanWestrienen,"VanWestrienen, Alex",VanWestrienen, Alex,Sr,L/DS,5,8,16,9,16,64,NA,2,1,5,0.2,15,17,20,134,5,0,0,0,NA,19,0,0
-Elon Phoenix,2022,3, Caroline Doyle,"Doyle, Caroline",Doyle, Caroline,So,L/DS,5,7,16,8,16,60,NA,1,2,12,-0.083,16,9,9,107,26,0,0,0,NA,10,0,0
-Elon Phoenix,2022,14, Sydney Daniels,"Daniels, Sydney",Daniels, Sydney,Fr,L/DS,5,6,15,8,15,56,NA,2,1,10,0.1,6,9,9,120,19,1,0,0,NA,12,0,0
 Elon Phoenix,2022,13, Jenn Krzeminski,"Krzeminski, Jenn",Krzeminski, Jenn,Sr,MB,6,3,15,15,15,59,NA,100,23,254,0.303,1,10,21,38,1,5,55,4,NA,142.5,0,0
+Elon Phoenix,2022,14, Sydney Daniels,"Daniels, Sydney",Daniels, Sydney,Fr,L/DS,5,6,15,8,15,56,NA,2,1,10,0.1,6,9,9,120,19,1,0,0,NA,12,0,0
 Elon Phoenix,2022,4, Lily Emlong,"Emlong, Lily",Emlong, Lily,Jr,MB,6,2,14,9,14,47,NA,69,25,185,0.238,1,0,3,15,1,10,37,2,NA,97.5,1,0
-Elon Phoenix,2022,18, Jordan Gower,"Gower, Jordan",Gower, Jordan,Sr,L/DS,5,4,13,0,13,51,NA,0,1,13,-0.077,43,13,16,248,6,0,0,0,NA,13,0,0
 Elon Phoenix,2022,12, Brooke Doherty,"Doherty, Brooke",Doherty, Brooke,Fr,OH,6,0,13,0,13,39,NA,67,47,251,0.08,0,0,0,28,6,1,9,7,NA,72.5,2,0
+Elon Phoenix,2022,18, Jordan Gower,"Gower, Jordan",Gower, Jordan,Sr,L/DS,5,4,13,0,13,51,NA,0,1,13,-0.077,43,13,16,248,6,0,0,0,NA,13,0,0
 Elon Phoenix,2022,7, Clara LaRue,"LaRue, Clara",LaRue, Clara,Fr,OH,6,0,12,0,12,31,NA,62,29,180,0.183,3,1,1,12,1,2,6,0,NA,68,0,0
 Elon Phoenix,2022,2, Lily Barker,"Barker, Lily",Barker, Lily,So,RS,6,1,10,2,10,20,NA,20,9,67,0.164,4,0,0,5,0,1,7,0,NA,24.5,0,0
 Elon Phoenix,2022,5, Ericka Link,"Link, Ericka",Link, Ericka,Jr,S,5,6,9,1,9,16,NA,0,1,5,-0.2,53,4,3,28,0,0,0,0,NA,4,2,0
@@ -1347,8 +1347,8 @@ Florida A&M Lady Rattlers ,2022,1, Jada Taylor,"Taylor, Jada",Taylor, Jada,Jr,DS
 Florida A&M Lady Rattlers ,2022,8, Nina Sharpton,"Sharpton, Nina",Sharpton, Nina,Sr,S,5,10,17,8,17,42,NA,14,7,52,0.135,238,5,14,61,0,0,7,3,NA,22.5,4,0
 Florida A&M Lady Rattlers ,2022,20, Dominique Turner,"Turner, Dominique",Turner, Dominique,So,L/DS,5,5,17,1,17,61,NA,0,0,2,0,10,19,11,27,0,0,0,0,NA,19,0,0
 Florida A&M Lady Rattlers ,2022,3, Karina Pressoir,"Pressoir, Karina",Pressoir, Karina,Sr,MB,6,0,17,6,17,33,NA,29,20,95,0.095,2,0,0,10,0,0,10,2,NA,34,0,0
-Florida A&M Lady Rattlers ,2022,12, Kaila Todd,"Todd, Kaila",Todd, Kaila,So,MB,6,0,16,11,16,45,NA,48,28,127,0.157,1,0,0,11,0,8,29,5,NA,70.5,0,0
 Florida A&M Lady Rattlers ,2022,10, Isis Williams,"Williams, Isis",Williams, Isis,Jr,MH,6,2,16,9,16,41,NA,41,17,100,0.24,2,1,3,8,0,7,24,2,NA,61,1,0
+Florida A&M Lady Rattlers ,2022,12, Kaila Todd,"Todd, Kaila",Todd, Kaila,So,MB,6,0,16,11,16,45,NA,48,28,127,0.157,1,0,0,11,0,8,29,5,NA,70.5,0,0
 Florida A&M Lady Rattlers ,2022,7, Irem Ucar,"Ucar, Irem",Ucar, Irem,Sr,S,5,8,14,13,14,52,NA,42,9,87,0.379,517,18,11,99,0,1,13,4,NA,67.5,2,0
 Florida A&M Lady Rattlers ,2022,18, Jasmine Robinson,"Robinson, Jasmine",Robinson, Jasmine,So,OH,5,11,12,2,12,26,NA,19,21,71,-0.028,1,0,0,10,1,0,5,1,NA,21.5,0,0
 Florida A&M Lady Rattlers ,2022,4, Mariana Donado Yepes,"Donado Yepes, Mariana",Donado Yepes, Mariana,Sr,S,5,8,4,0,4,9,NA,0,0,0,0,2,0,2,3,0,0,0,0,NA,0,1,0
@@ -1448,15 +1448,15 @@ Gardner-Webb Runnin' Bulldogs,2022,11, Tori Weatherley,"Weatherley, Tori",Weathe
 Gardner-Webb Runnin' Bulldogs,2022,4, Brooke Fryar,"Fryar, Brooke",Fryar, Brooke,Jr,L,5,3,8,1,8,16,NA,0,0,0,0,1,0,1,15,2,0,0,0,NA,0,1,0
 Gardner-Webb Runnin' Bulldogs,2022,5, Kyla Davis,"Davis, Kyla",Davis, Kyla,Fr,MB,6,0,3,2,3,7,NA,0,0,8,0,0,0,0,1,0,0,6,1,NA,3,0,0
 George Mason Patriots,2022,15, Gabriella Gelfound,"Gelfound, Gabriella",Gelfound, Gabriella,Fr,S,6,2,19,18,19,70,NA,116,76,315,0.127,299,22,31,136,0,2,35,6,NA,157.5,9,2
-George Mason Patriots,2022,17, Peyton Ehmke,"Ehmke, Peyton",Ehmke, Peyton,Sr,MB,6,1,19,19,19,71,NA,95,30,218,0.298,4,0,0,5,1,9,57,4,NA,132.5,0,0
 George Mason Patriots,2022,22, Olyvia Kennedy,"Kennedy, Olyvia",Kennedy, Olyvia,So,RS,6,0,19,11,19,69,NA,179,81,444,0.221,1,0,2,17,1,0,15,6,NA,186.5,0,0
 George Mason Patriots,2022,20, Camille Larkin,"Larkin, Camille",Larkin, Camille,So,MB,6,1,19,19,19,70,NA,85,27,193,0.301,2,10,14,25,0,4,49,1,NA,123.5,0,0
+George Mason Patriots,2022,17, Peyton Ehmke,"Ehmke, Peyton",Ehmke, Peyton,Sr,MB,6,1,19,19,19,71,NA,95,30,218,0.298,4,0,0,5,1,9,57,4,NA,132.5,0,0
 George Mason Patriots,2022,6, Rachel Larsen,"Larsen, Rachel",Larsen, Rachel,Fr,L,5,5,19,3,19,67,NA,1,0,3,0.333,15,0,8,120,39,0,0,0,NA,1,0,0
 George Mason Patriots,2022,3, Damiana Bova-Ford,"Bova-Ford, Damiana",Bova-Ford, Damiana,So,S,5,9,17,5,17,60,NA,6,2,22,0.182,270,8,15,97,0,0,0,0,NA,14,3,0
 George Mason Patriots,2022,18, Stephanie Der,"Der, Stephanie",Der, Stephanie,Sr,L,5,3,16,0,16,60,NA,2,0,6,0.333,58,6,9,246,16,0,0,0,NA,8,0,0
 George Mason Patriots,2022,24, Katelyn Clarke,"Clarke, Katelyn",Clarke, Katelyn,Jr,OH,5,11,16,11,16,53,NA,73,49,222,0.108,5,10,8,81,29,1,7,1,NA,87.5,0,0
-George Mason Patriots,2022,23, Yanira Lopez-Barahona,"Lopez-Barahona, Yanira",Lopez-Barahona, Yanira,Sr,OH,5,9,14,9,14,47,NA,83,45,294,0.129,2,6,10,34,7,1,19,1,NA,99.5,0,0
 George Mason Patriots,2022,9, Mujay Mambu,"Mambu, Mujay",Mambu, Mujay,Sr,OH,6,0,14,8,14,45,NA,121,53,315,0.216,3,4,7,27,13,1,24,4,NA,138,0,0
+George Mason Patriots,2022,23, Yanira Lopez-Barahona,"Lopez-Barahona, Yanira",Lopez-Barahona, Yanira,Sr,OH,5,9,14,9,14,47,NA,83,45,294,0.129,2,6,10,34,7,1,19,1,NA,99.5,0,0
 George Mason Patriots,2022,19, Ewelina Gacek,"Gacek, Ewelina",Gacek, Ewelina,So,OH,5,11,13,5,13,36,NA,43,20,156,0.147,7,2,5,28,12,1,5,1,NA,48.5,0,0
 George Mason Patriots,2022,1, Morgan Nguyen,"Nguyen, Morgan",Nguyen, Morgan,So,L/DS,5,1,12,3,12,29,NA,0,1,4,-0.25,2,2,2,28,10,0,0,0,NA,2,0,0
 George Mason Patriots,2022,14, Grace Kristofic,"Kristofic, Grace",Kristofic, Grace,Jr,S,5,10,11,3,11,28,NA,0,2,5,-0.4,102,3,5,39,0,1,0,0,NA,4,2,0
@@ -1558,13 +1558,13 @@ Gonzaga Bulldogs,2022,9, Autumn Larson,"Larson, Autumn",Larson, Autumn,Fr,OPP,6,
 Gonzaga Bulldogs,2022,10, Viktoriya Ivanova,"Ivanova, Viktoriya",Ivanova, Viktoriya,Jr,DS,5,7,6,1,6,19,NA,0,0,1,0,2,4,4,6,0,0,0,0,NA,4,0,0
 Gonzaga Bulldogs,2022,7, Juliette Russell,"Russell, Juliette",Russell, Juliette,Jr,OPP,6,1,1,0,1,1,NA,0,0,1,0,0,0,0,0,0,0,0,0,NA,0,0,0
 Gonzaga Bulldogs,2022,11, Avery Lowe,"Lowe, Avery",Lowe, Avery,So,OH,6,1,1,0,1,1,NA,0,0,0,0,0,0,0,0,0,0,0,0,NA,0,0,0
-Grambling Lady Tigers,2022,2, Ana Calderon,"Calderon, Ana",Calderon, Ana,So,S,5,7,17,15,17,59,NA,7,4,28,0.107,324,19,14,113,1,0,1,0,NA,26.5,5,0
-Grambling Lady Tigers,2022,7, Maggie Plush,"Plush, Maggie",Plush, Maggie,Jr,MB,6,1,17,16,17,56,NA,52,24,127,0.22,2,2,1,12,2,9,22,2,NA,74,1,0
-Grambling Lady Tigers,2022,8, Nyah Ellis,"Ellis, Nyah",Ellis, Nyah,Jr,L/DS,5,5,17,0,17,58,NA,0,1,3,-0.333,52,7,8,228,10,0,0,0,NA,7,0,0
-Grambling Lady Tigers,2022,3, Jayden James,"James, Jayden",James, Jayden,So,OH,5,7,17,16,17,57,NA,220,97,597,0.206,9,23,23,160,28,0,11,5,NA,248.5,1,0
 Grambling Lady Tigers,2022,18, Hillary English,"English, Hillary",English, Hillary,So,OH,5,10,17,7,17,59,NA,36,29,122,0.057,207,13,12,103,0,3,12,3,NA,58,12,0
 Grambling Lady Tigers,2022,14, Haley Gomez,"Gomez, Haley",Gomez, Haley,Sr,MB,6,2,17,17,17,58,NA,92,39,241,0.22,3,17,23,44,0,21,41,12,NA,150.5,2,0
+Grambling Lady Tigers,2022,7, Maggie Plush,"Plush, Maggie",Plush, Maggie,Jr,MB,6,1,17,16,17,56,NA,52,24,127,0.22,2,2,1,12,2,9,22,2,NA,74,1,0
 Grambling Lady Tigers,2022,10, Destiny Thomas,"Thomas, Destiny",Thomas, Destiny,Sr,RS,5,9,17,10,17,58,NA,85,42,272,0.158,1,0,0,49,0,0,21,6,NA,95.5,1,0
+Grambling Lady Tigers,2022,8, Nyah Ellis,"Ellis, Nyah",Ellis, Nyah,Jr,L/DS,5,5,17,0,17,58,NA,0,1,3,-0.333,52,7,8,228,10,0,0,0,NA,7,0,0
+Grambling Lady Tigers,2022,3, Jayden James,"James, Jayden",James, Jayden,So,OH,5,7,17,16,17,57,NA,220,97,597,0.206,9,23,23,160,28,0,11,5,NA,248.5,1,0
+Grambling Lady Tigers,2022,2, Ana Calderon,"Calderon, Ana",Calderon, Ana,So,S,5,7,17,15,17,59,NA,7,4,28,0.107,324,19,14,113,1,0,1,0,NA,26.5,5,0
 Grambling Lady Tigers,2022,12, Kai Williams,"Williams, Kai",Williams, Kai,So,OH,5,11,15,10,15,47,NA,87,63,341,0.07,4,4,11,96,8,2,12,2,NA,99,2,0
 Grambling Lady Tigers,2022,5, Zyonn Smith,"Smith, Zyonn",Smith, Zyonn,Jr,OH,5,6,14,9,14,42,NA,49,25,190,0.126,10,14,19,98,10,1,6,2,NA,67,0,0
 Grambling Lady Tigers,2022,13, Adaizah Millett,"Millett, Adaizah",Millett, Adaizah,Fr,MB,5,10,12,1,12,29,NA,46,24,143,0.154,1,0,1,9,0,2,6,3,NA,51,1,0
@@ -1572,10 +1572,10 @@ Grambling Lady Tigers,2022,1, Bruna Torres,"Torres, Bruna",Torres, Bruna,Jr,L/DS
 Grambling Lady Tigers,2022,23, BeNaye Kyle,"Kyle, BeNaye",Kyle, BeNaye,Fr,OH,5,8,6,0,6,8,NA,8,4,24,0.167,4,0,2,8,2,0,0,0,NA,8,0,0
 Grambling Lady Tigers,2022,9, Destiny Jones,"Jones, Destiny",Jones, Destiny,So,MB,6,0,5,0,5,8,NA,6,2,15,0.267,1,0,0,0,0,0,0,0,NA,6,0,0
 Grambling Lady Tigers,2022,4, Simona Georgieva,"Georgieva, Simona",Georgieva, Simona,So,S,5,8,2,0,2,3,NA,0,0,0,0,4,1,0,2,0,0,0,0,NA,1,1,0
-Grambling Lady Tigers,2022,6, Kyleigh Garrett,"Garrett, Kyleigh",Garrett, Kyleigh,Fr,RS,5,10,1,0,1,1,NA,0,0,0,0,0,0,0,0,0,0,0,0,NA,0,0,0
 Grambling Lady Tigers,2022,88, Sheila Borders,"Borders, Sheila",Borders, Sheila,Sr,S,5,7,1,0,1,1,NA,0,0,1,0,5,0,0,2,0,0,0,0,NA,0,0,0
-Grambling Lady Tigers,2022,15, Luz Divina Nunez Sierra,"Nunez Sierra, Luz Divina",Nunez Sierra, Luz Divina,Sr,MB,6,6,1,0,1,3,NA,0,0,0,0,0,0,0,0,0,0,0,0,NA,0,0,0
 Grambling Lady Tigers,2022,17, Maylin Garrett,"Garrett, Maylin",Garrett, Maylin,Jr,OH,6,0,1,1,1,2,NA,0,0,1,0,1,0,0,1,0,0,0,0,NA,0,0,0
+Grambling Lady Tigers,2022,6, Kyleigh Garrett,"Garrett, Kyleigh",Garrett, Kyleigh,Fr,RS,5,10,1,0,1,1,NA,0,0,0,0,0,0,0,0,0,0,0,0,NA,0,0,0
+Grambling Lady Tigers,2022,15, Luz Divina Nunez Sierra,"Nunez Sierra, Luz Divina",Nunez Sierra, Luz Divina,Sr,MB,6,6,1,0,1,3,NA,0,0,0,0,0,0,0,0,0,0,0,0,NA,0,0,0
 Grand Canyon Lopes,2022,6, Tatum Thomas,"Thomas, Tatum",Thomas, Tatum,Fr,L/DS,5,6,17,0,17,69,NA,2,0,14,0.143,67,18,32,247,11,0,0,0,NA,20,1,0
 Grand Canyon Lopes,2022,2, Klaire Mitchell,"Mitchell, Klaire",Mitchell, Klaire,Sr,S,5,7,17,16,17,69,NA,29,9,100,0.2,646,20,21,169,0,6,25,5,NA,67.5,9,0
 Grand Canyon Lopes,2022,1, McKenzie Wise,"Wise, McKenzie",Wise, McKenzie,So,OH,5,11,17,8,17,56,NA,117,69,371,0.129,8,20,25,83,18,1,7,1,NA,141.5,0,0
@@ -1597,18 +1597,18 @@ Green Bay Phoenix,2022,14, Calli Gentry,"Gentry, Calli",Gentry, Calli,So,S,5,9,2
 Green Bay Phoenix,2022,6, Kayla Lass,"Lass, Kayla",Lass, Kayla,Jr,L,5,9,23,6,23,76,NA,1,0,2,0.5,38,25,16,268,22,0,0,0,NA,26,2,0
 Green Bay Phoenix,2022,18, Alexandra Zakutney,"Zakutney, Alexandra",Zakutney, Alexandra,Sr,OH,5,10,23,23,23,82,NA,270,110,748,0.214,20,24,26,221,24,5,43,2,NA,320.5,2,0
 Green Bay Phoenix,2022,3, Shannon Coughlin,"Coughlin, Shannon",Coughlin, Shannon,Sr,OH,5,10,23,20,23,81,NA,175,58,524,0.223,3,0,0,67,0,0,53,3,NA,201.5,0,0
-Green Bay Phoenix,2022,4, Angie Gromos,"Gromos, Angie",Gromos, Angie,Sr,MB,6,5,22,22,22,79,NA,129,34,300,0.317,6,0,0,13,0,12,81,13,NA,181.5,0,0
 Green Bay Phoenix,2022,15, Cora Behnke,"Behnke, Cora",Behnke, Cora,So,OH,6,1,22,11,22,79,NA,203,77,610,0.207,14,3,5,54,6,3,37,2,NA,227.5,0,0
-Green Bay Phoenix,2022,20, Tiffany Paalman,"Paalman, Tiffany",Paalman, Tiffany,So,MB,6,0,21,21,21,70,NA,199,38,434,0.371,2,5,11,40,1,12,66,9,NA,249,0,0
+Green Bay Phoenix,2022,4, Angie Gromos,"Gromos, Angie",Gromos, Angie,Sr,MB,6,5,22,22,22,79,NA,129,34,300,0.317,6,0,0,13,0,12,81,13,NA,181.5,0,0
 Green Bay Phoenix,2022,5, Annelise Sparks,"Sparks, Annelise",Sparks, Annelise,Jr,L,5,6,21,0,21,72,NA,2,1,14,0.071,21,16,18,204,9,0,0,0,NA,18,1,0
+Green Bay Phoenix,2022,20, Tiffany Paalman,"Paalman, Tiffany",Paalman, Tiffany,So,MB,6,0,21,21,21,70,NA,199,38,434,0.371,2,5,11,40,1,12,66,9,NA,249,0,0
 Green Bay Phoenix,2022,12, Kendall Schara,"Schara, Kendall",Schara, Kendall,Fr,OH,5,8,16,3,16,34,NA,31,8,87,0.264,2,2,6,31,3,1,2,2,NA,35,0,0
 Green Bay Phoenix,2022,11, Zoi Sherolli,"Sherolli, Zoi",Sherolli, Zoi,Jr,OH,6,0,15,1,15,42,NA,7,2,21,0.238,1,3,4,11,0,0,0,0,NA,10,0,0
 Green Bay Phoenix,2022,1, Ellie Kurpeikis,"Kurpeikis, Ellie",Kurpeikis, Ellie,So,MB,6,1,8,3,8,19,NA,12,11,35,0.029,0,2,2,5,0,1,12,1,NA,21,0,0
 Green Bay Phoenix,2022,13, Emma Johnson,"Johnson, Emma",Johnson, Emma,Fr,S,5,9,7,1,7,15,NA,0,1,2,-0.5,57,1,1,9,0,0,0,0,NA,1,4,0
 Green Bay Phoenix,2022,2, Alexis Dorner,"Dorner, Alexis",Dorner, Alexis,Sr,OH,6,0,6,0,6,8,NA,2,2,8,0,0,0,0,2,0,0,1,0,NA,2.5,0,0
 Green Bay Phoenix,2022,10, Isis Rabello,"Rabello, Isis",Rabello, Isis,Jr,L,5,4,3,0,3,5,NA,0,0,0,0,0,0,0,5,2,0,0,0,NA,0,0,0
-Green Bay Phoenix,2022,7, Natalie Johanknecht,"Johanknecht, Natalie",Johanknecht, Natalie,So,MB,6,0,2,0,2,2,NA,0,0,0,0,0,0,0,0,0,0,0,0,NA,0,0,0
 Green Bay Phoenix,2022,21, Danilynn Schell,"Schell, Danilynn",Schell, Danilynn,Jr,DS,5,10,2,0,2,2,NA,0,0,0,0,0,0,0,0,0,0,0,0,NA,0,0,0
+Green Bay Phoenix,2022,7, Natalie Johanknecht,"Johanknecht, Natalie",Johanknecht, Natalie,So,MB,6,0,2,0,2,2,NA,0,0,0,0,0,0,0,0,0,0,0,0,NA,0,0,0
 Hampton Lady Pirates,2022,6, Madison Clark,"Clark, Madison",Clark, Madison,So,RS,6,1,11,6,11,37,NA,69,28,203,0.202,7,7,9,39,11,1,10,1,NA,82,0,0
 Hampton Lady Pirates,2022,5, Leanna Caldwell,"Caldwell, Leanna",Caldwell, Leanna,So,L/DS,5,4,11,0,11,38,NA,5,2,34,0.088,32,8,6,116,11,0,0,0,NA,13,0,0
 Hampton Lady Pirates,2022,14, Rickelle Wescott,"Wescott, Rickelle",Wescott, Rickelle,Jr,MH,5,10,11,11,11,38,NA,43,20,117,0.197,0,2,1,14,2,6,17,6,NA,59.5,0,0
@@ -1857,8 +1857,8 @@ Indiana St. Sycamores,2022,4, Taylor Shelton,"Shelton, Taylor",Shelton, Taylor,S
 Indiana St. Sycamores,2022,10, Mallory Keller,"Keller, Mallory",Keller, Mallory,Jr,OH,6,0,15,9,15,46,NA,103,85,398,0.045,3,0,0,33,5,5,24,0,NA,120,0,0
 Indiana St. Sycamores,2022,3, Emma Kaelin,"Kaelin, Emma",Kaelin, Emma,So,S,5,8,15,12,15,54,NA,16,3,37,0.351,257,3,10,105,0,0,0,1,NA,19,7,0
 Indiana St. Sycamores,2022,9, Asia Povlin,"Povlin, Asia",Povlin, Asia,Jr,DS,5,9,4,0,4,9,NA,0,0,1,0,1,1,0,1,0,0,0,0,NA,1,0,0
-Indiana St. Sycamores,2022,16, Arika Richardson,"Richardson, Arika",Richardson, Arika,Jr,OH,6,0,1,1,1,2,NA,3,2,14,0.071,0,0,0,0,0,0,2,0,NA,4,0,0
 Indiana St. Sycamores,2022,18, Kylie Newby,"Newby, Kylie",Newby, Kylie,Sr,MB,5,11,1,0,1,2,NA,0,0,1,0,0,0,0,1,0,0,0,0,NA,0,0,0
+Indiana St. Sycamores,2022,16, Arika Richardson,"Richardson, Arika",Richardson, Arika,Jr,OH,6,0,1,1,1,2,NA,3,2,14,0.071,0,0,0,0,0,0,2,0,NA,4,0,0
 Iona Gaels,2022,17, Greta Stjade,"Stjade, Greta",Stjade, Greta,Jr,OH,5,10,19,15,19,65,NA,131,55,425,0.179,12,20,18,97,29,2,13,2,NA,159.5,0,0
 Iona Gaels,2022,4, Samantha Juran,"Juran, Samantha",Juran, Samantha,Sr,S,5,8,19,11,19,68,NA,9,2,46,0.152,317,30,38,112,0,1,0,0,NA,40,8,0
 Iona Gaels,2022,8, Hope Matschner,"Matschner, Hope",Matschner, Hope,Jr,L,5,10,19,0,19,71,NA,2,1,18,0.056,61,10,4,460,8,0,0,0,NA,12,0,0
@@ -1962,8 +1962,8 @@ James Madison Dukes,2022,17, Madilyn O'Toole,"O'Toole, Madilyn",O'Toole, Madilyn
 James Madison Dukes,2022,1, Jaydyn Clemmer,"Clemmer, Jaydyn",Clemmer, Jaydyn,So,DS,5,7,16,0,16,59,NA,2,0,8,0.25,56,7,12,186,19,0,0,0,NA,9,1,0
 James Madison Dukes,2022,15, Sophie Davis,"Davis, Sophie",Davis, Sophie,Sr,MB,6,1,16,16,16,59,NA,162,32,314,0.414,4,17,12,36,0,19,63,2,NA,229.5,1,0
 James Madison Dukes,2022,14, Annie Smith,"Smith, Annie",Smith, Annie,So,MB,6,1,15,14,15,49,NA,73,24,165,0.297,4,0,0,10,0,12,26,2,NA,98,0,0
-James Madison Dukes,2022,4, Caroline Dozier,"Dozier, Caroline",Dozier, Caroline,Sr,S,6,0,15,15,15,56,NA,25,7,69,0.261,511,10,15,93,0,4,31,0,NA,54.5,5,0
 James Madison Dukes,2022,10, Miëtte Veldman,"Veldman, Miëtte",Veldman, Miëtte,Jr,OH,5,10,15,15,15,56,NA,230,63,557,0.3,7,15,8,117,12,8,12,0,NA,259,0,0
+James Madison Dukes,2022,4, Caroline Dozier,"Dozier, Caroline",Dozier, Caroline,Sr,S,6,0,15,15,15,56,NA,25,7,69,0.261,511,10,15,93,0,4,31,0,NA,54.5,5,0
 James Madison Dukes,2022,11, Cameryn Jones,"Jones, Cameryn",Jones, Cameryn,Sr,RS,5,11,14,9,14,40,NA,32,15,108,0.157,1,1,0,10,0,7,22,2,NA,51,0,0
 James Madison Dukes,2022,6, Danielle Nathan,"Nathan, Danielle",Nathan, Danielle,Sr,OH,6,0,12,8,12,41,NA,104,47,277,0.206,0,0,6,23,5,5,11,0,NA,114.5,0,0
 James Madison Dukes,2022,9, Elizabeth Helmich,"Helmich, Elizabeth",Helmich, Elizabeth,Jr,RS,6,2,11,4,11,25,NA,23,18,77,0.065,1,0,0,8,0,1,7,3,NA,27.5,0,0
@@ -2070,12 +2070,12 @@ LIU Sharks,2022,5, Allie Merz,"Merz, Allie",Merz, Allie,Jr,S,5,11,18,11,18,63,NA
 LIU Sharks,2022,12, Karolina Nova,"Nova, Karolina",Nova, Karolina,Sr,OH,6,0,18,18,18,62,NA,162,73,513,0.173,13,20,7,140,26,1,25,2,NA,195.5,0,0
 LIU Sharks,2022,16, Barbora Hoskova,"Hoskova, Barbora",Hoskova, Barbora,Sr,OH,5,11,18,12,18,63,NA,166,62,459,0.227,6,9,19,94,0,1,41,4,NA,196.5,3,0
 LIU Sharks,2022,8, Olivia Lucia,"Lucia, Olivia",Lucia, Olivia,So,MB,6,1,18,16,18,46,NA,57,24,147,0.224,3,2,8,11,1,4,46,1,NA,86,0,0
-LIU Sharks,2022,7, Rumur Rouille,"Rouille, Rumur",Rouille, Rumur,So,MB,6,4,17,10,17,39,NA,42,13,101,0.287,3,0,1,13,0,3,49,4,NA,69.5,0,0
 LIU Sharks,2022,18, Amaris Smith,"Smith, Amaris",Smith, Amaris,Fr,OH,6,1,17,16,17,59,NA,140,67,417,0.175,8,14,15,83,18,1,17,2,NA,163.5,0,0
+LIU Sharks,2022,7, Rumur Rouille,"Rouille, Rumur",Rouille, Rumur,So,MB,6,4,17,10,17,39,NA,42,13,101,0.287,3,0,1,13,0,3,49,4,NA,69.5,0,0
 LIU Sharks,2022,17, Katie Berg,"Berg, Katie",Berg, Katie,So,MB,6,4,16,9,16,41,NA,55,28,150,0.18,3,1,4,14,0,0,17,2,NA,64.5,0,0
 LIU Sharks,2022,27, Anisa Lopez,"Lopez, Anisa",Lopez, Anisa,Sr,OH,5,9,13,1,13,23,NA,7,14,45,-0.156,1,2,3,14,2,0,2,0,NA,10,1,0
-LIU Sharks,2022,14, Hannah Chappelle,"Chappelle, Hannah",Chappelle, Hannah,Fr,OH,5,11,10,0,10,15,NA,5,2,17,0.176,0,0,0,4,0,0,2,1,NA,6,0,0
 LIU Sharks,2022,22, Jordan MacDonald,"MacDonald, Jordan",MacDonald, Jordan,So,OH,5,10,10,0,10,20,NA,10,6,37,0.108,3,5,7,17,1,0,0,0,NA,15,0,0
+LIU Sharks,2022,14, Hannah Chappelle,"Chappelle, Hannah",Chappelle, Hannah,Fr,OH,5,11,10,0,10,15,NA,5,2,17,0.176,0,0,0,4,0,0,2,1,NA,6,0,0
 LIU Sharks,2022,4, Osahuese Algbedo,"Algbedo, Osahuese",Algbedo, Osahuese,Jr,MB,6,0,9,1,9,15,NA,4,2,19,0.105,0,0,0,2,0,1,6,0,NA,8,0,0
 LIU Sharks,2022,2, Jillian Peters,"Peters, Jillian",Peters, Jillian,Jr,DS,5,3,6,0,6,6,NA,0,0,1,0,2,3,2,2,0,0,0,0,NA,3,0,0
 LIU Sharks,2022,11, Riana Blount,"Blount, Riana",Blount, Riana,Sr,MB,6,0,5,0,5,7,NA,0,1,10,-0.1,1,0,1,1,0,1,2,0,NA,2,0,0
@@ -2265,28 +2265,28 @@ Louisville Cardinals,2022,14, Anna DeBeer,"DeBeer, Anna",DeBeer, Anna,Jr,OH,6,0,
 Louisville Cardinals,2022,16, Paige Morningstar,"Morningstar, Paige",Morningstar, Paige,So,S,6,0,5,0,5,6,NA,0,0,0,0,6,0,0,5,0,0,0,0,NA,0,0,0
 Louisville Cardinals,2022,5, Elle Glock,"Glock, Elle",Glock, Elle,So,S,6,1,4,1,4,7,NA,1,1,3,0,51,1,1,8,0,0,3,1,NA,3.5,1,0
 Louisville Cardinals,2022,21, Sydni Schetnan,"Schetnan, Sydni",Schetnan, Sydni,Fr,MB,6,5,4,0,4,5,NA,2,1,5,0.2,0,0,0,0,0,0,1,0,NA,2.5,0,0
-Loyola Chicago Ramblers,2022,17, Grace Hinchman,"Hinchman, Grace",Hinchman, Grace,Jr,L/DS,5,7,21,0,21,80,NA,1,0,4,0.25,89,13,19,320,33,0,0,0,NA,14,1,0
 Loyola Chicago Ramblers,2022,2, Bree Borum,"Borum, Bree",Borum, Bree,So,S,6,0,21,21,21,80,NA,71,12,159,0.371,659,25,27,202,0,2,20,4,NA,108,8,0
+Loyola Chicago Ramblers,2022,17, Grace Hinchman,"Hinchman, Grace",Hinchman, Grace,Jr,L/DS,5,7,21,0,21,80,NA,1,0,4,0.25,89,13,19,320,33,0,0,0,NA,14,1,0
 Loyola Chicago Ramblers,2022,10, Emily Banitt,"Banitt, Emily",Banitt, Emily,Jr,OH,5,10,21,21,21,79,NA,192,90,490,0.208,8,6,7,61,3,8,52,6,NA,232,0,0
 Loyola Chicago Ramblers,2022,7, Anna Feldkamp,"Feldkamp, Anna",Feldkamp, Anna,Jr,MB,6,1,21,18,21,74,NA,152,54,334,0.293,6,1,0,19,1,6,46,2,NA,182,0,0
 Loyola Chicago Ramblers,2022,13, Sarah Murczek,"Murczek, Sarah",Murczek, Sarah,Sr,OH,5,9,20,16,20,75,NA,135,62,416,0.175,16,14,22,150,26,1,12,2,NA,156,0,0
 Loyola Chicago Ramblers,2022,9, Taylor Venuto,"Venuto, Taylor",Venuto, Taylor,Sr,MH,6,1,16,12,16,48,NA,99,18,210,0.386,5,3,6,25,0,11,47,1,NA,136.5,1,0
 Loyola Chicago Ramblers,2022,16, Madi Corey,"Corey, Madi",Corey, Madi,Sr,S,5,10,15,0,15,52,NA,0,0,2,0,5,19,19,16,0,0,1,1,NA,19.5,1,0
-Loyola Chicago Ramblers,2022,5, Addie Barnes,"Barnes, Addie",Barnes, Addie,Sr,OH,5,11,14,8,14,50,NA,77,50,233,0.116,7,24,23,82,5,1,19,3,NA,111.5,0,0
 Loyola Chicago Ramblers,2022,18, Bayley McMenimen,"McMenimen, Bayley",McMenimen, Bayley,Sr,S,5,9,14,0,14,41,NA,3,0,9,0.333,177,9,7,67,0,0,0,2,NA,12,6,0
+Loyola Chicago Ramblers,2022,5, Addie Barnes,"Barnes, Addie",Barnes, Addie,Sr,OH,5,11,14,8,14,50,NA,77,50,233,0.116,7,24,23,82,5,1,19,3,NA,111.5,0,0
+Loyola Chicago Ramblers,2022,12, Kelsey Watson,"Watson, Kelsey",Watson, Kelsey,Jr,MB,6,1,13,12,13,45,NA,84,31,188,0.282,0,0,0,5,0,5,41,5,NA,109.5,0,0
 Loyola Chicago Ramblers,2022,6, Esma Ajanovic,"Ajanovic, Esma",Ajanovic, Esma,So,RS,6,1,13,0,13,32,NA,57,20,125,0.296,0,0,0,9,1,0,15,2,NA,64.5,0,0
 Loyola Chicago Ramblers,2022,4, Karlie McNabb,"McNabb, Karlie",McNabb, Karlie,Jr,OH,5,9,13,13,13,48,NA,150,63,416,0.209,8,17,18,105,17,3,12,1,NA,176,0,0
-Loyola Chicago Ramblers,2022,12, Kelsey Watson,"Watson, Kelsey",Watson, Kelsey,Jr,MB,6,1,13,12,13,45,NA,84,31,188,0.282,0,0,0,5,0,5,41,5,NA,109.5,0,0
 Loyola Chicago Ramblers,2022,3, Olivia Lovett,"Lovett, Olivia",Lovett, Olivia,So,OH,5,11,11,5,11,29,NA,57,28,136,0.213,7,7,10,64,6,1,3,0,NA,66.5,0,0
 Loyola Chicago Ramblers,2022,1, Paige Kaufman,"Kaufman, Paige",Kaufman, Paige,Sr,L/DS,5,5,6,0,6,18,NA,0,0,1,0,3,0,0,12,2,0,1,0,NA,0.5,0,0
 Loyola Chicago Ramblers,2022,8, Kat Warpinski,"Warpinski, Kat",Warpinski, Kat,Jr,L/DS,5,9,4,0,4,5,NA,0,0,0,0,0,0,2,3,3,0,0,0,NA,0,0,0
 Loyola Chicago Ramblers,2022,14, Ella Ramsay,"Ramsay, Ella",Ramsay, Ella,Fr,MH,6,1,3,0,3,6,NA,6,2,16,0.25,1,0,1,1,0,0,3,0,NA,7.5,0,0
 Loyola Chicago Ramblers,2022,11, Kasey Bell,"Bell, Kasey",Bell, Kasey,Sr,MB,5,11,1,0,1,1,NA,0,0,0,0,0,0,0,0,0,0,0,0,NA,0,0,0
 Loyola Maryland Greyhounds,2022,14, Lauren Link,"Link, Lauren",Link, Lauren,Jr,OH,5,11,15,15,15,57,NA,249,131,723,0.163,8,11,15,160,13,1,16,0,NA,269,0,0
-Loyola Maryland Greyhounds,2022,16, Cecylia Guye,"Guye, Cecylia",Guye, Cecylia,Sr,MB,6,2,15,15,15,57,NA,114,41,277,0.264,1,0,0,12,0,6,39,7,NA,139.5,1,0
-Loyola Maryland Greyhounds,2022,9, Adara Kellogg,"Kellogg, Adara",Kellogg, Adara,Sr,MB,6,3,15,15,15,57,NA,80,39,247,0.166,4,5,7,19,1,2,35,5,NA,104.5,1,0
-Loyola Maryland Greyhounds,2022,12, Megan Bukala,"Bukala, Megan",Bukala, Megan,Sr,OH,5,10,15,4,15,56,NA,133,74,391,0.151,3,4,10,55,14,0,12,1,NA,143,1,0
 Loyola Maryland Greyhounds,2022,18, Katie Forsythe,"Forsythe, Katie",Forsythe, Katie,Sr,L,5,7,15,0,15,57,NA,1,2,13,-0.077,69,11,22,306,12,0,0,0,NA,12,0,0
+Loyola Maryland Greyhounds,2022,16, Cecylia Guye,"Guye, Cecylia",Guye, Cecylia,Sr,MB,6,2,15,15,15,57,NA,114,41,277,0.264,1,0,0,12,0,6,39,7,NA,139.5,1,0
+Loyola Maryland Greyhounds,2022,12, Megan Bukala,"Bukala, Megan",Bukala, Megan,Sr,OH,5,10,15,4,15,56,NA,133,74,391,0.151,3,4,10,55,14,0,12,1,NA,143,1,0
+Loyola Maryland Greyhounds,2022,9, Adara Kellogg,"Kellogg, Adara",Kellogg, Adara,Sr,MB,6,3,15,15,15,57,NA,80,39,247,0.166,4,5,7,19,1,2,35,5,NA,104.5,1,0
 Loyola Maryland Greyhounds,2022,15, Rose McDermott,"McDermott, Rose",McDermott, Rose,So,L/DS,5,6,13,9,13,48,NA,0,0,2,0,7,11,14,93,11,0,0,0,NA,11,0,0
 Loyola Maryland Greyhounds,2022,5, Ally Bauer,"Bauer, Ally",Bauer, Ally,Fr,DS,5,4,12,7,12,39,NA,2,1,11,0.091,12,3,8,76,8,0,0,0,NA,5,0,0
 Loyola Maryland Greyhounds,2022,6, Caitlin Churney,"Churney, Caitlin",Churney, Caitlin,Jr,MB,6,2,11,5,11,42,NA,85,48,234,0.158,2,0,0,21,0,1,19,3,NA,95.5,0,0
@@ -2307,8 +2307,8 @@ Manhattan Jaspers,2022,10, Camila GOMEZ,"GOMEZ, Camila",GOMEZ, Camila,Sr,OH,5,9,
 Manhattan Jaspers,2022,14, Bella Nascimento,"Nascimento, Bella",Nascimento, Bella,So,DS,5,8,12,11,12,39,NA,30,20,112,0.089,5,4,11,38,2,3,6,0,NA,40,1,0
 Manhattan Jaspers,2022,3, Christina Katsamouri,"Katsamouri, Christina",Katsamouri, Christina,Sr,OH,6,0,6,4,6,14,NA,1,4,9,-0.333,0,0,0,2,1,1,3,1,NA,3.5,1,0
 Manhattan Jaspers,2022,9, Emilia Lynch,"Lynch, Emilia",Lynch, Emilia,Fr,OH,5,9,4,4,4,12,NA,5,0,12,0.417,0,2,4,4,1,0,1,0,NA,7.5,0,0
-Manhattan Jaspers,2022,2, Gemma Ruiz Garcia,"Ruiz Garcia, Gemma",Ruiz Garcia, Gemma,Sr,MB,6,3,2,2,2,6,NA,0,0,1,0,0,0,7,2,0,0,3,2,NA,1.5,0,0
 Manhattan Jaspers,2022,9, Leyla Ozturk,"Ozturk, Leyla",Ozturk, Leyla,Jr,OH,6,1,2,0,2,2,NA,1,1,3,0,0,0,0,1,0,1,0,1,NA,2,1,0
+Manhattan Jaspers,2022,2, Gemma Ruiz Garcia,"Ruiz Garcia, Gemma",Ruiz Garcia, Gemma,Sr,MB,6,3,2,2,2,6,NA,0,0,1,0,0,0,7,2,0,0,3,2,NA,1.5,0,0
 Manhattan Jaspers,2022,2, Anne Bair,"Bair, Anne",Bair, Anne,Fr,DS,5,7,1,1,1,2,NA,1,0,1,1,0,0,0,1,1,0,0,1,NA,1,1,0
 Marist Red Foxes,2022,10, Gabrielle Heller,"Heller, Gabrielle",Heller, Gabrielle,Sr,OH,6,2,19,19,19,68,NA,217,83,543,0.247,13,11,18,171,25,6,26,6,NA,247,0,0
 Marist Red Foxes,2022,2, Alyssa White,"White, Alyssa",White, Alyssa,So,MH,5,11,19,19,19,67,NA,59,32,126,0.214,1,0,0,5,3,10,38,2,NA,88,0,0
@@ -2325,25 +2325,25 @@ Marist Red Foxes,2022,13, Jaya Bhagat,"Bhagat, Jaya",Bhagat, Jaya,So,OH,5,10,5,0
 Marist Red Foxes,2022,9, Anne Mahler,"Mahler, Anne",Mahler, Anne,Jr,RS,5,10,5,0,5,7,NA,9,7,24,0.083,1,1,1,4,0,0,1,0,NA,10.5,0,0
 Marist Red Foxes,2022,19, Julianna Lavner,"Lavner, Julianna",Lavner, Julianna,So,MB,6,0,2,0,2,4,NA,7,2,11,0.455,0,0,0,0,0,0,1,0,NA,7.5,0,0
 Marist Red Foxes,2022,7, Kendall O'Brien,"O'Brien, Kendall",O'Brien, Kendall,Jr,L/DS,5,7,2,0,2,2,NA,0,0,0,0,0,0,0,2,0,0,0,0,NA,0,0,0
-Marquette Golden Eagles,2022,1, Yadhira Anchante,"Anchante, Yadhira",Anchante, Yadhira,So,S,6,0,17,17,17,62,NA,63,9,141,0.383,647,18,7,167,0,2,19,1,NA,92.5,1,1
 Marquette Golden Eagles,2022,23, Samantha Naber,"Naber, Samantha",Naber, Samantha,So,DS,5,7,17,10,17,60,NA,1,0,3,0.333,20,0,0,81,20,0,0,0,NA,1,0,0
 Marquette Golden Eagles,2022,22, Hattie Bray,"Bray, Hattie",Bray, Hattie,So,MB,6,2,17,16,17,62,NA,117,38,254,0.311,6,0,5,27,0,11,32,4,NA,144,1,0
 Marquette Golden Eagles,2022,11, Jadyn Garrison,"Garrison, Jadyn",Garrison, Jadyn,So,DS,5,8,17,1,17,59,NA,0,0,0,0,3,10,6,16,0,0,0,0,NA,10,0,0
 Marquette Golden Eagles,2022,4, Jenna Reitsma,"Reitsma, Jenna",Reitsma, Jenna,So,OH,5,11,17,17,17,61,NA,162,60,471,0.217,22,26,18,163,20,4,13,4,NA,198.5,2,0
 Marquette Golden Eagles,2022,7, Ella Foti,"Foti, Ella",Foti, Ella,So,S,6,0,17,6,17,61,NA,129,37,303,0.304,11,15,24,72,0,1,19,5,NA,154.5,0,0
-Marquette Golden Eagles,2022,10, Aubrey Hamilton,"Hamilton, Aubrey",Hamilton, Aubrey,So,OH,6,2,17,17,17,61,NA,196,72,548,0.226,8,15,13,131,9,4,26,7,NA,228,0,0
-Marquette Golden Eagles,2022,12, Carsen Murray,"Murray, Carsen",Murray, Carsen,So,MB,6,4,17,16,17,60,NA,133,28,253,0.415,2,0,5,8,0,14,54,11,NA,174,0,0
+Marquette Golden Eagles,2022,1, Yadhira Anchante,"Anchante, Yadhira",Anchante, Yadhira,So,S,6,0,17,17,17,62,NA,63,9,141,0.383,647,18,7,167,0,2,19,1,NA,92.5,1,1
 Marquette Golden Eagles,2022,14, Carly Skrabak,"Skrabak, Carly",Skrabak, Carly,Jr,DS,5,6,17,0,17,62,NA,3,0,6,0.5,69,11,11,280,7,0,0,0,NA,14,1,0
+Marquette Golden Eagles,2022,12, Carsen Murray,"Murray, Carsen",Murray, Carsen,So,MB,6,4,17,16,17,60,NA,133,28,253,0.415,2,0,5,8,0,14,54,11,NA,174,0,0
+Marquette Golden Eagles,2022,10, Aubrey Hamilton,"Hamilton, Aubrey",Hamilton, Aubrey,So,OH,6,2,17,17,17,61,NA,196,72,548,0.226,8,15,13,131,9,4,26,7,NA,228,0,0
 Marquette Golden Eagles,2022,16, Ella Holmstrom,"Holmstrom, Ella",Holmstrom, Ella,Fr,OH,6,1,16,0,16,43,NA,45,20,107,0.234,3,1,3,6,0,0,9,3,NA,50.5,1,0
-Marquette Golden Eagles,2022,17, Natalie Ring,"Ring, Natalie",Ring, Natalie,Fr,OH,6,1,12,0,12,19,NA,13,2,35,0.314,0,0,4,6,0,0,0,0,NA,13,0,0
 Marquette Golden Eagles,2022,8, Adriana Studer,"Studer, Adriana",Studer, Adriana,Fr,DS,5,8,12,0,12,15,NA,0,0,0,0,3,0,0,6,4,0,0,0,NA,0,0,0
+Marquette Golden Eagles,2022,17, Natalie Ring,"Ring, Natalie",Ring, Natalie,Fr,OH,6,1,12,0,12,19,NA,13,2,35,0.314,0,0,4,6,0,0,0,0,NA,13,0,0
 Marquette Golden Eagles,2022,9, Sienna Ifill,"Ifill, Sienna",Ifill, Sienna,Fr,OH,6,1,8,1,8,8,NA,4,5,13,-0.077,0,0,0,2,0,0,0,1,NA,4,0,0
 Marquette Golden Eagles,2022,5, Caroline Dragani,"Dragani, Caroline",Dragani, Caroline,Jr,S,5,11,6,0,6,6,NA,0,0,0,0,10,0,1,4,0,0,0,0,NA,0,0,0
 Marquette Golden Eagles,2022,3, Anastasija Svetnik,"Svetnik, Anastasija",Svetnik, Anastasija,So,MB,6,3,5,1,5,8,NA,8,2,11,0.545,0,2,1,3,0,0,0,1,NA,10,0,0
 Marquette Golden Eagles,2022,13, Claire Nuessmeier,"Nuessmeier, Claire",Nuessmeier, Claire,Jr,MB,6,2,4,0,4,4,NA,1,1,5,0,0,0,0,0,0,0,0,1,NA,1,0,0
 Marquette Golden Eagles,2022,6, Megan Lund,"Lund, Megan",Lund, Megan,Jr,DS,5,11,2,0,2,2,NA,0,0,0,0,0,0,0,1,0,0,0,0,NA,0,0,0
-Marquette Golden Eagles,2022,2, Hannah Vanden Berg,"Vanden Berg, Hannah",Vanden Berg, Hannah,Jr,OH,6,2,1,0,1,3,NA,1,0,2,0.5,0,0,0,3,0,0,0,0,NA,1,0,0
 Marquette Golden Eagles,2022,18, Morgan Daugherty,"Daugherty, Morgan",Daugherty, Morgan,Fr,MB,6,3,1,1,1,1,NA,0,0,0,0,0,0,0,0,0,0,0,0,NA,0,0,0
+Marquette Golden Eagles,2022,2, Hannah Vanden Berg,"Vanden Berg, Hannah",Vanden Berg, Hannah,Jr,OH,6,2,1,0,1,3,NA,1,0,2,0.5,0,0,0,3,0,0,0,0,NA,1,0,0
 Marshall Thundering Herd,2022,13, Macy McElhaney,"McElhaney, Macy",McElhaney, Macy,Sr,MB,6,1,19,18,19,70,NA,208,78,620,0.21,21,16,16,179,13,2,31,1,NA,241.5,2,0
 Marshall Thundering Herd,2022,10, Kaitlyn Gehler,"Gehler, Kaitlyn",Gehler, Kaitlyn,Sr,L,5,6,19,0,19,59,NA,0,0,5,0,55,7,6,260,15,0,0,1,NA,7,0,0
 Marshall Thundering Herd,2022,15, Lydia Montague,"Montague, Lydia",Montague, Lydia,Sr,MB,6,1,19,19,19,68,NA,169,51,368,0.321,15,18,16,63,2,11,73,6,NA,234.5,2,0
@@ -2842,14 +2842,14 @@ New Mexico St. Aggies,2022,3, Kaleigh Thomas,"Thomas, Kaleigh",Thomas, Kaleigh,J
 New Orleans Privateers,2022,23, Sophia Ewalefo,"Ewalefo, Sophia",Ewalefo, Sophia,Fr,OH,5,10,20,16,20,65,NA,184,95,589,0.151,5,12,9,168,15,3,22,3,NA,210,1,0
 New Orleans Privateers,2022,21, Mauri Carver,"Carver, Mauri",Carver, Mauri,Sr,MB,6,3,20,19,20,73,NA,114,34,296,0.27,3,14,17,21,0,28,44,4,NA,178,1,0
 New Orleans Privateers,2022,4, Rita Zecchin,"Zecchin, Rita",Zecchin, Rita,Jr,OH,5,11,19,4,19,66,NA,3,5,30,-0.067,26,26,18,230,12,0,1,0,NA,29.5,0,0
-New Orleans Privateers,2022,2, Trinity Jackson,"Jackson, Trinity",Jackson, Trinity,Jr,OH,5,9,18,6,18,44,NA,104,57,384,0.122,8,5,5,72,8,2,6,1,NA,114,0,0
 New Orleans Privateers,2022,8, Kamryn Scroggins,"Scroggins, Kamryn",Scroggins, Kamryn,Fr,S,5,9,18,17,18,68,NA,45,8,122,0.303,552,15,6,182,0,0,16,1,NA,68,10,0
-New Orleans Privateers,2022,1, Sheilah Purcell,"Purcell, Sheilah",Purcell, Sheilah,Jr,L/DS,5,5,17,4,17,59,NA,0,2,9,-0.222,40,6,9,246,20,0,0,0,NA,6,0,0
+New Orleans Privateers,2022,2, Trinity Jackson,"Jackson, Trinity",Jackson, Trinity,Jr,OH,5,9,18,6,18,44,NA,104,57,384,0.122,8,5,5,72,8,2,6,1,NA,114,0,0
 New Orleans Privateers,2022,10, Micah Hall,"Hall, Micah",Hall, Micah,So,L/DS,5,2,17,1,17,53,NA,0,0,4,0,10,12,27,105,10,0,0,0,NA,12,0,0
+New Orleans Privateers,2022,1, Sheilah Purcell,"Purcell, Sheilah",Purcell, Sheilah,Jr,L/DS,5,5,17,4,17,59,NA,0,2,9,-0.222,40,6,9,246,20,0,0,0,NA,6,0,0
 New Orleans Privateers,2022,6, Claire Turner,"Turner, Claire",Turner, Claire,So,S,5,9,16,1,16,54,NA,3,0,8,0.375,59,6,18,43,1,0,0,0,NA,9,2,0
 New Orleans Privateers,2022,20, Sydney Gott,"Gott, Sydney",Gott, Sydney,Jr,MB,6,3,16,13,16,47,NA,64,26,168,0.226,2,1,2,10,1,9,29,3,NA,88.5,0,0
-New Orleans Privateers,2022,12, Chandler Lee,"Lee, Chandler",Lee, Chandler,Fr,OH,6,0,14,7,14,36,NA,57,36,192,0.109,0,0,0,10,0,1,4,0,NA,60,0,0
 New Orleans Privateers,2022,5, Kristi Gomez,"Gomez, Kristi",Gomez, Kristi,Sr,RS,5,10,14,8,14,40,NA,95,45,325,0.154,4,11,15,92,20,3,6,5,NA,112,0,0
+New Orleans Privateers,2022,12, Chandler Lee,"Lee, Chandler",Lee, Chandler,Fr,OH,6,0,14,7,14,36,NA,57,36,192,0.109,0,0,0,10,0,1,4,0,NA,60,0,0
 New Orleans Privateers,2022,9, Lauren Harrell,"Harrell, Lauren",Harrell, Lauren,Fr,RS,6,3,13,6,13,35,NA,41,24,131,0.13,1,0,0,6,0,2,13,4,NA,49.5,0,0
 New Orleans Privateers,2022,22, Courtney Roundtree,"Roundtree, Courtney",Roundtree, Courtney,Fr,MB,6,0,11,10,11,37,NA,37,30,122,0.057,4,0,0,7,0,6,23,2,NA,54.5,0,0
 New Orleans Privateers,2022,15, Molly Kehoe,"Kehoe, Molly",Kehoe, Molly,So,OH,5,11,10,1,10,21,NA,62,22,188,0.213,0,5,5,16,1,0,1,1,NA,67.5,0,0
@@ -2931,8 +2931,8 @@ North Carolina Tar Heels,2022,24, Marissa Meyerhoefer,"Meyerhoefer, Marissa",Mey
 North Carolina Tar Heels,2022,7, Sadie Swift,"Swift, Sadie",Swift, Sadie,Fr,MH,6,3,5,1,5,10,NA,6,3,29,0.103,0,0,0,1,0,0,7,1,NA,9.5,0,0
 North Carolina Tar Heels,2022,10, Aziah Buckner,"Buckner, Aziah",Buckner, Aziah,Jr,OH,5,11,3,2,3,12,NA,32,16,77,0.208,1,2,1,10,1,0,6,0,NA,37,0,0
 North Carolina Tar Heels,2022,16, Ava Swain,"Swain, Ava",Swain, Ava,Fr,OH,6,1,2,0,2,2,NA,2,1,7,0.143,0,0,0,1,0,0,0,0,NA,2,0,0
-North Carolina Tar Heels,2022,36, Cadence Shea,"Shea, Cadence",Shea, Cadence,Fr,OH,6,1,1,0,1,1,NA,0,0,0,0,0,0,0,0,0,0,0,0,NA,0,0,0
 North Carolina Tar Heels,2022,21, Karenna Wurl,"Wurl, Karenna",Wurl, Karenna,Sr,L/DS,5,10,1,0,1,4,NA,0,0,0,0,2,0,2,12,2,0,0,0,NA,0,0,0
+North Carolina Tar Heels,2022,36, Cadence Shea,"Shea, Cadence",Shea, Cadence,Fr,OH,6,1,1,0,1,1,NA,0,0,0,0,0,0,0,0,0,0,0,0,NA,0,0,0
 North Dakota Fighting Hawks,2022,7, Izzy McCormick,"McCormick, Izzy",McCormick, Izzy,Fr,L,5,7,18,3,18,64,NA,1,1,10,0,31,19,15,135,14,0,0,0,NA,20,1,0
 North Dakota Fighting Hawks,2022,9, Ashlyn Olson,"Olson, Ashlyn",Olson, Ashlyn,So,RS,6,0,18,14,18,60,NA,149,74,408,0.184,2,0,0,22,0,0,33,5,NA,165.5,0,0
 North Dakota Fighting Hawks,2022,2, Maddy Hornyak,"Hornyak, Maddy",Hornyak, Maddy,So,OH,5,10,18,11,18,63,NA,10,9,47,0.021,4,18,20,133,16,0,0,0,NA,28,0,0
@@ -2981,12 +2981,12 @@ North Florida Ospreys,2022,8, Mackenzie Piester,"Piester, Mackenzie",Piester, Ma
 North Florida Ospreys,2022,10, Alannah Nelson,"Nelson, Alannah",Nelson, Alannah,Fr,MB,6,1,6,0,6,7,NA,0,1,4,-0.25,0,0,0,1,0,2,3,0,NA,3.5,0,0
 North Florida Ospreys,2022,13, Annie Antar,"Antar, Annie",Antar, Annie,So,S,5,11,1,0,1,3,NA,0,0,0,0,0,0,0,0,0,0,0,0,NA,0,0,0
 North Florida Ospreys,2022,6, Janelly Ceopa,"Ceopa, Janelly",Ceopa, Janelly,So,OH,5,11,1,0,1,1,NA,0,0,1,0,0,0,0,0,0,0,0,0,NA,0,0,0
-North Texas Mean Green,2022,23, Aryn Johnson,"Johnson, Aryn",Johnson, Aryn,So,OH,5,9,21,21,21,75,NA,216,138,600,0.13,6,24,22,147,36,2,33,2,NA,258.5,1,0
-North Texas Mean Green,2022,16, Truli Levy,"Levy, Truli",Levy, Truli,Jr,OPP,5,10,21,5,21,77,NA,126,59,340,0.197,2,2,2,22,0,3,43,8,NA,152.5,3,0
-North Texas Mean Green,2022,8, Ceci Harness,"Harness, Ceci",Harness, Ceci,So,S,5,8,21,21,21,77,NA,7,5,31,0.065,534,14,13,137,0,0,6,0,NA,24,5,0
+North Texas Mean Green,2022,14, Treyaunna Rush,"Rush, Treyaunna",Rush, Treyaunna,Jr,OPP,6,1,21,21,21,77,NA,288,108,678,0.265,5,1,5,48,0,3,59,5,NA,321.5,0,0
 North Texas Mean Green,2022,12, Sh'Diamond Holly,"Holly, Sh'Diamond",Holly, Sh'Diamond,Jr,MB,6,0,21,21,21,77,NA,156,36,295,0.407,3,2,7,27,0,19,79,4,NA,216.5,5,0
 North Texas Mean Green,2022,1, Aleeyah Galdeira,"Galdeira, Aleeyah",Galdeira, Aleeyah,Sr,L/DS,5,6,21,0,21,77,NA,3,2,21,0.048,102,12,16,349,26,0,0,0,NA,15,0,0
-North Texas Mean Green,2022,14, Treyaunna Rush,"Rush, Treyaunna",Rush, Treyaunna,Jr,OPP,6,1,21,21,21,77,NA,288,108,678,0.265,5,1,5,48,0,3,59,5,NA,321.5,0,0
+North Texas Mean Green,2022,23, Aryn Johnson,"Johnson, Aryn",Johnson, Aryn,So,OH,5,9,21,21,21,75,NA,216,138,600,0.13,6,24,22,147,36,2,33,2,NA,258.5,1,0
+North Texas Mean Green,2022,8, Ceci Harness,"Harness, Ceci",Harness, Ceci,So,S,5,8,21,21,21,77,NA,7,5,31,0.065,534,14,13,137,0,0,6,0,NA,24,5,0
+North Texas Mean Green,2022,16, Truli Levy,"Levy, Truli",Levy, Truli,Jr,OPP,5,10,21,5,21,77,NA,126,59,340,0.197,2,2,2,22,0,3,43,8,NA,152.5,3,0
 North Texas Mean Green,2022,11, Victoria Fontenot,"Fontenot, Victoria",Fontenot, Victoria,Fr,L/DS,5,4,19,1,19,67,NA,0,0,1,0,10,18,15,108,27,0,0,0,NA,18,0,0
 North Texas Mean Green,2022,15, Avery McCrillis,"McCrillis, Avery",McCrillis, Avery,Sr,OH,6,0,16,12,16,45,NA,57,33,175,0.137,3,7,8,26,10,1,13,2,NA,71.5,1,0
 North Texas Mean Green,2022,25, Taylor Litteken,"Litteken, Taylor",Litteken, Taylor,Sr,MB,6,1,16,16,16,57,NA,48,9,116,0.336,5,7,2,26,1,5,45,5,NA,82.5,1,0
@@ -3015,8 +3015,8 @@ Northeastern Huskies,2022,4, Liz Carroll,"Carroll, Liz",Carroll, Liz,Sr,S,6,2,2,
 Northeastern Huskies,2022,12, Evelyn Gonzalez,"Gonzalez, Evelyn",Gonzalez, Evelyn,Sr,OH,5,11,2,0,2,5,NA,3,1,16,0.125,1,0,0,3,0,1,1,0,NA,4.5,0,0
 Northern Ariz. Lumberjacks,2022,13, Keira Hall,"Hall, Keira",Hall, Keira,Fr,S,5,10,13,7,13,53,NA,3,0,4,0.75,9,4,12,96,0,0,0,0,NA,7,1,0
 Northern Ariz. Lumberjacks,2022,12, Jordan Cherniss,"Cherniss, Jordan",Cherniss, Jordan,Fr,DS,5,11,13,10,13,53,NA,14,6,71,0.113,9,19,15,87,19,0,4,0,NA,35,0,0
-Northern Ariz. Lumberjacks,2022,10, Neche Newton,"Newton, Neche",Newton, Neche,Sr,MB,5,11,13,13,13,54,NA,65,32,194,0.17,4,0,6,26,1,5,43,4,NA,91.5,1,0
 Northern Ariz. Lumberjacks,2022,7, Millie O'Ketter,"O'Ketter, Millie",O'Ketter, Millie,Jr,DS,5,6,13,0,13,54,NA,0,1,2,-0.5,45,16,27,245,10,0,0,0,NA,16,0,0
+Northern Ariz. Lumberjacks,2022,10, Neche Newton,"Newton, Neche",Newton, Neche,Sr,MB,5,11,13,13,13,54,NA,65,32,194,0.17,4,0,6,26,1,5,43,4,NA,91.5,1,0
 Northern Ariz. Lumberjacks,2022,11, Savannah Hasson,"Hasson, Savannah",Hasson, Savannah,Jr,MB,6,0,13,5,13,54,NA,83,43,201,0.199,1,0,1,22,0,2,37,3,NA,103.5,0,0
 Northern Ariz. Lumberjacks,2022,2, Kate Hatch,"Hatch, Kate",Hatch, Kate,Jr,S,6,0,13,13,13,54,NA,45,11,137,0.248,468,8,16,159,0,2,23,3,NA,66.5,1,0
 Northern Ariz. Lumberjacks,2022,3, Jordan Elder,"Elder, Jordan",Elder, Jordan,Jr,MB,6,3,11,11,11,48,NA,84,21,222,0.284,4,2,4,17,0,3,38,1,NA,108,0,0
@@ -3524,17 +3524,17 @@ Rice Owls,2022,9, Taylor Johnson,"Johnson, Taylor",Johnson, Taylor,Fr,OH,6,0,6,0
 Rice Owls,2022,33, Maddie Fowler,"Fowler, Maddie",Fowler, Maddie,Sr,OPP,6,3,1,0,1,3,NA,1,0,2,0.5,0,0,0,0,0,0,0,0,NA,1,0,0
 Rider Broncs,2022,12, Carley McAleavey,"McAleavey, Carley",McAleavey, Carley,Fr,MH,6,1,18,17,18,64,NA,128,36,296,0.311,3,16,21,29,3,3,30,3,NA,162,0,0
 Rider Broncs,2022,5, Morgan Romano,"Romano, Morgan",Romano, Morgan,Sr,RS,5,10,18,18,18,67,NA,201,83,535,0.221,67,20,11,121,13,2,26,1,NA,236,2,0
-Rider Broncs,2022,7, Sydney Bond,"Bond, Sydney",Bond, Sydney,So,S,5,8,16,9,16,52,NA,4,2,32,0.062,282,13,15,81,0,0,2,2,NA,18,10,0
 Rider Broncs,2022,4, Brynn Johnson,"Johnson, Brynn",Johnson, Brynn,Fr,OH,6,1,16,1,16,46,NA,48,42,197,0.03,0,0,0,9,0,0,13,5,NA,54.5,1,0
+Rider Broncs,2022,7, Sydney Bond,"Bond, Sydney",Bond, Sydney,So,S,5,8,16,9,16,52,NA,4,2,32,0.062,282,13,15,81,0,0,2,2,NA,18,10,0
 Rider Broncs,2022,22, Julia Slivka,"Slivka, Julia",Slivka, Julia,So,S,5,9,16,7,16,55,NA,12,3,33,0.273,293,18,5,101,1,1,9,1,NA,35.5,4,0
 Rider Broncs,2022,17, Christina Blount,"Blount, Christina",Blount, Christina,So,MH,6,1,16,12,16,47,NA,76,42,191,0.178,2,0,2,12,0,3,24,3,NA,91,0,0
 Rider Broncs,2022,3, Molly Strah,"Strah, Molly",Strah, Molly,Jr,L/DS,5,6,16,2,16,49,NA,0,0,7,0,8,5,19,104,20,0,0,0,NA,5,0,0
 Rider Broncs,2022,2, Keegan O'Connor,"O'Connor, Keegan",O'Connor, Keegan,Fr,L/DS,5,4,15,0,15,40,NA,1,0,5,0.2,16,8,6,96,16,0,0,0,NA,9,0,0
 Rider Broncs,2022,23, Jenna Amaro,"Amaro, Jenna",Amaro, Jenna,Jr,OH,5,11,15,13,15,51,NA,101,66,281,0.125,7,11,31,99,18,4,7,1,NA,119.5,0,0
 Rider Broncs,2022,13, Pamela Loh,"Loh, Pamela",Loh, Pamela,Sr,L/DS,5,3,14,1,14,49,NA,0,2,4,-0.5,37,15,15,139,25,0,0,0,NA,15,0,0
+Rider Broncs,2022,8, Alicia Iafrate,"Iafrate, Alicia",Iafrate, Alicia,Sr,L/DS,5,7,11,2,11,30,NA,0,1,7,-0.143,7,6,6,73,8,0,0,0,NA,6,1,0
 Rider Broncs,2022,24, Tori Schrader,"Schrader, Tori",Schrader, Tori,Jr,OH,6,1,11,11,11,38,NA,67,58,259,0.035,2,0,3,34,9,1,4,1,NA,70,0,0
 Rider Broncs,2022,11, Kianny Santiago,"Santiago, Kianny",Santiago, Kianny,Fr,OH,5,11,11,6,11,31,NA,63,33,224,0.134,4,10,5,42,0,1,10,2,NA,79,1,0
-Rider Broncs,2022,8, Alicia Iafrate,"Iafrate, Alicia",Iafrate, Alicia,Sr,L/DS,5,7,11,2,11,30,NA,0,1,7,-0.143,7,6,6,73,8,0,0,0,NA,6,1,0
 Rider Broncs,2022,9, Nicole Wilkinson,"Wilkinson, Nicole",Wilkinson, Nicole,So,MH,6,0,9,4,9,25,NA,40,12,92,0.304,3,0,0,11,0,0,13,2,NA,46.5,0,0
 Rider Broncs,2022,0, Jordan Taylor,"Taylor, Jordan",Taylor, Jordan,So,OH,5,11,7,1,7,14,NA,19,16,71,0.042,0,0,0,8,0,0,2,1,NA,20,0,0
 Rider Broncs,2022,16, Morgan Koch,"Koch, Morgan",Koch, Morgan,Sr,MB,6,4,4,2,4,8,NA,9,2,26,0.269,0,2,0,2,0,0,3,1,NA,12.5,0,0
@@ -3625,23 +3625,23 @@ Sacramento St. Hornets,2022,13, Mia Guevara,"Guevara, Mia",Guevara, Mia,Fr,DS,5,
 Sacramento St. Hornets,2022,12, Ashlynn Archer,"Archer, Ashlynn",Archer, Ashlynn,Fr,MB,6,1,8,1,8,12,NA,9,2,18,0.389,0,0,0,0,0,0,5,0,NA,11.5,0,0
 Sacramento St. Hornets,2022,18, Savannah Risley,"Risley, Savannah",Risley, Savannah,Fr,S,5,8,4,0,4,4,NA,0,0,1,0,7,0,0,1,0,0,0,0,NA,0,0,0
 Sacramento St. Hornets,2022,9, Karlee Soderberg,"Soderberg, Karlee",Soderberg, Karlee,Jr,OPP,6,3,3,3,3,13,NA,30,8,66,0.333,1,2,7,11,0,1,10,2,NA,38,0,0
-Sacred Heart Pioneers,2022,11, Brooke Jeffrey,"Jeffrey, Brooke",Jeffrey, Brooke,Fr,OH,6,1,20,14,20,67,NA,137,67,422,0.166,6,7,15,64,12,4,28,2,NA,162,0,0
 Sacred Heart Pioneers,2022,4, Camryn Luginbuhl,"Luginbuhl, Camryn",Luginbuhl, Camryn,So,OH,6,0,20,18,20,73,NA,198,110,518,0.17,21,16,27,133,32,3,26,3,NA,230,1,0
 Sacred Heart Pioneers,2022,5, Kate Anderson,"Anderson, Kate",Anderson, Kate,Jr,MB,6,5,20,20,20,77,NA,143,49,317,0.297,4,3,9,19,1,6,51,3,NA,177.5,0,0
-Sacred Heart Pioneers,2022,14, Jasmine Rogers,"Rogers, Jasmine",Rogers, Jasmine,Sr,OH,5,10,20,18,20,77,NA,149,85,482,0.133,37,17,14,154,20,1,13,0,NA,173.5,0,0
+Sacred Heart Pioneers,2022,16, Reghan Palanchi,"Palanchi, Reghan",Palanchi, Reghan,Sr,MB,6,2,20,20,20,77,NA,142,37,328,0.32,1,0,0,18,0,11,63,4,NA,184.5,0,0
+Sacred Heart Pioneers,2022,11, Brooke Jeffrey,"Jeffrey, Brooke",Jeffrey, Brooke,Fr,OH,6,1,20,14,20,67,NA,137,67,422,0.166,6,7,15,64,12,4,28,2,NA,162,0,0
 Sacred Heart Pioneers,2022,7, Emma Smallcomb,"Smallcomb, Emma",Smallcomb, Emma,Sr,L,5,8,20,0,20,77,NA,3,2,16,0.062,102,16,15,346,27,0,0,0,NA,19,0,0
 Sacred Heart Pioneers,2022,3, Sarah Ciszek,"Ciszek, Sarah",Ciszek, Sarah,Sr,S,5,10,20,20,20,77,NA,158,32,350,0.36,700,28,21,188,0,6,36,1,NA,210,9,4
-Sacred Heart Pioneers,2022,16, Reghan Palanchi,"Palanchi, Reghan",Palanchi, Reghan,Sr,MB,6,2,20,20,20,77,NA,142,37,328,0.32,1,0,0,18,0,11,63,4,NA,184.5,0,0
+Sacred Heart Pioneers,2022,14, Jasmine Rogers,"Rogers, Jasmine",Rogers, Jasmine,Sr,OH,5,10,20,18,20,77,NA,149,85,482,0.133,37,17,14,154,20,1,13,0,NA,173.5,0,0
 Sacred Heart Pioneers,2022,6, Lilian Vargo,"Vargo, Lilian",Vargo, Lilian,Sr,S,5,7,15,0,15,29,NA,0,0,0,0,9,3,1,42,0,0,1,0,NA,3.5,0,0
 Sacred Heart Pioneers,2022,24, Alana Felix,"Felix, Alana",Felix, Alana,Sr,OH,5,10,14,0,14,46,NA,0,0,1,0,4,8,9,11,0,0,0,0,NA,8,0,0
 Sacred Heart Pioneers,2022,13, Jessica Foss,"Foss, Jessica",Foss, Jessica,Jr,L,5,6,14,5,14,49,NA,0,0,0,0,9,0,6,58,1,0,1,0,NA,0.5,0,0
 Sacred Heart Pioneers,2022,1, Eliana Rodgers,"Rodgers, Eliana",Rodgers, Eliana,Fr,OH,5,11,10,0,10,23,NA,2,1,5,0.2,1,1,4,8,2,0,0,0,NA,3,0,0
 Sacred Heart Pioneers,2022,18, Hunter Riedl,"Riedl, Hunter",Riedl, Hunter,Jr,OPP,6,1,4,4,4,15,NA,30,20,81,0.123,1,8,11,29,0,1,10,4,NA,44,0,0
 Sacred Heart Pioneers,2022,20, Dominique Felix,"Felix, Dominique",Felix, Dominique,Jr,OH,6,1,4,1,4,13,NA,17,11,75,0.08,2,0,1,6,5,0,2,0,NA,18,0,0
-Sacred Heart Pioneers,2022,10, Cristina Montanez,"Montanez, Cristina",Montanez, Cristina,So,MB,6,3,3,0,3,7,NA,3,0,11,0.273,0,0,0,0,0,1,3,0,NA,5.5,0,0
 Sacred Heart Pioneers,2022,12, Chloe Yagy,"Yagy, Chloe",Yagy, Chloe,Jr,OH,5,9,3,0,3,8,NA,0,0,0,0,0,0,2,1,0,0,0,0,NA,0,0,0
-Sacred Heart Pioneers,2022,15, Michaela Devlin,"Devlin, Michaela",Devlin, Michaela,Sr,MB,6,3,1,0,1,1,NA,0,0,0,0,0,0,0,0,0,0,0,0,NA,0,0,0
+Sacred Heart Pioneers,2022,10, Cristina Montanez,"Montanez, Cristina",Montanez, Cristina,So,MB,6,3,3,0,3,7,NA,3,0,11,0.273,0,0,0,0,0,1,3,0,NA,5.5,0,0
 Sacred Heart Pioneers,2022,2, Bridget Jordan,"Jordan, Bridget",Jordan, Bridget,Jr,DS,5,6,1,0,1,1,NA,0,0,0,0,0,0,0,0,0,0,0,0,NA,0,0,0
+Sacred Heart Pioneers,2022,15, Michaela Devlin,"Devlin, Michaela",Devlin, Michaela,Sr,MB,6,3,1,0,1,1,NA,0,0,0,0,0,0,0,0,0,0,0,0,NA,0,0,0
 Saint Francis (PA) The Red Flash,2022,7, Drew Wallech,"Wallech, Drew",Wallech, Drew,So,MH,6,0,19,19,19,72,NA,58,31,170,0.159,8,1,3,20,1,2,30,3,NA,76,0,0
 Saint Francis (PA) The Red Flash,2022,3, Emma Fenton,"Fenton, Emma",Fenton, Emma,So,S,5,7,19,16,19,70,NA,6,7,30,-0.033,594,22,17,179,0,0,8,1,NA,32,24,0
 Saint Francis (PA) The Red Flash,2022,10, Maggie Hogan,"Hogan, Maggie",Hogan, Maggie,So,OH,5,10,19,16,19,74,NA,164,110,523,0.103,20,26,39,169,22,0,17,4,NA,198.5,0,0
@@ -3821,9 +3821,9 @@ Seattle U Redhawks,2022,8, Amaris Carter,"Carter, Amaris",Carter, Amaris,Sr,MB,5
 Seattle U Redhawks,2022,7, Sydney Wilkes,"Wilkes, Sydney",Wilkes, Sydney,Fr,OH,5,11,2,0,2,2,NA,1,1,4,0,0,0,0,0,0,0,1,0,NA,1.5,0,0
 Seattle U Redhawks,2022,2, Elif Teksoy,"Teksoy, Elif",Teksoy, Elif,Fr,S,6,1,1,1,1,1,NA,0,0,0,0,0,0,0,0,0,0,0,0,NA,0,0,0
 Seattle U Redhawks,2022,5, Catherine Conlisk,"Conlisk, Catherine",Conlisk, Catherine,Fr,MB,6,1,1,1,1,3,NA,3,1,5,0.4,0,0,0,0,0,0,1,0,NA,3.5,0,0
-Seattle U Redhawks,2022,10, Chloe Lee,"Lee, Chloe",Lee, Chloe,Fr,DS,5,4,1,0,1,1,NA,0,0,0,0,1,0,0,0,0,0,0,0,NA,0,0,0
-Seattle U Redhawks,2022,13, Ellie Gordon,"Gordon, Ellie",Gordon, Ellie,Fr,RS,5,10,1,0,1,1,NA,0,0,0,0,0,0,0,0,0,0,0,0,NA,0,0,0
 Seattle U Redhawks,2022,16, Yasemin Elmas,"Elmas, Yasemin",Elmas, Yasemin,Fr,MB,6,2,1,0,1,1,NA,0,0,0,0,0,0,0,0,0,0,0,0,NA,0,0,0
+Seattle U Redhawks,2022,13, Ellie Gordon,"Gordon, Ellie",Gordon, Ellie,Fr,RS,5,10,1,0,1,1,NA,0,0,0,0,0,0,0,0,0,0,0,0,NA,0,0,0
+Seattle U Redhawks,2022,10, Chloe Lee,"Lee, Chloe",Lee, Chloe,Fr,DS,5,4,1,0,1,1,NA,0,0,0,0,1,0,0,0,0,0,0,0,NA,0,0,0
 Seton Hall Pirates,2022,11, Madison Klungel,"Klungel, Madison",Klungel, Madison,So,S,5,11,20,10,20,78,NA,47,18,144,0.201,373,14,12,72,0,3,29,3,NA,78.5,13,0
 Seton Hall Pirates,2022,10, Jenna Walsh,"Walsh, Jenna",Walsh, Jenna,So,OH,5,11,20,16,20,78,NA,268,104,693,0.237,18,11,19,117,16,3,27,2,NA,295.5,0,0
 Seton Hall Pirates,2022,15, Bianca Bucciarelli,"Bucciarelli, Bianca",Bucciarelli, Bianca,Jr,OH,6,2,20,19,20,73,NA,195,88,544,0.197,11,13,30,123,9,2,31,0,NA,225.5,0,0
@@ -3948,12 +3948,12 @@ South Fla. Bulls,2022,6, Amanda DeWitt,"DeWitt, Amanda",DeWitt, Amanda,So,RS,6,1
 South Fla. Bulls,2022,3, Tatiana Johnson,"Johnson, Tatiana",Johnson, Tatiana,Fr,S,0,0,13,7,13,50,NA,14,2,29,0.414,204,8,10,91,0,0,0,0,NA,22,10,0
 South Fla. Bulls,2022,14, Selin Kalkan,"Kalkan, Selin",Kalkan, Selin,Fr,OH,0,0,10,3,10,18,NA,12,11,60,0.017,2,2,6,28,11,0,0,0,NA,14,0,0
 South Fla. Bulls,2022,21, Emma Santi,"Santi, Emma",Santi, Emma,Fr,DS,0,0,5,0,5,10,NA,0,1,2,-0.5,1,1,0,12,2,0,0,0,NA,1,0,0
-South Fla. Bulls,2022,22, Madisyn Lyons,"Lyons, Madisyn",Lyons, Madisyn,Sr,OH,5,7,4,0,4,5,NA,1,1,9,0,1,0,0,1,0,0,1,0,NA,1.5,0,0
 South Fla. Bulls,2022,5, Madison Bragan,"Bragan, Madison",Bragan, Madison,Jr,S,5,10,4,1,4,11,NA,0,1,5,-0.2,26,0,3,9,0,0,0,0,NA,0,3,0
-South Fla. Bulls,2022,12, Buse Hazan,"Hazan, Buse",Hazan, Buse,Fr,OH,0,0,2,1,2,6,NA,3,4,14,-0.071,0,0,0,4,0,1,0,0,NA,4,0,0
+South Fla. Bulls,2022,22, Madisyn Lyons,"Lyons, Madisyn",Lyons, Madisyn,Sr,OH,5,7,4,0,4,5,NA,1,1,9,0,1,0,0,1,0,0,1,0,NA,1.5,0,0
 South Fla. Bulls,2022,4, Makayla Washington,"Washington, Makayla",Washington, Makayla,Jr,MB,6,0,2,1,2,8,NA,25,10,62,0.242,0,0,0,3,0,0,9,0,NA,29.5,1,0
-South Fla. Bulls,2022,7, Ragan Kinard,"Kinard, Ragan",Kinard, Ragan,So,OH,6,2,2,0,2,2,NA,3,1,7,0.286,0,0,0,0,0,0,0,0,NA,3,0,0
 South Fla. Bulls,2022,88, Yasmin Shaw,"Shaw, Yasmin",Shaw, Yasmin,Fr,MB,0,0,2,1,2,5,NA,0,1,5,-0.2,0,0,1,2,0,1,5,0,NA,3.5,0,0
+South Fla. Bulls,2022,12, Buse Hazan,"Hazan, Buse",Hazan, Buse,Fr,OH,0,0,2,1,2,6,NA,3,4,14,-0.071,0,0,0,4,0,1,0,0,NA,4,0,0
+South Fla. Bulls,2022,7, Ragan Kinard,"Kinard, Ragan",Kinard, Ragan,So,OH,6,2,2,0,2,2,NA,3,1,7,0.286,0,0,0,0,0,0,0,0,NA,3,0,0
 Southeast Mo. St. Redhawks,2022,17, Colby Greene,"Greene, Colby",Greene, Colby,Sr,RS,6,2,20,6,20,71,NA,170,57,478,0.236,9,0,0,33,0,5,43,7,NA,196.5,0,0
 Southeast Mo. St. Redhawks,2022,14, Zoey Beasley,"Beasley, Zoey",Beasley, Zoey,Sr,OH,6,2,20,19,20,73,NA,236,83,676,0.226,6,2,5,75,11,7,28,3,NA,259,2,0
 Southeast Mo. St. Redhawks,2022,10, Tara Beilsmith,"Beilsmith, Tara",Beilsmith, Tara,Sr,L,5,7,20,0,20,73,NA,3,0,26,0.115,94,18,15,457,12,0,0,0,NA,21,0,0
@@ -4050,16 +4050,16 @@ Southern U. Lady Jaguars,2022,3, Kailee Deffebaugh,"Deffebaugh, Kailee",Deffebau
 Southern U. Lady Jaguars,2022,1, Akilah Smith,"Smith, Akilah",Smith, Akilah,Fr,MB,5,10,18,8,18,65,NA,82,57,281,0.089,3,0,3,11,0,8,38,1,NA,109,4,0
 Southern U. Lady Jaguars,2022,13, Kyla Carrier,"Carrier, Kyla",Carrier, Kyla,So,S,5,7,18,12,18,63,NA,7,7,43,0,227,9,12,99,0,0,1,1,NA,16.5,11,0
 Southern U. Lady Jaguars,2022,15, Marian Attaway,"Attaway, Marian",Attaway, Marian,So,OH,5,6,18,10,18,52,NA,46,45,167,0.006,4,5,15,75,26,1,8,1,NA,56,0,0
+Southern U. Lady Jaguars,2022,11, Xaria Taylor,"Taylor, Xaria",Taylor, Xaria,Sr,MB,5,10,17,17,17,62,NA,118,57,317,0.192,4,6,9,26,0,18,41,2,NA,162.5,3,0
 Southern U. Lady Jaguars,2022,10, Trenity Lundy,"Lundy, Trenity",Lundy, Trenity,So,L/DS,5,7,17,0,17,58,NA,3,4,36,-0.028,26,5,12,171,32,0,1,0,NA,8.5,4,0
 Southern U. Lady Jaguars,2022,5, Leah Draine,"Draine, Leah",Draine, Leah,Jr,OH,5,9,17,7,17,50,NA,63,55,224,0.036,0,0,3,25,4,3,8,2,NA,70,1,0
-Southern U. Lady Jaguars,2022,11, Xaria Taylor,"Taylor, Xaria",Taylor, Xaria,Sr,MB,5,10,17,17,17,62,NA,118,57,317,0.192,4,6,9,26,0,18,41,2,NA,162.5,3,0
 Southern U. Lady Jaguars,2022,18, Janelle Bye-Blacknard,"Bye-Blacknard, Janelle",Bye-Blacknard, Janelle,Fr,OH,5,9,15,13,15,54,NA,75,66,277,0.032,10,8,20,89,25,1,11,0,NA,89.5,2,0
 Southern U. Lady Jaguars,2022,20, Trinity Brown,"Brown, Trinity",Brown, Trinity,Fr,DS,5,5,14,5,14,34,NA,1,0,5,0.2,4,6,8,31,11,0,0,0,NA,7,1,0
 Southern U. Lady Jaguars,2022,17, Nyah Alexander,"Alexander, Nyah",Alexander, Nyah,Jr,L/DS,5,4,13,1,13,39,NA,2,1,16,0.062,9,4,4,68,7,0,0,0,NA,6,0,0
 Southern U. Lady Jaguars,2022,16, Leslie Warren,"Warren, Leslie",Warren, Leslie,Fr,RS,6,1,9,0,9,14,NA,6,4,21,0.095,0,0,0,1,0,1,3,0,NA,8.5,1,0
 Southern U. Lady Jaguars,2022,9, Iyanah Taylor,"Taylor, Iyanah",Taylor, Iyanah,Fr,S,5,9,4,0,4,7,NA,2,2,10,0,12,0,2,9,0,0,0,0,NA,2,0,0
-Southern U. Lady Jaguars,2022,2, Zion Robinson,"Robinson, Zion",Robinson, Zion,Fr,DS,5,3,1,0,1,1,NA,1,0,2,0.5,0,0,0,0,0,0,0,0,NA,1,0,0
 Southern U. Lady Jaguars,2022,7, Trinity Lane,"Lane, Trinity",Lane, Trinity,Fr,DS,5,5,1,0,1,2,NA,0,0,0,0,0,0,1,0,0,0,0,0,NA,0,0,0
+Southern U. Lady Jaguars,2022,2, Zion Robinson,"Robinson, Zion",Robinson, Zion,Fr,DS,5,3,1,0,1,1,NA,1,0,2,0.5,0,0,0,0,0,0,0,0,NA,1,0,0
 Southern Utah Thunderbirds,2022,18, Macy Short,"Short, Macy",Short, Macy,Jr,S,5,11,15,13,15,57,NA,54,14,150,0.267,412,16,30,144,0,5,7,4,NA,78.5,4,0
 Southern Utah Thunderbirds,2022,23, Molly McDermott,"McDermott, Molly",McDermott, Molly,So,S,6,0,15,15,15,57,NA,109,48,284,0.215,77,10,16,131,0,2,14,10,NA,128,2,1
 Southern Utah Thunderbirds,2022,5, Carissa Richie,"Richie, Carissa",Richie, Carissa,So,MB,6,0,15,12,15,53,NA,63,30,170,0.194,1,0,4,10,0,14,22,16,NA,88,0,0
@@ -4195,22 +4195,22 @@ Syracuse Orange,2022,3, Alyssa Bert,"Bert, Alyssa",Bert, Alyssa,Sr,DS,5,10,17,0,
 Syracuse Orange,2022,5, Ariana Joubert,"Joubert, Ariana",Joubert, Ariana,Fr,OH,6,2,12,1,12,41,NA,11,16,68,-0.074,1,0,0,9,1,1,12,2,NA,18,0,0
 Syracuse Orange,2022,7, Didar Ozcan,"Ozcan, Didar",Ozcan, Didar,Jr,MB,6,1,8,7,8,25,NA,2,4,16,-0.125,2,1,6,7,0,0,16,2,NA,11,0,0
 Syracuse Orange,2022,16, Melina Brooking,"Brooking, Melina",Brooking, Melina,Fr,DS,5,7,2,0,2,3,NA,0,0,0,0,0,0,0,0,0,0,0,0,NA,0,0,0
+TCU Horned Frogs,2022,25, Callie Williams,"Williams, Callie",Williams, Callie,Sr,S,5,9,17,16,17,66,NA,41,12,119,0.244,566,15,32,144,1,1,11,2,NA,62.5,6,0
 TCU Horned Frogs,2022,3, Mykayla Myers,"Myers, Mykayla",Myers, Mykayla,Sr,MB,6,0,17,17,17,63,NA,98,27,225,0.316,2,6,13,24,0,3,51,0,NA,132.5,1,0
 TCU Horned Frogs,2022,15, Audrey Nalls,"Nalls, Audrey",Nalls, Audrey,Sr,OH,6,1,17,16,17,65,NA,237,113,574,0.216,15,9,36,127,17,0,31,3,NA,261.5,1,0
 TCU Horned Frogs,2022,11, Sabrina Sustala,"Sustala, Sabrina",Sustala, Sabrina,Sr,L/DS,0,0,17,2,17,60,NA,0,0,4,0,21,9,11,121,9,0,0,0,NA,9,0,0
-TCU Horned Frogs,2022,25, Callie Williams,"Williams, Callie",Williams, Callie,Sr,S,5,9,17,16,17,66,NA,41,12,119,0.244,566,15,32,144,1,1,11,2,NA,62.5,6,0
 TCU Horned Frogs,2022,12, Julia Adams,"Adams, Julia",Adams, Julia,Sr,OH,6,3,17,15,17,63,NA,222,81,594,0.237,8,14,6,50,14,2,26,1,NA,251,0,0
-TCU Horned Frogs,2022,13, Keagan Polk,"Polk, Keagan",Polk, Keagan,Fr,L/DS,0,0,14,0,14,51,NA,1,0,12,0.083,41,7,17,126,16,0,0,0,NA,8,0,0
 TCU Horned Frogs,2022,5, Jalyn Gibson,"Gibson, Jalyn",Gibson, Jalyn,Fr,OH,0,0,14,0,14,26,NA,29,13,91,0.176,3,2,5,3,3,0,4,2,NA,33,0,0
+TCU Horned Frogs,2022,13, Keagan Polk,"Polk, Keagan",Polk, Keagan,Fr,L/DS,0,0,14,0,14,51,NA,1,0,12,0.083,41,7,17,126,16,0,0,0,NA,8,0,0
+TCU Horned Frogs,2022,33, Riley Weigelt,"Weigelt, Riley",Weigelt, Riley,Fr,L/DS,0,0,13,0,13,28,NA,0,0,0,0,1,0,5,23,2,0,0,0,NA,0,0,0
+TCU Horned Frogs,2022,1, Zoe Hall,"Hall, Zoe",Hall, Zoe,So,MB,6,2,13,11,13,48,NA,81,46,225,0.156,3,0,4,20,0,5,34,1,NA,103,0,0
 TCU Horned Frogs,2022,8, Madilyn Cole,"Cole, Madilyn",Cole, Madilyn,Sr,MB,6,3,13,8,13,28,NA,15,10,47,0.106,1,0,0,8,0,6,31,1,NA,36.5,0,0
 TCU Horned Frogs,2022,19, Afedo Manyang,"Manyang, Afedo",Manyang, Afedo,Sr,MB,6,3,13,1,13,34,NA,27,25,90,0.022,0,0,0,5,0,0,14,1,NA,34,0,0
-TCU Horned Frogs,2022,33, Riley Weigelt,"Weigelt, Riley",Weigelt, Riley,Fr,L/DS,0,0,13,0,13,28,NA,0,0,0,0,1,0,5,23,2,0,0,0,NA,0,0,0
 TCU Horned Frogs,2022,4, Sarah Sylvester,"Sylvester, Sarah",Sylvester, Sarah,Fr,MB,0,0,13,6,13,35,NA,39,11,83,0.337,1,0,4,4,0,6,34,1,NA,62,0,0
-TCU Horned Frogs,2022,1, Zoe Hall,"Hall, Zoe",Hall, Zoe,So,MB,6,2,13,11,13,48,NA,81,46,225,0.156,3,0,4,20,0,5,34,1,NA,103,0,0
 TCU Horned Frogs,2022,14, McKenzie Nichols,"Nichols, McKenzie",Nichols, McKenzie,Sr,S,5,10,12,1,12,43,NA,1,3,7,-0.286,101,7,25,84,1,0,0,0,NA,8,3,0
 TCU Horned Frogs,2022,6, Taylor Raiola,"Raiola, Taylor",Raiola, Taylor,Jr,OH,6,0,6,4,6,19,NA,14,11,43,0.07,2,3,3,31,2,0,5,0,NA,19.5,0,0
-TCU Horned Frogs,2022,23, Gabi Maas,"Maas, Gabi",Maas, Gabi,Fr,L/DS,0,0,5,0,5,14,NA,0,0,0,0,2,2,5,15,0,0,0,0,NA,2,0,0
 TCU Horned Frogs,2022,35, Cecily Bramschreiber,"Bramschreiber, Cecily",Bramschreiber, Cecily,So,L/DS,5,9,5,5,5,18,NA,55,29,162,0.16,12,2,5,37,5,0,3,2,NA,58.5,0,0
+TCU Horned Frogs,2022,23, Gabi Maas,"Maas, Gabi",Maas, Gabi,Fr,L/DS,0,0,5,0,5,14,NA,0,0,0,0,2,2,5,15,0,0,0,0,NA,2,0,0
 TCU Horned Frogs,2022,7, Lyric Stewart,"Stewart, Lyric",Stewart, Lyric,So,OH,0,0,4,0,4,5,NA,1,0,1,1,0,0,2,0,0,0,0,0,NA,1,0,0
 TCU Horned Frogs,2022,2, Carlee Pharris,"Pharris, Carlee",Pharris, Carlee,Fr,S,5,11,1,0,1,1,NA,0,0,0,0,0,0,0,0,0,0,0,0,NA,0,0,0
 Tarleton St. Texans,2022,6, Megan Hodges,"Hodges, Megan",Hodges, Megan,Fr,S,5,8,22,22,22,81,NA,9,4,52,0.096,551,22,26,150,0,1,4,1,NA,34,7,0
