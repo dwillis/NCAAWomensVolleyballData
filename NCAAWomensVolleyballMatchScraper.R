@@ -28,6 +28,11 @@ for (i in urls){
   
   joinedmatches <- inner_join(teamside, opponentside, by = c("date", "team", "opponent", "result", "team_score", "opponent_score", "s"))
   
+  joinedmatches <- joinedmatches %>% mutate(result = case_when(
+    team_score > opponent_score ~ 'W',
+    team_score < opponent_score ~ 'L',
+  ))
+  
   matchstatstibble <- bind_rows(matchstatstibble, joinedmatches)
   
   message <- paste0("Adding ", schoolfull)

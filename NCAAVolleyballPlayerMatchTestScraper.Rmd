@@ -10,11 +10,11 @@ library(janitor)
 ```
 
 ```{r}
-#urls <- read_csv("url_csvs/NCAA Volleyball - 2021.csv") %>% pull(1)
-urls <- c("http://stats.ncaa.org/teams/523117", "http://stats.ncaa.org/teams/522809")
+urls <- read_csv("url_csvs/NCAA Volleyball - 2022.csv") %>% pull(1)
+#urls <- c("http://stats.ncaa.org/teams/523117", "http://stats.ncaa.org/teams/522809")
 
 root_url <- "https://stats.ncaa.org"
-season = "2021"
+season = "2022"
 
 playerurls <- tibble()
 
@@ -46,7 +46,7 @@ playermatchurllist <- paste(root_url, playerstats_url, sep="") %>% read_html() %
   
 playerurls <- bind_rows(playerurls, playermatchurllist)
 
-Sys.sleep(2)
+Sys.sleep(1)
 }
 ```
 
