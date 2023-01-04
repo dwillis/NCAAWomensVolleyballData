@@ -40,7 +40,8 @@ playerstatstibble <- tibble(
   total_blocks = numeric(),
   pts = numeric(),
   bhe = numeric(),
-  trpl_dbl = numeric()
+  trpl_dbl = numeric(),
+  srv_att = numeric()
 )
 
 playerstatsfilename <- paste0("data/ncaa_womens_volleyball_playerstats_", season, ".csv")
