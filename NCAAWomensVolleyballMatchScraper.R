@@ -6,15 +6,18 @@ library(janitor)
 urls <- read_csv("url_csvs/ncaa_womens_volleyball_teamurls_2023.csv") %>% pull(3)
 
 root_url <- "https://stats.ncaa.org"
-season = "2023"
+season <- "2023"
 
-matchstatstibble = tibble()
+matchstatstibble <- tibble()
 
 matchstatsfilename <- paste0("data/ncaa_womens_volleyball_matchstats_", season, ".csv")
 
 for (i in urls){
   
   schoolpage <- i %>% read_html()
+  
+  # Extract NCAA ID from URL
+  ncaa_id <- str_extract(i, "(?<=org_id=)\\d+")
   
   schoolfull <- schoolpage %>% html_nodes(xpath = '//*[@id="contentarea"]/fieldset[1]/legend/a[1]') %>% html_text()
   
@@ -24,7 +27,7 @@ for (i in urls){
   
   teamside <- matches %>% filter(opponent_info != "Defensive Totals") %>% select(-opponent_info)
   
-  opponentside <- matches %>% filter(opponent_info == "Defensive Totals") %>% select(-opponent_info) %>% select(-home_away) %>% rename_with(.cols = 8:23, function(x){paste0("defensive_", x)})
+  opponentside <- matches %>% filter(opponent_info == "Defensive Totals") %>% select(-opponent_info) %>% select(-home_away) %>% rename_with(.cols = 8:22, function(x){paste0("defensive_", x)})
   
   joinedmatches <- inner_join(teamside, opponentside, by = c("date", "team", "opponent", "result", "team_score", "opponent_score", "s"))
   
@@ -32,6 +35,11 @@ for (i in urls){
     team_score > opponent_score ~ 'W',
     team_score < opponent_score ~ 'L',
   ))
+  
+  # Add ncaa_id column before team column
+  joinedmatches <- joinedmatches %>% 
+    mutate(ncaa_id = ncaa_id) %>%
+    select(ncaa_id, everything())
   
   matchstatstibble <- bind_rows(matchstatstibble, joinedmatches)
   
