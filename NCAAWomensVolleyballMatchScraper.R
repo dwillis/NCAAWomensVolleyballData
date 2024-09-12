@@ -3,10 +3,10 @@ library(lubridate)
 library(rvest)
 library(janitor)
 
-urls <- read_csv("url_csvs/ncaa_womens_volleyball_teamurls_2023.csv") %>% pull(3)
+urls <- read_csv("url_csvs/ncaa_womens_volleyball_teamurls_2024.csv") %>% pull(3)
 
 root_url <- "https://stats.ncaa.org"
-season <- "2023"
+season <- "2024"
 
 matchstatstibble <- tibble()
 
@@ -19,7 +19,9 @@ for (i in urls){
   # Extract NCAA ID from URL
   ncaa_id <- str_extract(i, "(?<=org_id=)\\d+")
   
-  schoolfull <- schoolpage %>% html_nodes(xpath = '//*[@id="contentarea"]/fieldset[1]/legend/a[1]') %>% html_text()
+  schoolfull <- schoolpage |> html_nodes(xpath = '/html/body/div[2]/div/div/div/div/div/div[1]/a') |> html_text()
+  
+#  schoolfull <- schoolpage %>% html_nodes(xpath = '//*[@id="contentarea"]/fieldset[1]/legend/a[1]') %>% html_text()
   
   matches <- schoolpage %>% html_nodes(xpath = '//*[@id="game_breakdown_div"]/table') %>% html_table(fill=TRUE)
   
