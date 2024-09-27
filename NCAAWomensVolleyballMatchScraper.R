@@ -3,7 +3,7 @@ library(lubridate)
 library(rvest)
 library(janitor)
 
-urls <- read_csv("url_csvs/ncaa_womens_volleyball_teamurls_2024.csv") %>% pull(3)
+teams <- read_csv("url_csvs/ncaa_womens_volleyball_teamurls_2024.csv")
 
 root_url <- "https://stats.ncaa.org"
 season <- "2024"
@@ -12,16 +12,13 @@ matchstatstibble <- tibble()
 
 matchstatsfilename <- paste0("data/ncaa_womens_volleyball_matchstats_", season, ".csv")
 
-for (i in urls){
+for (i in seq_len(nrow(teams))){
   
-  schoolpage <- i %>% read_html()
-  
-  # Extract NCAA ID from URL
-  ncaa_id <- str_extract(i, "(?<=org_id=)\\d+")
-  
-  schoolfull <- schoolpage |> html_nodes(xpath = '/html/body/div[2]/div/div/div/div/div/div[1]/a') |> html_text()
-  
-#  schoolfull <- schoolpage %>% html_nodes(xpath = '//*[@id="contentarea"]/fieldset[1]/legend/a[1]') %>% html_text()
+  schoolfull <- teams$school[i]
+  schoolpage <- teams$matchstatsurl[i] %>% read_html()
+
+    # Extract NCAA ID from URL
+  ncaa_id <- str_extract(teams$matchstatsurl[i], "(?<=org_id=)\\d+")
   
   matches <- schoolpage %>% html_nodes(xpath = '//*[@id="game_breakdown_div"]/table') %>% html_table(fill=TRUE)
   
@@ -49,7 +46,7 @@ for (i in urls){
   
   print(message)
   
-  Sys.sleep(1)
+  Sys.sleep(2)
 }
 
 write_csv(matchstatstibble, matchstatsfilename)
