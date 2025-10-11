@@ -28,7 +28,7 @@ for (i in seq_len(nrow(teams))){
   
   opponentside <- matches %>% filter(opponent_info == "Defensive Totals") %>% select(-opponent_info) %>% select(-home_away) %>% rename_with(.cols = 8:21, function(x){paste0("defensive_", x)})
   
-  joinedmatches <- inner_join(teamside, opponentside, by = c("date", "team", "opponent", "result", "team_score", "opponent_score"))
+  joinedmatches <- inner_join(teamside, opponentside, by = c("date", "team", "opponent", "result", "team_score", "opponent_score", "s", "bhe"))
   
   joinedmatches <- joinedmatches %>% mutate(result = case_when(
     team_score > opponent_score ~ 'W',
