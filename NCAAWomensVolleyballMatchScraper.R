@@ -3,10 +3,10 @@ library(lubridate)
 library(rvest)
 library(janitor)
 
-teams <- read_csv("url_csvs/ncaa_womens_volleyball_teamurls_2024.csv")
+teams <- read_csv("url_csvs/ncaa_womens_volleyball_teamurls_2025.csv")
 
 root_url <- "https://stats.ncaa.org"
-season <- "2024"
+season <- "2025"
 
 matchstatstibble <- tibble()
 
